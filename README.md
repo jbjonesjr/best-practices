@@ -1,6 +1,6 @@
 # VA Software Open-Source Best Practices
 
-The starting point and centerpiece is software source control and collaboration.
+The centerpiece is a single, authoritative source code repository with source control and collaboration.
 
 * Source Control: Github
 * Collaboration:  See Githb Integrations:  https://github.com/integrations
