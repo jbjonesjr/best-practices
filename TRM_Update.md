@@ -11,33 +11,37 @@
 
 ### TRM Software Change and Configuration Management Tools
 
-Apache Subversion
-Apache Zookeeper
-Bitbucket Server
-CA Agile Central
-CVS
-Dimensions CM
-eGit
-Git
-GitHub Desktop
-Github Enterprise
-GitLab
-GitLab Enterprise Edition (EE)
-JIRA
-JIRA Agile
-MantisBT
-Nexus
-Perforce
-Rational ClearCase with MultiSite
-Rational ClearQuest with MultiSite
-Salt
-SourceTree
-Team Foundation Server (TFS)
-TortoiseGIT
-Trac
-TrackWare
-VersionOne
-Visual SourceSafe (VSS)
+
+* http://www.va.gov/TRM/searchpage.asp?catId=46&catname=Software%20Change%20and%20Configuration%20Management%20Tools
+
+
+* Apache Subversion
+* Apache Zookeeper
+* Bitbucket Server
+* CA Agile Central
+* CVS
+* Dimensions CM
+* eGit
+* Git
+* GitHub Desktop
+* Github Enterprise
+* GitLab
+* GitLab Enterprise Edition (EE)
+* JIRA
+* JIRA Agile
+* MantisBT
+* Nexus
+* Perforce
+* Rational ClearCase with MultiSite
+* Rational ClearQuest with MultiSite
+* Salt
+* SourceTree
+* Team Foundation Server (TFS)
+* TortoiseGIT
+* Trac
+* TrackWare
+* VersionOne
+* Visual SourceSafe (VSS)
 
 
 Name	|	Vendor	|	Decision Date	|	Link
@@ -69,7 +73,7 @@ Salt	|	SaltStack	|	6/28/16 0:00	|
 Dimensions CM	|	Serena Software	|	4/7/16 0:00	|	
 Nexus	|	SonaType	|	5/17/16 0:00	|	
 CVS	|	SourceForge	|	4/11/13 0:00	|	
-TortoiseSVN	|	Stefan K´è__ng Open Source Tools	|	2/29/16 0:00	|	
+TortoiseSVN	| Open Source Tools	|	2/29/16 0:00	|	
 Supermicro Update Manager (SUM)	|	Super Micro	|	7/1/16 0:00	|	
 
 
