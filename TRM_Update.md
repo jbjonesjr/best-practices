@@ -10,10 +10,7 @@
 
 
 ### TRM Software Change and Configuration Management Tools
-
-
 * http://www.va.gov/TRM/searchpage.asp?catId=46&catname=Software%20Change%20and%20Configuration%20Management%20Tools
-
 
 * Apache Subversion
 * Apache Zookeeper
@@ -43,39 +40,35 @@
 * VersionOne
 * Visual SourceSafe (VSS)
 
-
-Name	|	Vendor	|	Decision Date	|	Link
----|---|---|---
-Apache Subversion	|	Apache	|	5/31/15 0:00	|	
-Archiva	|	Apache.org	|	9/30/14 0:00	|	
-Apache Zookeeper	|	ASF	|	5/12/16 0:00	|	
-Fisheye	|	Atlassian Software Systems	|	1/31/16 0:00	|	
-Endevor Software Change Manager (SCM)	|	CA Technologies	|	4/8/16 0:00	|	
-Endevor Quick Edit	|	CA Technologies	|	4/8/16 0:00	|	
-CA Agile Central	|	CA Technologies	|	2/29/16 0:00	|	
-eGit	|	Eclipse	|	4/7/16 0:00	|	
-Github Enterprise	|	Github	|	4/26/16 0:00	|	
-GitHub Desktop	|	Github	|	4/7/16 0:00	|	
-GitLab	|	GitLab Inc.	|	5/4/16 0:00	|	
-GitLab Enterprise Edition (EE)	|	GitLab Inc.	|	4/8/16 0:00	|	
-Git	|	HealthData	|	4/7/16 0:00	|	
-Rational ClearQuest with MultiSite	|	IBM	|	6/8/16 0:00	|	
-Rational ClearCase with MultiSite	|	IBM	|	6/8/16 0:00	|	
-Rational Team Concert (RTC)	|	IBM	|	2/24/16 0:00	|	
-Rational Publishing Engine	|	IBM	|	9/30/13	|	
-CRT-71	|	IBM	|	3/29/12 0:00	|	
-MetaHelper	|	J Beverly	|	2/28/14 0:00	|	
-Team Foundation Server (TFS)	|	Microsoft	|	6/29/16 0:00	|	
-Microsoft BitLocker Administration and Monitoring (MBAM)	|	Microsoft	|	6/29/16 0:00	|	
-Visual SourceSafe (VSS)	|	Microsoft	|	9/30/14 0:00	|	
-Perforce	|	Perforce Software	|	2/28/14 0:00	|	
-Salt	|	SaltStack	|	6/28/16 0:00	|	
-Dimensions CM	|	Serena Software	|	4/7/16 0:00	|	
-Nexus	|	SonaType	|	5/17/16 0:00	|	
-CVS	|	SourceForge	|	4/11/13 0:00	|	
-TortoiseSVN	| Open Source Tools	|	2/29/16 0:00	|	
-Supermicro Update Manager (SUM)	|	Super Micro	|	7/1/16 0:00	|	
-
+TRM Name	|	OS	|	Type	|	Decision	|	TRM Link	|	Analysis
+--- | --- | --- | --- | --- | --- 
+Apache Subversion	|	Y	|	SVCS	|	P	|	http://www.va.gov/TRM/ToolPage.asp?tid=6573	|	An enterprise license has already been acquired for a comparable technology.
+Apache Zookeeper	|	Y	|	Config	|	AwC	|	http://www.va.gov/TRM/ToolPage.asp?tid=9590	|	
+Archiva	|	Y	|	Repository	|	P	|	http://www.va.gov/TRM/ToolPage.asp?tid=7727	|	
+CA Agile Central	|	?	|	PM	|	AwC	|	http://www.va.gov/TRM/ToolPage.asp?tid=9201	|	Enterprise licenses have already been acquired for comparable technologies.
+CVS	|	Y	|	SVCS	|	P	|	http://www.va.gov/TRM/ToolPage.asp?tid=194	|	CVS does not support atomic commits of changes to versioned objects.
+Dimensions CM	|	N	|	??	|	U	|	http://www.va.gov/TRM/ToolPage.asp?tid=5136	|	The technology is proprietary and may lead to vendor lock-in.
+eGit	|	Y	|	DVCS	|	U	|	http://www.va.gov/TRM/ToolPage.asp?tid=6395	|	plugin of the Git  for the Eclipse IDE
+Endevor Quick Edit	|	N	|	??	|	AwC	|	http://www.va.gov/TRM/ToolPage.asp?tid=9480	|	This technology is only compatible with the z/OS mainframe and is not portable.
+Endevor Software Change Manager (SCM)	|	N	|	??	|	AwC	|	http://www.va.gov/TRM/ToolPage.asp?tid=9481	|	This technology is only compatible with the z/OS mainframe and is not portable.
+Fisheye	|	N	|	??	|	U	|	http://www.va.gov/TRM/ToolPage.asp?tid=6541	|	enables developers to browse and search software source code
+Git	|	Y	|	DVCS	|	U	|	http://www.va.gov/TRM/ToolPage.asp?tid=6396	|	An enterprise license has already been acquired for a comparable technology.
+GitHub Desktop	|	Y	|	DVCS	|	U	|	http://www.va.gov/TRM/ToolPage.asp?tid=9452	|	An enterprise license has already been acquired for a comparable technology.
+Github Enterprise	|	Y	|	DVCS	|	U	|	http://www.va.gov/TRM/ToolPage.asp?tid=9533	|	An enterprise license has already been acquired for a comparable technology.
+GitLab	|	Y	|	DVCS	|	U	|	http://www.va.gov/TRM/ToolPage.asp?tid=9580	|	An enterprise license has already been acquired for a comparable technology.
+GitLab Enterprise Edition (EE)	|	Y	|	DVCS	|	U	|	http://www.va.gov/TRM/ToolPage.asp?tid=9463	|	An enterprise license has already been acquired for a comparable technology.
+MetaHelper	|	N	|	Config	|	P	|	http://www.va.gov/TRM/ToolPage.asp?tid=5120#	|	manages the addition, subtraction, and merging of system configuration change-sets
+Microsoft BitLocker Administration and Monitoring (MBAM)	|	N	|	security	|	AwC	|	http://www.va.gov/TRM/ToolPage.asp?tid=8873	|	simplified administrative interface for BitLocker Drive Encryption
+Nexus	|	Y	|	Repository	|	AwC	|	http://www.va.gov/TRM/ToolPage.asp?tid=6411	|	An enterprise license has already been acquired for a comparable technology.
+Perforce	|	N	|	RCS	|	P	|	http://www.va.gov/TRM/ToolPage.asp?tid=268	|	Rational ClearCase with Multisite and Rational Team Concert are the approved technologies for software configuration management.
+Rational ClearCase with MultiSite	|	N	|	Config	|	AwC	|	http://www.va.gov/TRM/ToolPage.asp?tid=39	|	Rational ClearCase is being deprecated in favor of Rational Team Concert
+Rational Publishing Engine	|	N	|	Doc Gen	|	A	|	http://www.va.gov/TRM/ToolPage.asp?tid=6284	|	automates the generation of documents in different formats (PDF, HTML, Word)
+Rational Team Concert (RTC)	|	N	|	Dev	|	AwC	|	http://www.va.gov/TRM/ToolPage.asp?tid=5085	|	software development/delivery environment based on IBM Jazz platform
+Salt	|	N	|	Config	|	U	|	http://www.va.gov/TRM/ToolPage.asp?tid=9466	|	configuration management system, that maintains remote nodes in defined states
+Supermicro Update Manager (SUM)	|	Y	|	OS Tool	|	AwC	|	http://www.va.gov/TRM/ToolPage.asp?tid=9172	|	allows users to make local or remote edits to the BIOS and BMC/IPMI firmware
+Team Foundation Server (TFS)	|	N	|	Dev	|	AwC	|	http://www.va.gov/TRM/ToolPage.asp?tid=5668	|	Microsoft source control, data collection, reporting, and project tracking
+Tortoise SVN	|	Y	|	RCS	|	AwC	|	http://www.va.gov/TRM/ToolPage.asp?tid=6678	|	Apache Subversion (SVN) client, implemented as a Microsoft Windows shell extension
+Visual SourceSafe (VSS)	|	N	|	RCS	|	P	|	http://www.va.gov/TRM/ToolPage.asp?tid=5669	|	Micrsoft file-level version control system
 
 
 ### TRM Project Management Tools:
