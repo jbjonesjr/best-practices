@@ -40,38 +40,37 @@ VersionOne
 Visual SourceSafe (VSS)
 
 
-Name	| Vendor	| Decision Date
---- | --- | ---
-Apache Subversion	| Apache	| 5/31/15
-Archiva	| Apache.org	| 9/30/14
-Apache Zookeeper	| ASF	| 5/12/16
-Fisheye	Atlassian | Software Systems	| 1/31/16 18:37
-Endevor Software Change Manager (SCM) CA Technologies	4/8/16 19:27
-Endevor Quick Edit	CA Technologies	4/8/16 19:27
-CA Agile Central	CA Technologies	2/29/16 20:14
-eGit	Eclipse	4/7/16 15:21
-Github Enterprise	Github	4/26/16 13:36
-GitHub Desktop	Github	4/7/16 15:21
-GitLab	GitLab Inc.	5/4/16 8:55
-GitLab Enterprise Edition (EE)	GitLab Inc.	4/8/16 10:40
-Git	HealthData	4/7/16 5:46
-Rational ClearQuest with MultiSite	IBM	6/8/16 11:11
-Rational ClearCase with MultiSite	IBM	6/8/16 11:11
-Rational Team Concert (RTC)	IBM	2/24/16 14:55
-Rational Publishing Engine	IBM	9/30/13
-CRT-71	IBM	3/29/12 13:33
-MetaHelper	J Beverly	2/28/14 19:22
-Team Foundation Server (TFS)	Microsoft	6/29/16 14:44
-Microsoft BitLocker Administration and Monitoring (MBAM)	Microsoft	6/29/16 14:43
-Visual SourceSafe (VSS)	Microsoft	9/30/14 6:16
-Perforce	Perforce Software	2/28/14 19:15
-Salt	SaltStack	6/28/16 6:19
-Dimensions CM	Serena Software	4/7/16 15:20
-Nexus	SonaType	5/17/16 8:56
-CVS	SourceForge	4/11/13 23:29
-TortoiseSVN	Stefan K•À__ng Open Source Tools	2/29/16 18:54
-Supermicro Update Manager (SUM)	Super Micro	7/1/16 6:02
-
+Name	|	Vendor	|	Decision Date	|	Link
+---|---|---|---
+Apache Subversion	|	Apache	|	5/31/15 0:00	|	
+Archiva	|	Apache.org	|	9/30/14 0:00	|	
+Apache Zookeeper	|	ASF	|	5/12/16 0:00	|	
+Fisheye	|	Atlassian Software Systems	|	1/31/16 0:00	|	
+Endevor Software Change Manager (SCM)	|	CA Technologies	|	4/8/16 0:00	|	
+Endevor Quick Edit	|	CA Technologies	|	4/8/16 0:00	|	
+CA Agile Central	|	CA Technologies	|	2/29/16 0:00	|	
+eGit	|	Eclipse	|	4/7/16 0:00	|	
+Github Enterprise	|	Github	|	4/26/16 0:00	|	
+GitHub Desktop	|	Github	|	4/7/16 0:00	|	
+GitLab	|	GitLab Inc.	|	5/4/16 0:00	|	
+GitLab Enterprise Edition (EE)	|	GitLab Inc.	|	4/8/16 0:00	|	
+Git	|	HealthData	|	4/7/16 0:00	|	
+Rational ClearQuest with MultiSite	|	IBM	|	6/8/16 0:00	|	
+Rational ClearCase with MultiSite	|	IBM	|	6/8/16 0:00	|	
+Rational Team Concert (RTC)	|	IBM	|	2/24/16 0:00	|	
+Rational Publishing Engine	|	IBM	|	9/30/13	|	
+CRT-71	|	IBM	|	3/29/12 0:00	|	
+MetaHelper	|	J Beverly	|	2/28/14 0:00	|	
+Team Foundation Server (TFS)	|	Microsoft	|	6/29/16 0:00	|	
+Microsoft BitLocker Administration and Monitoring (MBAM)	|	Microsoft	|	6/29/16 0:00	|	
+Visual SourceSafe (VSS)	|	Microsoft	|	9/30/14 0:00	|	
+Perforce	|	Perforce Software	|	2/28/14 0:00	|	
+Salt	|	SaltStack	|	6/28/16 0:00	|	
+Dimensions CM	|	Serena Software	|	4/7/16 0:00	|	
+Nexus	|	SonaType	|	5/17/16 0:00	|	
+CVS	|	SourceForge	|	4/11/13 0:00	|	
+TortoiseSVN	|	Stefan K´è__ng Open Source Tools	|	2/29/16 0:00	|	
+Supermicro Update Manager (SUM)	|	Super Micro	|	7/1/16 0:00	|	
 
 
 
