@@ -1,19 +1,19 @@
-#### TRM Update Required
-* Access requires VA Intranet (Citrix)
+#### TRM Update Request
 * http://trm.oit.va.gov/TRMRequestForm.asp
-* => May attach files (Word Excel PP  PDF) - max 7Mb
+* Access requires VA Intranet (Citrix)
+* May attach files (Word Excel PP  PDF) - max 7Mb
 
 
 #### TRM Categorization Framework:
 * http://www.va.gov/TRM/CategorizationHelpPage.asp
-* => Does not include Source Code Control Tools as a category, only
+* Does not include Source Code Version Control as a category
 
 
-### TRM Software Change and Configuration Management Tools
-* http://www.va.gov/TRM/searchpage.asp?catId=46&catname=Software%20Change%20and%20Configuration%20Management%20Tools
+# TRM Software Change and Configuration Management Tools
 
+Link:   http://www.va.gov/TRM/searchpage.asp?catId=46&catname=Software%20Change%20and%20Configuration%20Management%20Tools
 
-TRM Name	|	FOSS	|	Purpose	|	Approval	|	TRM TID	|	Analysis	|	TRM Link
+TRM Name	|	FOSS	|	Purpose	|	Decision	|	TRM TID	|	Analysis	|	TRM Link
 ---	|	---	|	---	|	---	|	---	|	---	|	---
 Apache Subversion	|	Y	|	SVCS	|	P	|	6573	|	An enterprise license has already been acquired for a comparable technology.	|	http://www.va.gov/TRM/ToolPage.asp?tid=6573
 Apache Zookeeper	|	Y	|	Config	|	AwC	|	9590	|		|	http://www.va.gov/TRM/ToolPage.asp?tid=9590
@@ -44,11 +44,20 @@ Tortoise SVN	|	Y	|	RCS	|	AwC	|	6678	|	Apache Subversion (SVN) client, implemente
 Visual SourceSafe (VSS)	|	N	|	RCS	|	P	|	5669	|	Microsoft  file-level version control	|	http://www.va.gov/TRM/ToolPage.asp?tid=5669
 
 
+## Decisions
+
+Decision	|	Description
+---	|	---
+A	|	Approved
+AwC	|	Approved with Constraints
+D	|	Divest
+U	|	Unapproved
+P	|	Prohibited
 
 
-## Abbreviations
+## Functionality
 
-Abbreviation	|	Description
+Purpose	|	Description
 ---	|	---
 Dev	|	software development platform
 RCS	|	revision control system
@@ -57,13 +66,11 @@ SVCS	|	software version control system
 Config	|	configuration information manager
 Repository	|	Non-source code control repository
 PM	|	Project Management
-U	|	Unapproved
-P	|	Prohibited
-A	|	Approved
-AwC	|	Approved with Constraints
 z/OS	|	z/OS is a 64-bit operating system for IBM mainframe computers.
 Git	|	open source distributed version control and source code management system
 VIP policy	|	This product is no longer approved for information technology (IT) projects that are or will be mandated to follow standardized processes and tools governing IT activity critical to VA`s implementation of the Veteran-focused Integration Process (VIP). Projects to be governed by VIP are required to transition to the standardized tools by October 1, 2016. Please refer to the CIO memo dated January 4, 2016 that mandated specific criteria for being designated as VIP projects and the accompanying January 19, 2016 memo regarding OI&T project management and software/systems development standardized tools and repositories (see Reference tab).
+
+
 
 
 

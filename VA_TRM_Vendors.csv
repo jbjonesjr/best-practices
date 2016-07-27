@@ -1,0 +1,1922 @@
+Vendor ID,Vendor,Count
+---,---,---
+1071,Microsoft ,1065
+739,IBM ,841
+749,IETF ,713
+1269,Oracle ,561
+38,Adobe ,435
+144,ASF ,383
+1828,W3C ,265
+826,ISO ,237
+267,CA Technologies ,212
+170,"Autodesk, Inc. ",204
+831,ITU ,197
+318,Cisco ,189
+1186,NIST ,165
+728,HP ,163
+811,InterSystems ,154
+1819,VMware ,153
+1484,SAS ,142
+1411,Red Hat ,141
+125,Apple ,134
+1124,N/A,127
+1209,Nuance ,118
+719,HL7 ,115
+427,Dell ,109
+428,Dell Software ,92
+320,Citrix ,90
+475,"Document Storage Systems, Inc (DSS) ",89
+143,ASCX12 ,86
+236,BMC Software ,81
+667,Google ,81
+1535,Sindre Sorhus ,81
+751,IHE ,80
+942,KWizCom ,78
+1217,OASIS ,75
+1322,Philips ,75
+509,Eclipse ,70
+1287,"PAR, Inc. ",70
+701,HealthData ,69
+1028,McAfee ,69
+1589,SpringSource ,69
+536,EMC ,68
+1302,Pearson ,67
+1560,SolarWinds ,67
+1141,NCH Software ,64
+176,Avaya ,63
+601,"Feith Systems and Software, Inc. ",61
+5,3M ,60
+151,ASTM ,59
+1062,Micro Focus ,58
+199,BD ,54
+1635,Symantec ,53
+746,Idera ,52
+514,"EFI (Electronics For Imaging, Inc) ",50
+1238,OMG ,49
+1205,"npm, Inc. ",47
+1154,NetApp ,46
+634,Fujitsu ,45
+743,Ideagen ,45
+79,Altova ,44
+1336,Pivotal ,43
+748,IEEE ,42
+818,Ipswitch ,42
+1158,NetIQ ,42
+774,Informatica ,41
+1789,Verint ,40
+138,"Articulate Global, Inc. ",39
+319,"Cisco Systems, INC ",38
+1648,Tableau Software ,38
+1702,TIBCO ,37
+496,Drupal ,36
+583,Express.js ,35
+824,isaacs ,35
+1659,TechSmith ,35
+1088,MIT (Mass. Inst. Tech.) ,34
+1180,NICE Systems ,34
+1249,Open Geospatial Consortium ,34
+1344,Plexis Healthcare Systems ,34
+332,CMS ,33
+1544,SmartBear Software ,33
+1662,Telerik ,33
+1148,NEC ,32
+1282,Palisade ,31
+1482,SAP ,31
+1576,SourceForge ,31
+324,CLEO ,30
+1030,McKesson ,30
+1152,Neopost ,30
+511,ECMA ,29
+612,Flexera Software ,29
+276,Canon ,28
+456,Digital Juice ,28
+567,Esri ,28
+103,ANSI ,27
+180,Avid ,27
+857,JasperSoft ,27
+1335,Pitney Bowes ,27
+1632,Super Micro ,27
+1790,Veritas ,27
+200,BDNA Corporation ,26
+616,Fluke ,26
+1433,Riverbed ,26
+1748,"UNICOM Systems, Inc. ",26
+515,eGain ,25
+1416,REMS Software ,25
+1443,"Rochester Software Associates, Inc. ",25
+1503,SDM Software ,25
+1863,Wikimedia Foundation ,25
+53,Airwatch ,24
+136,Arnout Kazemier ,24
+357,Compuware ,24
+712,Hewlett Packard Enterprise ,24
+814,Intuit ,24
+894,jshttp ,24
+1140,Natus Medical Inc. ,24
+116,APC ,23
+218,Bio-Optronics ,23
+627,Freedom Scientific ,23
+1156,NetCentric Technologies ,23
+1876,"Wolters Kluwer Financial Services, Inc. ",23
+30,ActiveState ,22
+69,Alfresco ,22
+371,Corel ,22
+554,EPA ,22
+727,Howard Medical ,22
+838,Jack Henry & Associates ,22
+901,Juniper Networks ,22
+927,Kitware ,22
+1373,Psychological Assessment Resources ,22
+2,1E ,21
+147,Aspose ,21
+534,Embarcadero Technologies ,21
+1224,Observational Health Data Sciences & Informatics (OHDSI) ,21
+1261,OpenText ,21
+1670,Terracotta ,21
+1776,Vanderbilt University ,21
+1818,VMturbo ,21
+101,Angular UI Team ,20
+870,Jeremy Ashkenas ,20
+903,Just Great Software ,20
+960,Lexmark ,20
+1037,MediaWiki ,20
+1041,Medicity ,20
+1612,Stefan Küng Open Source Tools ,20
+1848,Welch Allyn ,20
+118,Apelon ,19
+166,Attachmate ,19
+764,IMPLBITS ,19
+776,Information Builders ,19
+931,Kofax ,19
+944,Laerdal ,19
+45,AGFA HealthCare ,18
+487,Doug Wilson ,18
+633,FTR Limited ,18
+640,GE Healthcare ,18
+676,Greens Publishing ,18
+747,"IDM Computer Solutions, Inc. ",18
+847,James Halliday ,18
+1083,Minitab Inc. ,18
+1089,MITRE ,18
+1483,Sapien Technologies Inc. ,18
+1498,"Scientific Software International, Inc ",18
+1703,Tigris.org ,18
+1773,VA OIT Product Development ,18
+80,AMA ,17
+193,Bamboo Solutions ,17
+381,CruiseControl development team ,17
+402,Dassault Systemes SolidWorks Corp ,17
+409,Datawatch ,17
+658,Given Imaging ,17
+692,hapijs ,17
+1082,Mindware Technologies LTD ,17
+1113,Multi-Health Systems Inc. ,17
+1125,Nagios Enterprises ,17
+1409,Red Egg Software ,17
+1698,Thomson Reuters ,17
+89,American TeleCare ,16
+204,Ben Alman ,16
+404,"Data Innovations, LLC ",16
+512,Edge Technologies ,16
+524,Elastic ,16
+538,Emerging Soft ,16
+604,Fidelity National Information Services ,16
+717,HIMSA ,16
+756,ImageWare Systems ,16
+821,iRise ,16
+873,JetBrains ,16
+951,LEAD Technologies ,16
+987,Lumension ,16
+1004,Marionette ,16
+1054,"Mesa Monitoring, Inc. ",16
+1142,NCI ,16
+1168,"Neverfail, Inc. ",16
+1368,ProQuest LLC ,16
+1529,Siemens Hearing Instruments ,16
+1713,TOPCON ,16
+1757,Unity Technologies ,16
+1768,UPS ,16
+56,AKCode LLC ,15
+149,AssureTec ,15
+397,DameWare (part of SolarWinds) ,15
+503,DYMO Endicia ,15
+723,Honeywell ,15
+854,Jason Huggins ,15
+875,Jive Software ,15
+1046,Medtronic MiniMed ,15
+1052,Merge Healthcare Incorporated ,15
+1235,Olympus ,15
+1255,Open SSL Software Foundation ,15
+1277,OWASP ,15
+1361,Primus ,15
+1379,Python Software Foundation ,15
+1400,RARLAB ,15
+1413,RedPoint ,15
+1442,Roche Diagnostics ,15
+1504,"Sea Island Software, Inc. ",15
+1586,Splunk ,15
+1695,Thermo Fisher Scientific Inc. ,15
+1707,TJ Holowaychuk ,15
+1777,VanDyke Software ,15
+1781,"Vecna Technologies, Inc ",15
+1856,"WhiteCanyon Software, Inc. ",15
+1908,Zebra Technologies ,15
+20,Accusoft ,14
+23,ACL Services Ltd. ,14
+24,Acqueon Technologies Inc. ,14
+133,ArcSoft ,14
+167,Attunity ,14
+220,Bio-Rad Laboratories ,14
+223,Biscom ,14
+240,Bosch Healthcare ,14
+281,Caradigm ,14
+292,CDC ,14
+435,Dentsply Implants ,14
+447,DF/Net Research Inc. ,14
+450,Dialog Medical ,14
+528,Elliott Data Systems ,14
+614,"FLIR Systems, Inc. ",14
+659,Global Med ,14
+800,Intelligent InSites ,14
+859,Java Community Process ,14
+868,Jenkins ,14
+971,LiveScribe ,14
+976,Logicare ,14
+989,Luminator Technology Group ,14
+1081,Mindjet ,14
+1139,NaturalSoft Ltd ,14
+1164,Network Instruments ,14
+1204,"npm, Inc ",14
+1388,QSM ,14
+1424,ResMed ,14
+1436,rlidwka ,14
+1543,SMART Technologies ,14
+1547,SMEAD Manufacturing Company ,14
+1587,SPOK ,14
+1740,Turning Technologies ,14
+1920,ZVRS ,14
+19,AccuMed ,13
+44,Agency for Healthcare Research and Quality ,13
+81,AMA NUCC ,13
+113,Apache ,13
+134,"Arcturus Technologies, Inc. ",13
+162,Atlassian Software Systems ,13
+188,Axway ,13
+197,Baxter ,13
+299,Centrify ,13
+339,CodeHaus ,13
+348,CommVault Systems ,13
+379,"Critical Tools, Inc. ",13
+437,Deque Systems ,13
+462,DINO-Software ,13
+474,"Document Storage Systems, Inc ",13
+542,Empirisoft ,13
+595,"FasterXML, LLC. ",13
+648,Genuitec ,13
+675,GRB ,13
+757,"Imagine Products, Inc. ",13
+890,jQuery Foundation ,13
+946,LANDesk Software ,13
+1021,MathWorks ,13
+1034,Medflow ,13
+1234,"Olympic Systems, Inc. ",13
+1239,Omnicell ,13
+1241,"On Site Systems, Inc. ",13
+1248,Open API Initiative ,13
+1285,PaperCut ,13
+1326,Phonak ,13
+1330,PICIS ,13
+1334,Piriform ,13
+1356,Premier Literacy ,13
+1371,Provalis Research ,13
+1378,"Purple Communication, Inc. ",13
+1391,Quality Unit ,13
+1392,Quatrex ,13
+1396,Radiant Logic ,13
+1399,Raize ,13
+1415,Relm ,13
+1428,RFC ,13
+1654,TapeCalc ,13
+1684,The Institute of Electrical and Electronics Engineers ,13
+1712,Topaz Systems ,13
+1730,Trimble ,13
+1816,Vitria ,13
+1829,Wacom ,13
+1859,WHO ,13
+1874,Wireshark.org ,13
+1904,Zabbix SIA ,13
+82,Amazon ,12
+126,AppSense ,12
+178,Avery ,12
+206,Berkshelf Core Team ,12
+213,Bill Pugh ,12
+228,BlackBerry ,12
+275,Camstudio.org ,12
+284,Cardiocom ,12
+285,CareFusion ,12
+403,Dassault Systemes SolidWorks Corp. ,12
+461,Digi-Trax Corporation ,12
+523,Elaborate Bytes AG ,12
+602,Felix Bohm ,12
+609,FIREHOUSE Software ,12
+666,"Good Technology, Inc. ",12
+671,GraphPad Software ,12
+752,IHTSDO ,12
+782,Innovation ,12
+828,"iText Group NV, iText Software Corp., iText Software BVBA ",12
+865,JBoss ,12
+882,Jon Schlinkert ,12
+911,Karma ,12
+929,KnowWare International ,12
+990,M/Gateway Developments Ltd ,12
+999,ManageEngine ,12
+1058,MG-SOFT ,12
+1131,National Institutes of Health - Research Services Branch ,12
+1137,National Uniform Billing Committee ,12
+1181,NIH ,12
+1198,Notable Solutions ,12
+1431,RICOH ,12
+1460,RSMeans ,12
+1502,Scribe Software Corporation ,12
+1537,Sirona Dental Systems ,12
+1552,SnapShot Technologies ,12
+1577,"South River Technologies, Inc. ",12
+1600,Stanford University ,12
+1650,Talend ,12
+1685,The jQuery Foundation ,12
+1736,Trustwave ,12
+1737,TSI Inc. ,12
+1754,United States Postal Service ,12
+1766,Unshiftio ,12
+1862,Wi-Fi Alliance ,12
+72,Allegion ,11
+73,"Allin Cottrell, Wake Forest University ",11
+91,Amion ,11
+131,"Archon Systems, Inc. ",11
+234,Blueforce Development ,11
+254,Broderbund ,11
+392,Cytel ,11
+401,Dashwood Cinema Solutions ,11
+411,DatStat ,11
+495,Draeger Medical Inc. ,11
+646,General Services Administration ,11
+674,Gravograph ,11
+708,Helios Software Solutions ,11
+775,Informatics for Integrating Biology and the Bedside ,11
+790,Insight Software Solutions ,11
+864,Jayway ,11
+878,JODA ,11
+919,Key Metric Software LLC ,11
+959,LexisNexis ,11
+1086,Mirth Corp. ,11
+1101,MongoDB Inc. ,11
+1102,Moodle Pty Ltd ,11
+1144,NCPDP ,11
+1375,PTC ,11
+1410,Red Gate ,11
+1434,Riverside Publishing ,11
+1494,ScheduALL/VizuAll Inc. ,11
+1530,SigmaXL ,11
+1545,SmartDraw Software ,11
+1564,SonarSource ,11
+1594,SQLite ,11
+1633,"SupraVISTA Medical DSS, LLC ",11
+1636,symplr ,11
+1811,Visual Health Information ,11
+1845,webSupergoo ,11
+1902,YesLogic ,11
+14,Abbott Laboratories ,10
+25,Acro Software ,10
+86,American Dynamics ,10
+208,Best Access Systems (Stanley Security Solutions) ,10
+273,Cambridge Electronic Design ,10
+298,CenTrak ,10
+300,Cerner Corporation ,10
+351,ComponentOne ,10
+353,Compumedics Neuroscan ,10
+356,Computrition ,10
+363,Co-Nexus ,10
+367,Continua Health Alliance ,10
+420,Dean Evans & Associates LLC ,10
+439,DESI Telephone Labels ,10
+555,ePadLink ,10
+558,Epson ,10
+571,Evan Tahler ,10
+574,Evernote ,10
+578,ExamSoft ,10
+607,FileOpen Systems ,10
+613,"FlexSim Software Products, Inc. ",10
+617,Fluke Networks ,10
+621,ForgeRock ,10
+662,GN Resound ,10
+682,GroupSystems ,10
+688,GW Micro ,10
+689,"GXS, Inc ",10
+703,HeartMath ,10
+704,Heat Software ,10
+715,HID Global ,10
+741,ICOM ,10
+806,Intermec ,10
+842,JAM Software ,10
+886,Josh Junon ,10
+916,Keith Rarick ,10
+981,L-soft ,10
+1008,Mark Otto ,10
+1110,MSS Software ,10
+1178,NHibernate ,10
+1199,Notepad++.org ,10
+1202,Novo Nordisk ,10
+1222,ObjectWeb Forge ,10
+1275,"Oticon, Inc. ",10
+1308,Pentaho Corporation ,10
+1337,Pivotal Labs ,10
+1340,Planmeca ,10
+1383,QGIS User Group ,10
+1384,QlikTech ,10
+1395,R Foundation for Statistical Computing ,10
+1421,Request ,10
+1429,RhinoSoft ,10
+1437,RMG Networks ,10
+1520,Sharp ,10
+1521,Shaun Purcell ,10
+1542,Smart Company Software ,10
+1572,Sorenson Media ,10
+1573,Sorna ,10
+1584,Spellex Corporation ,10
+1596,SSB Bart Group ,10
+1616,Steve Freeman ,10
+1645,SystemTools Software Inc. ,10
+1658,Technology For Business ,10
+1677,The CentOS Project ,10
+1709,Tobii Technology ,10
+1714,Toshiba ,10
+1827,Vyopta ,10
+1830,Walsh ,10
+1843,Webmin ,10
+1864,Wild Divine ,10
+1883,WS-I ,10
+1885,Wycats ,10
+1900,Yargs ,10
+15,ABBYY ,9
+21,Accutive ,9
+27,ActiGraph Corp. ,9
+51,ai squared ,9
+59,Alere Informatics ,9
+112,APA ,9
+139,"Artifex Software, Inc ",9
+161,ATLAS.ti Scientific Software Development GmbH ,9
+164,Atozed Software ,9
+183,Aware ,9
+260,bullzip.com ,9
+271,Calgary Scientific ,9
+296,"Censis Technologies, Inc. ",9
+358,CompX Security Products ,9
+359,concrete5 ,9
+370,Cooper-Atkins ,9
+380,Cross Match Technologies ,9
+443,DeVilbiss Healthcare LLC ,9
+479,Dolbey ,9
+483,"Domo, Inc. ",9
+505,Earnie Boyd ,9
+516,Egenera ,9
+543,Empirix ,9
+570,Euro Plus ,9
+644,Gene Codes Corporation ,9
+677,Gregory Wild-Smith ,9
+694,harmon.ie ,9
+716,Highsoft ,9
+729,"HPC, Inc. ",9
+772,Infor ,9
+778,"Information Technology Works, Inc. ",9
+789,InQuisient ,9
+796,Intel Security ,9
+893,JSD Software ,9
+908,Kaltura ,9
+936,Krengeltech ,9
+1063,Micro Technology Services ,9
+1116,Muthen & Muthen ,9
+1149,NEMA ,9
+1177,"Nginx, Inc. ",9
+1237,OMB - The White House ,9
+1240,On Hold Marketing ,9
+1274,OSEHRA ,9
+1292,Parker ,9
+1313,Perl Foundation ,9
+1327,PHP Group ,9
+1341,Plantronics ,9
+1348,Poll Everywhere ,9
+1351,PostgreSQL Global Development Group ,9
+1354,Pragmatic Works ,9
+1364,Prodigy Diabetes Care ,9
+1369,Prosystech ,9
+1385,QLogic ,9
+1445,Rockwell Automation ,9
+1464,R-Tools Technology Inc. ,9
+1495,ScienceLogic ,9
+1509,Seiko Instruments ,9
+1565,SonaType ,9
+1570,Sony Creative Software ,9
+1590,Sprint ,9
+1595,Squirrels LLC ,9
+1661,TeleMate.Net Software ,9
+1675,TextHelp Systems Ltd. ,9
+1778,Varian Medical Systems ,9
+1799,vidyo ,9
+1801,VIM Community ,9
+1806,Vision Solutions ,9
+1826,VSS Monitoring ,9
+1833,Wasp Barcode Technologies ,9
+1837,Wave Systems ,9
+1842,WebAim ,9
+1870,WinSCP ,9
+1889,Xceed ,9
+1890,Xerox ,9
+1913,ZEROTURNAROUND ,9
+1917,Zmanda ,9
+1919,Zoom International ,9
+11,"Abacus Data Systems, Inc. ",8
+12,Abbott ,8
+17,Absolute Software ,8
+41,AECOM ,8
+47,AgilePoint ,8
+74,Alloy Software ,8
+76,Alpha II ,8
+119,Aperta Ltd. ,8
+129,Araxis ,8
+148,Assima ,8
+152,Asure Software ,8
+154,AT&T Research Labs ,8
+156,Aternity ,8
+157,AtHoc ,8
+160,Atlas Business Solutions ,8
+172,AutoHotKey ,8
+214,BioEx Systems ,8
+233,Bluebeam Software ,8
+247,Brian LeRoux ,8
+251,British Columbia Institute of Technology (BCIT) ,8
+262,Bureau of the Fiscal Service ,8
+278,Capital Solution Design ,8
+302,CFEngine ,8
+303,Chalk ,8
+307,CheckStyle ,8
+321,CKAN ,8
+323,ClassApps ,8
+365,Connect Community Portal ,8
+384,Cryptzone ,8
+405,"Data Management, Inc. ",8
+417,DAZ 3D Inc. ,8
+419,DbUnit ,8
+433,"Denodo Technologies, Inc. ",8
+441,DevExpress ,8
+476,DocuSign ,8
+477,Dojo Foundation ,8
+500,Ducklink Software ,8
+545,Emulex ,8
+549,Enghouse Interactive ,8
+564,Esha Research ,8
+593,Fast Reports Inc. ,8
+597,FDA ,8
+620,Forbes Lindesay ,8
+642,Genarts ,8
+647,GenoPro ,8
+652,GetWellNetwork Inc ,8
+660,gMed ,8
+718,Hitachi ,8
+720,"HLN Consulting, LLC ",8
+725,Hortonworks ,8
+745,Identiv ,8
+762,ImgBurn ,8
+810,InterSect Alliance ,8
+812,Interton ,8
+823,Isaac Z. Schlueter ,8
+884,Jonathon Rossi ,8
+892,Jscape ,8
+898,Julian Gruber ,8
+902,JUnit ,8
+922,Khronos Group ,8
+923,Kidasa Software ,8
+943,Kyle Mitchell ,8
+948,Laurel Bridge Software ,8
+963,Liferay ,8
+964,LightScribe ,8
+979,LOINC ,8
+991,Mackinney Mainframe Software and Support ,8
+996,Mainspring Healthcare Solutions ,8
+1011,Markdown It! ,8
+1016,"Matchware, Inc. ",8
+1018,Mathias Buus ,8
+1040,MedicaSoft ,8
+1044,MEDITECH ,8
+1045,Medtronic ,8
+1050,Megaputer ,8
+1069,Micronode ,8
+1070,Micropact ,8
+1079,MIM Software Inc. ,8
+1085,Miridia ,8
+1115,"Multivariate Software, Inc. ",8
+1128,Nathan Voxland ,8
+1130,National Institute of General Medical Sciences (NIGMS) ,8
+1133,National Library of Medicine ,8
+1135,National Oceanic and Atmospheric Administration (NOAA) ,8
+1195,Nonin ,8
+1218,OASIS OPEN ,8
+1236,OMA ,8
+1252,Open ID Foundation ,8
+1258,OpenClinica ,8
+1296,PassPort ,8
+1301,pdfforge ,8
+1307,Pennsylvania State University ,8
+1339,PKWARE ,8
+1352,PowerMapper ,8
+1358,PresentationPoint ,8
+1374,"Psychology Software Tools, Inc. ",8
+1380,Qbase ,8
+1389,QSR ,8
+1405,Reallusion ,8
+1407,Realtime ,8
+1412,Red Rock Software ,8
+1461,RSNA ,8
+1469,Ryan Lienhart Dahl ,8
+1470,SA International (SAi) ,8
+1491,Saxonica ,8
+1532,Simon Boudrias ,8
+1539,SkillTRAN ,8
+1551,SnapComms ,8
+1575,SoundEar ,8
+1602,Starkey ,8
+1605,Stata Corp LP ,8
+1607,Statistical Innovations Inc. ,8
+1610,"Statpoint Technologies, Inc. ",8
+1622,Stratus Technologies ,8
+1637,Synametrics Technologies ,8
+1653,Tanuki ,8
+1668,Terence Parr ,8
+1669,TerminalWorks ,8
+1681,The Document Foundation ,8
+1686,The Jython Project ,8
+1692,The ScottCare Corporation ,8
+1697,Thomas Williams ,8
+1701,Thunderhead ,8
+1710,Tomasz Janczuk ,8
+1731,Tripp Lite ,8
+1734,Tritech Software Systems ,8
+1745,U.S. Pharmacopeia ,8
+1759,University of Bristol ,8
+1764,University of Washington ,8
+1800,ViewSonic ,8
+1840,WaveWare Technologies ,8
+1846,Webtrends ,8
+1849,Wellspring Worldwide ,8
+1869,WinMerge ,8
+1873,WinWay Corporation ,8
+1877,Wolters Kluwer Health ,8
+1886,"X1 Discovery, Inc ",8
+1888,Xavier Roche ,8
+1892,XMLUnit ,8
+1895,XPLG ,8
+10,AB Tutor ,7
+22,ACD Systems International Inc. ,7
+26,Acronis ,7
+32,ADA ,7
+48,Agiliance ,7
+67,Alexsys Corporation ,7
+85,American College of Radiology ,7
+93,Analytic Technologies ,7
+117,APCO ,7
+169,AudioCare Systems ,7
+171,Autofac Contributors ,7
+192,"Balsamiq Studios, LLC ",7
+196,"Batesville, Inc ",7
+207,"Bernafon, LLC ",7
+225,BizFlow Corporation ,7
+226,Bjango ,7
+229,"Blackboard, Inc. ",7
+250,BRIT Systems ,7
+283,Cardinal Health ,7
+290,Carl Zeiss Meditec ,7
+301,Cewolf ,7
+305,"Charm Sciences, Inc. ",7
+311,Chris Lattner ,7
+317,Circle Systems ,7
+325,Clinical DataFax Systems Inc. ,7
+337,Code Blue Designs ,7
+361,Condusiv Technologies ,7
+375,Crawler-Lib ,7
+390,CyberLink ,7
+408,DataLocker ,7
+421,DeBugBar ,7
+425,Defense Acquisition University ,7
+468,DivX ,7
+507,ec2 Software Solutions ,7
+533,Elsevier ,7
+540,Emmanuel Dupuy ,7
+548,Enesys ,7
+557,EpiData Association ,7
+560,Equisys Inc ,7
+580,ExclamationSOFT ,7
+587,ExtraView Corporation ,7
+588,F5 ,7
+591,Famatech ,7
+598,FDB First Databank ,7
+615,"FlowJo, LLC ",7
+641,Gemalto ,7
+649,GeoServer ,7
+663,GnuPG.org ,7
+669,Gradle Inc. ,7
+684,GT Software ,7
+697,HashiCorp ,7
+765,Imprint Plus ,7
+769,Industrial Scientific ,7
+777,Information Mapping ,7
+785,"Innovative Interfaces, Inc. ",7
+807,Intermountain Lock and Security ,7
+808,Internet Society ,7
+825,isee Systems ,7
+829,iTracs ,7
+852,Jared Hanson ,7
+935,"Kool Toolz, Inc. ",7
+952,LeanPath ,7
+967,linuxcontainers.org ,7
+1073,"MicroVideo Learning Systems, Inc. ",7
+1074,Midmark ,7
+1084,Mirek Wojtowicz ,7
+1094,Modality Systems Ltd ,7
+1100,Monarch Medical Technologies ,7
+1111,Muhimbi ,7
+1134,National Model ,7
+1147,ndd Medical Technologies Inc. ,7
+1153,Nero ,7
+1173,NewSoft ,7
+1176,NextDocs ,7
+1203,Nox Medical ,7
+1206,NSClient ,7
+1207,NTIA ,7
+1208,NTP Software ,7
+1231,OIG ,7
+1243,OnBase by Hyland ,7
+1251,Open Health Tools ,7
+1257,OpenBUGS ,7
+1259,OpenGate Software Inc. ,7
+1276,Ottobock ,7
+1280,Pacific Northwest National Laboratory ,7
+1294,Particular Software ,7
+1303,Pegasystems ,7
+1311,"Performance Logic, Inc. ",7
+1321,Philippe PUECH ,7
+1328,phpBB Limited ,7
+1342,"Planview, Inc. ",7
+1359,Prezi ,7
+1363,ProcurePort ,7
+1366,ProModel Corporation ,7
+1377,Puppet Labs ,7
+1403,Raxco Software ,7
+1414,"Regenstrief Institute, Inc. ",7
+1432,RightITnow ,7
+1438,Rob de Veij ,7
+1454,RouteMatch Software ,7
+1476,Sakai Project ,7
+1477,Salesforce.com ,7
+1493,Scantron Corporation ,7
+1505,Seagull Scientific ,7
+1511,"Sencha, Inc. ",7
+1528,Siemens AG ,7
+1546,Smart-X Software Solutions Ltd. ,7
+1566,Sonic Innovations ,7
+1571,Sorenson Communications ,7
+1604,StartStop ,7
+1615,Steinberg ,7
+1624,StrawberryPerl ,7
+1649,Tadiran Telecom ,7
+1673,Tevron ,7
+1683,The Inkscape Team ,7
+1693,The TOVA Company ,7
+1694,The University of Sheffield ,7
+1700,ThoughtWorks ,7
+1724,TreeAge Software Inc. ,7
+1735,Trivantis Corporation Inc. ,7
+1750,Unify ,7
+1765,Unlimited Technologies ,7
+1779,Variphy ,7
+1791,Verity Software House ,7
+1793,Versoworks ,7
+1803,Visage Imaging ,7
+1838,Waveded ,7
+1855,WhiteBox Software ,7
+1878,Wondershare ,7
+1893,XnSoft ,7
+1896,Xstream ,7
+1911,Zenoss Inc. ,7
+8,AAMC ,6
+61,Alertus Unified Facility Notification ,6
+78,Altium ,6
+83,Ambir Technology ,6
+104,"Ansible, Inc ",6
+106,ANU Data Mining Group ,6
+110,AOP Alliance ,6
+123,"AppDynamics, Inc. ",6
+130,Arch Fitters ,6
+135,Ariya Hidayat ,6
+187,Axure Software Solutions ,6
+209,BestieJS Modules ,6
+210,Biddle Consulting Group ,6
+212,bigpipe ,6
+219,"BIOPAC Systems, Inc ",6
+222,Birch Grove Software ,6
+239,BonitaSoft ,6
+248,Brian White ,6
+263,Burlington Medical Supplies ,6
+270,"Calabrio, Inc. ",6
+287,Carestream Medical and Dental ,6
+308,Chef ,6
+334,Cochlear ,6
+338,Code4ward ,6
+340,CodeSmith Tools ,6
+400,DART ,6
+410,Dataworks Development Inc. ,6
+413,Dave Pacheco ,6
+416,David Gilbert ,6
+423,"Decision Systems, Inc. ",6
+434,"Dent Instruments, Inc. ",6
+446,Dexcom ,6
+449,DIA Developers ,6
+455,"Digisonics, Inc. ",6
+465,DisplayLink ,6
+473,"Docker, Inc. ",6
+489,dougwilson ,6
+491,Dr Eric Stallard ,6
+502,"Duxbury Systems, Inc. ",6
+525,ELDOS ,6
+551,Enhansoft ,6
+559,Equifax ,6
+581,EXP Systems ,6
+582,Expert-24 ,6
+584,Extech ,6
+594,FasterXML ,6
+596,FastStone Soft ,6
+606,FileMaker Inc. ,6
+610,Fiserv ,6
+618,FM:Systems ,6
+628,FreeFileSync ,6
+632,Frontier Kernel Project ,6
+639,Garmin ,6
+651,Gerry Shaw ,6
+656,GIMP ,6
+672,Grason-Stadler ,6
+683,GS1 ,6
+686,Guidance Software ,6
+696,Harvard University Institute for Quantitative Social Science ,6
+699,Health Net Federal Services ,6
+700,HealthcareSource ,6
+710,HelpSystems ,6
+714,Hibernating Rhinos ,6
+722,"Honaker, King and Blackwell ",6
+742,iDashboards ,6
+744,IDEC ,6
+759,Imation ,6
+763,Impact Technologies ,6
+771,InfoEther ,6
+792,Inspironix ,6
+797,Intelemage ,6
+804,InterFaceWare ,6
+822,Iron Bow Technologies ,6
+841,Jake Verbaten ,6
+845,James Gregory ,6
+851,Jan Lehnardt ,6
+867,Jean Gabes ,6
+887,Journey Forward ,6
+888,"Joyent, Inc. ",6
+932,Konexx ,6
+940,"Kronos, Inc. ",6
+961,Liaison Technologies ,6
+965,Lincoln Peak Partners ,6
+968,Lippincott Williams & Wilkins ,6
+969,litixsoft ,6
+973,LK4 Technology ,6
+975,Lo-Dash ,6
+978,Logitech ,6
+995,Maine Standards Company ,6
+1010,Mark-10 ,6
+1032,MedCalc Software ,6
+1038,Medical Packaging Inc. (MPI) ,6
+1056,Metalogix ,6
+1057,MGC Diagnostics ,6
+1061,Michael Hart ,6
+1072,MicroStrategy ,6
+1080,Mind Media B.V. ,6
+1095,Modernizr ,6
+1108,Mozilla ,6
+1109,mRemoteNG.org ,6
+1126,NASA ,6
+1138,Natural Resources Canada ,6
+1157,NETGEAR ,6
+1179,NHibernate Community ,6
+1184,Nintex ,6
+1185,Nipro Diagnostics ,6
+1187,Nitro ,6
+1190,Noah Spurrier ,6
+1194,NodeRedis ,6
+1201,Novell ,6
+1210,NUnit.org ,6
+1212,Nurep ,6
+1227,Octopus Deploy ,6
+1230,OfficeWork Software ,6
+1262,Open-Xchange ,6
+1265,Opticon USA ,6
+1273,Orthoview ,6
+1284,Pantaray Research ,6
+1288,Parallels ,6
+1297,Paterva ,6
+1305,PenBay Solutions LLC ,6
+1306,"Pennebaker Conglomerates, Inc. ",6
+1315,Petka Antonov ,6
+1355,Precision software & consulting ,6
+1360,PrimeFaces ,6
+1362,Print Control Software (PCS) ,6
+1370,ProteinSimple ,6
+1376,Punch! Software ,6
+1397,Radiation Saftey Information Computational Center ,6
+1422,RequireJS ,6
+1425,Resplendence ,6
+1439,Rob Mensching ,6
+1463,RStudio ,6
+1467,rvagg (Rod Vagg) ,6
+1471,Safe Software ,6
+1485,Sass-Lang ,6
+1489,Savvius ,6
+1500,Scooter Software ,6
+1514,SenseWear ,6
+1519,Sharmahd Computing ,6
+1525,"Shipcom Wireless, Inc ",6
+1527,Siemens ,6
+1536,Singlewire Software ,6
+1541,Slashback Software ,6
+1554,Socket.IO ,6
+1580,Spacelabs Healthcare ,6
+1597,SSH Communications Security ,6
+1609,Statistics Netherlands ,6
+1625,StructureMap ,6
+1643,SYSTAT Software Inc. ,6
+1646,SysTools ,6
+1651,Tammo Freese ,6
+1660,Tekscan ,6
+1671,Terrago Tech ,6
+1690,The Paciello Group ,6
+1705,Tim Wood ,6
+1708,TMS Software ,6
+1728,tricerat ,6
+1749,"Unified FX Ltd, ",6
+1755,Unitron ,6
+1756,Unity Container ,6
+1761,"University of New Mexico Center on Alcoholism, Substance Abuse, and Addictions ",6
+1769,URUWorks ,6
+1783,Veeam Software ,6
+1787,Verathon ,6
+1788,VERBI GmbH ,6
+1792,Verizon ,6
+1808,VisionStar LLC ,6
+1821,Voicebrook ,6
+1834,WatchDox ,6
+1844,Websockets ,6
+1858,Whitestein ,6
+1861,Wietse Venema ,6
+1880,WordPress.org ,6
+1,16 Software ,5
+3,"20-20 Technologies, Inc. ",5
+7,A Must in Every Office BV ,5
+18,Acano ,5
+42,aescripts+aeplugins ,5
+46,Agilent Technologies ,5
+49,agilquest ,5
+52,Aidin ,5
+54,Aivosto Oy ,5
+75,Allscripts ,5
+102,ANIXIS ,5
+108,AnyLogic Company ,5
+121,ApexSQL LLC ,5
+124,Appian ,5
+155,Atelier Web ,5
+158,Atif Aziz ,5
+177,AvePoint ,5
+189,Axxya Systems ,5
+252,Broad Institute ,5
+257,Bruel & Kjaer ,5
+264,"Burlodge, USA ",5
+269,CAE ,5
+279,"Capsa Solutions, LLC ",5
+286,CareFusion Corporation ,5
+289,Carl Lejuez ,5
+291,CAST ,5
+335,Cochrane ,5
+364,Configura ,5
+386,CTB/McGraw-Hill ,5
+388,Cuminas ,5
+454,Dictran ,5
+458,"DigitalCore, Co.Ltd ",5
+459,"Digitalks, Inc ",5
+467,"Diverse Computing, Inc. ",5
+486,dotPDN ,5
+493,Dr. Martin E. Wendelken ,5
+494,Dr. Urbano Lorenzo-Seva ,5
+501,Duncan Murdoch ,5
+508,"ECi Software Solutions, Inc. ",5
+510,Eclipse Foundation ,5
+517,"Eigenvector Research, Inc. ",5
+530,"ELLKAY, LLC ",5
+552,EnterpriseWeb ,5
+586,"Exterity, Ltd. ",5
+608,FileZilla ,5
+611,Fitbit Inc. ,5
+630,FreeMarker Project ,5
+638,Gareth Jones ,5
+654,Ghent University Department of Data Analysis ,5
+661,GN Otometrics ,5
+679,GridX ,5
+731,HTS ,5
+734,HUGIN EXPERT A/S ,5
+735,HUGO ,5
+738,I.R.I.S. ,5
+758,Imagine That Inc. ,5
+761,iMedRIS ,5
+780,InfoTronics ,5
+784,Innovation Passion Automation (IPA) ,5
+791,Insperity ,5
+819,IPython ,5
+820,IrfanView ,5
+827,Itamar Medical ,5
+836,IxChariot ,5
+839,Jackson Laboratory ,5
+844,James Burke ,5
+853,Jason Day ,5
+861,Javassist ,5
+872,"Jerry West, ManageWize Solutions ",5
+876,JMC Heatlh Enterprises ,5
+900,JumpMind ,5
+913,Kassl GmbH ,5
+920,Key Wizard ,5
+925,Kirill Zinov ,5
+939,Krishagni Solutions ,5
+953,Lectora ,5
+954,Leica Microsystems ,5
+956,Lenovo ,5
+957,"Level 4 Ventures, Inc. ",5
+958,"Levi, Ray & Shoup, Inc. (LRS) ",5
+982,"LSVT Global, Inc. ",5
+985,Luigi R. Viggiano ,5
+988,"Luminant Software, Inc. ",5
+998,Mammography Reporting System Inc. ,5
+1005,Maritz CX ,5
+1015,MasterControl ,5
+1026,Mauna Kea Technologies ,5
+1029,mcavage (Mark Cavage) ,5
+1035,MediaChance ,5
+1042,Medicor Imaging ,5
+1043,Medi-Dose/EPS ,5
+1048,Medweb ,5
+1049,MEGA ,5
+1059,Michael Browne ,5
+1068,Microlife Medical Home Solutions ,5
+1098,Molecular Devices ,5
+1118,"MVP Systems Software, Inc. ",5
+1136,National Safety Technologies ,5
+1146,NCSS Statistical Software ,5
+1160,"NetScout Systems, Inc ",5
+1167,"Neurobehavioral Systems, Inc. ",5
+1213,Nursenav ,5
+1226,OCS Inventory Team ,5
+1242,OnBarcode ,5
+1253,Open Layers ,5
+1256,Open Web Application Security Project ,5
+1260,OpenLDAP Foundation ,5
+1270,ORAU ,5
+1271,"Orbeon, Inc. ",5
+1272,OriginLab ,5
+1278,Oxford University United Kingdom Prospective Diabetes Trials Unit ,5
+1346,PMEase ,5
+1347,Polar ,5
+1390,Quality Open Software ,5
+1419,Renishaw ,5
+1448,Roger Zander ,5
+1455,Roxio ,5
+1456,Roy Matheson and Associates Inc. ,5
+1466,Ruhof ,5
+1479,Sam Berlin ,5
+1487,Savage Universal ,5
+1490,Sawtooth Software ,5
+1497,Scientific & Educational Software. ,5
+1501,Scott Jehl ,5
+1517,Serena Software ,5
+1540,"SKM Systems Analysis, Inc ",5
+1574,SOTI ,5
+1579,"Space and Naval Warfare Systems Center, Atlantic (SSC-LANT) ",5
+1581,Sparx Systems ,5
+1603,STARLIMS Corporation ,5
+1627,Sublime Text ,5
+1629,SUGARfx ,5
+1631,"SunTech Medical, Inc. ",5
+1647,T System ,5
+1665,Telestream ,5
+1676,The American Orthotic & Prosthetic Association ,5
+1680,The Digital Signal Processing Group (DSPG) ,5
+1689,The Open Group ,5
+1718,Traction Software ,5
+1732,Tripwire. Inc. ,5
+1739,turbo.net ,5
+1744,U. S. Access Board ,5
+1746,U.T. Southwestern Medical Center at Dallas and The BayesMendel Group ,5
+1760,"University of Eastern Finland, Bio signal Analysis and Medical Imaging Group ",5
+1797,VHA Innovations ,5
+1823,Voxeo ,5
+1824,VPI ,5
+1853,West Rock ,5
+1887,Xamarin ,5
+1894,Xperience Tech ,5
+1899,Yammer ,5
+1905,ZAIGA Tech Technologies ,5
+1918,ZOLL Data Management ,5
+6,3Shape ,4
+16,Abila ,4
+31,AcuStaf ,4
+33,Adapt Middle East ,4
+39,Advanced Bionics AG ,4
+70,Align Technologies ,4
+95,Andrew J. Mason ,4
+120,Apex Custom Solutions ,4
+122,APLNow ,4
+128,ARANZ Medical ,4
+137,Artel ,4
+145,ASG Software Solutions ,4
+146,"Aspect Software, Inc. ",4
+159,Atlantis Computing ,4
+179,Avicenna Medical Systems ,4
+182,AVPSoft.com ,4
+184,"Awareness Technologies, Inc. ",4
+190,Aycan Medical Systems ,4
+191,Backbone Paginator ,4
+195,Bastian Kleineidam ,4
+198,BCS Systems ,4
+205,Benco Dental ,4
+221,"BioStat, Inc. ",4
+224,BitScopic ,4
+237,Bobby L. Jones ,4
+241,Bower ,4
+243,Brain Products GmbH ,4
+253,Broadsoft Inc. ,4
+255,broofa ,4
+261,Bungalow Software ,4
+268,Cadwell ,4
+274,CamNtech Inc ,4
+282,Cardiac Science Corporation ,4
+288,"CareSystems, Inc ",4
+297,Center for Innovative OT Solutions (CIOTS) ,4
+314,chromium.org ,4
+316,Circle Cardiovascular Imaging ,4
+322,CKSource ,4
+327,CliniComp International ,4
+328,Cliniworks ,4
+343,Colin Crist ,4
+346,Columbia University Information Technology (CUIT) ,4
+349,Compass ,4
+366,Conserus ,4
+369,Conworx ,4
+376,creationix ,4
+378,Crestron ,4
+385,CS-RCS GmbH ,4
+387,Cucumber Project ,4
+389,"CyberCare Health Network, LLC ",4
+393,D3.js ,4
+396,Dalet ,4
+399,Daniel Schrimpf ,4
+406,DataChem Software ,4
+415,David DeSandro ,4
+418,DB Browser for SQLite ,4
+463,Direct Project Initiative ,4
+466,"Distributed Solutions, Inc. ",4
+470,Dmitry Efimenko ,4
+471,DNASTAR ,4
+481,dom4j ,4
+482,Dominic Tarr ,4
+484,DoneJS ,4
+485,Dormando ,4
+490,DPS Telecom ,4
+492,Dr Kensaku Kawamoto ,4
+497,Drupal.org ,4
+499,DSHI Systems ,4
+518,e-ImageData Corp ,4
+522,EJ Technologies ,4
+532,"eLoyalty, LLC ",4
+535,Embrava ,4
+539,Emka Technologies ,4
+546,EndoSoft ,4
+550,"Engineered Care, Inc. ",4
+556,EpadSupport ,4
+565,Esker ,4
+568,Estrada Technology ,4
+572,Evermap ,4
+576,EVT2SYS Open Source Project ,4
+589,Fabio Martin ,4
+592,Fanix Software ,4
+603,Felix Geisendorfer ,4
+624,"Four Points Technology, LLC ",4
+635,"Futrex, Inc. ",4
+636,fxfactory ,4
+637,Gal Koren ,4
+655,Ghotit ltd. ,4
+665,Goliath Technologies ,4
+691,Hankinson Consulting ,4
+706,"Heidelberg Engineering, Inc. ",4
+726,Hover Cam ,4
+733,hueniverse ,4
+736,HuzuTech ,4
+737,Hygiena ,4
+740,"IceWarp, Inc. ",4
+750,iGrafx ,4
+753,Ilya Radchenko ,4
+754,"Image Stream Medical, Inc. ",4
+755,ImageMagick Studio LLC ,4
+760,Imazen LLC ,4
+779,"InfoSoft Global Private Limited, FusionCharts ",4
+783,Innovation Data Processing ,4
+786,"Innoventive Software, LLC ",4
+788,Inova ,4
+793,Integrated Business Solutions Group ,4
+794,"Integrated Data Management Systems, Inc. ",4
+795,Integrated Research (IR) ,4
+798,InteleRad ,4
+799,IntelliCentrics ,4
+802,Interalia ,4
+816,Ionic ,4
+830,Itseez ,4
+832,Ivan Nikulin ,4
+835,iView Systems ,4
+837,IXIA ,4
+840,Jacob Kelley ,4
+848,James J. Hirsch & Associates (JJH) ,4
+885,Jordan Harband ,4
+889,JP Richardson ,4
+895,jsoup ,4
+897,JTech Medical ,4
+905,Justinmind ,4
+906,K2 ,4
+909,Kanomax Inc. ,4
+910,Karamasoft LLC ,4
+917,Keka Project ,4
+926,"Kissei Comtec Co, Ltd. ",4
+947,Laserfische ,4
+950,Lavi Industries ,4
+955,Leidos ,4
+984,"Luidia, Inc ",4
+992,"MadCap Software, Inc. ",4
+993,Magic Software Enterprises ,4
+1007,Mark Kirk ,4
+1024,Matthias Kramm ,4
+1033,MED-EL ,4
+1036,MediaCybernetics ,4
+1047,Medvantage ,4
+1055,Mestrelab Research ,4
+1067,MicroEdge ,4
+1076,Mikeal Rogers ,4
+1087,Misko Hevery ,4
+1090,MKF Solutions ,4
+1093,Mockito ,4
+1096,Modus Health ,4
+1112,Mulesoft ,4
+1120,My Rounding Solutions LLC ,4
+1123,N software ,4
+1127,Nathan Rajlich ,4
+1132,National Instruments ,4
+1150,Nemours Speech Research Laboratory ,4
+1151,Neogen Corporation ,4
+1155,NetBrain ,4
+1161,Netsmart ,4
+1174,NewTek ,4
+1182,Nihon Kohden ,4
+1183,Nikon ,4
+1193,Nodeca ,4
+1219,OATSystems ,4
+1220,OAuth 2.0 ,4
+1229,OfficeOne ,4
+1281,Paessler AG ,4
+1283,Panasonic ,4
+1286,"PAR Excellence Systems, Inc. ",4
+1289,"Paravel, Inc. ",4
+1290,ParetoLogic ,4
+1291,Parexel ,4
+1312,PerkinElmer ,4
+1331,Pierre Raybaut ,4
+1381,QBS Software Limited ,4
+1382,Qdabra Software ,4
+1398,Railo Technologies GmbH ,4
+1401,rauchg ,4
+1423,Research Triangle Institute (RTI) International ,4
+1430,RIAS Works ,4
+1435,RKI Instruments ,4
+1444,Rocket Software Inc. ,4
+1446,Rocky Mountain Cancer Data Systems ,4
+1450,Roland DGA Corporation ,4
+1452,Rosetta Stone Inc. ,4
+1457,Roy Rosenzweig Center for History and New Media ,4
+1465,RubyGems.org ,4
+1474,Saf-T-Pak Inc. ,4
+1478,SalesforceEng ,4
+1481,Samba ,4
+1486,SaTScan ,4
+1488,Savard Software ,4
+1510,SEMOSS ,4
+1518,ServiceNow ,4
+1526,Shyam Pillai ,4
+1531,SigmaZone ,4
+1534,SimpleCaptcha ,4
+1538,SirsiDynix ,4
+1550,Snap Surveys ,4
+1553,Society of Nuclear Medicine and Molecular Imaging ,4
+1556,"Softouch Development, Inc ",4
+1557,Software AG ,4
+1585,SPlayer ,4
+1588,SPOT Imaging Solutions ,4
+1608,Statistical Solutions ,4
+1619,Stimulsoft ,4
+1630,Sun Nuclear Corporation ,4
+1639,Syncsort ,4
+1641,Syngene ,4
+1642,Sysmex ,4
+1652,"Tandem Diabetes Care, Inc. ",4
+1655,TDi Technologies ,4
+1674,TeX Users Group ,4
+1699,Thought Technology Ltd ,4
+1715,Totara Learning Inc ,4
+1716,Touch Bionics Inc. ,4
+1721,Transcender ,4
+1722,Transonic ,4
+1727,trentm (Trent Mick) ,4
+1758,University Health Network ,4
+1763,"University of Utah, Department of Epidemiology ",4
+1780,Varnish Software ,4
+1796,Veteran`s Health Administration ,4
+1805,Vision Engravers ,4
+1825,Vsevolod Strukchinsky ,4
+1839,WaveMetrics Inc ,4
+1841,"Web Wonderland, Inc ",4
+1854,Western Psychological Services ,4
+1857,WhiteSmoke ,4
+1860,Widex ,4
+1865,Willow Wood Inc. ,4
+1868,WinguMD ,4
+1891,XmlPull ,4
+1906,Zap Technologies ,4
+1909,Zenalux Biomedical ,4
+1910,Zend Technologies ,4
+9,Aardex Group ,3
+13,Abbott Diabetes Care ,3
+50,Ahmad Nassri ,3
+71,Allaround Automations ,3
+99,Andy Clark ,3
+115,Apache XML Graphics Project ,3
+163,Atom ,3
+173,Automated Logic ,3
+230,Blackmagic Design ,3
+244,BrainLab ,3
+246,"BrainTrain, Inc. ",3
+295,Celgene ,3
+312,Chris Umbel ,3
+350,Competitive Edge Software ,3
+521,Eindhoven University of Technology ,3
+562,Eran Hammer ,3
+590,Faithlife Corporation / Logos Bible Software ,3
+599,"FedEx, Inc ",3
+631,FreeSWITCH ,3
+668,Gradkell Systems ,3
+693,HarePoint Solutions ,3
+730,Hristo Dachev ,3
+817,iozone.org ,3
+941,Kurzweil Education ,3
+974,LMDInnovative ,3
+1006,Mark Bao ,3
+1023,Matt Sergeant ,3
+1027,maxogden ,3
+1053,Merrill Consultants ,3
+1066,"Micro-Dyn Medical Systems, Inc. ",3
+1077,mikolalysenko (Mikola Lysenko) ,3
+1092,Mocha ,3
+1162,NetSupport ,3
+1166,Neurobehavioral Research Laboratory and Clinic (NRLC) ,3
+1175,NewYu ,3
+1197,Not applicable ,3
+1263,OPM ,3
+1264,Optical Diagnostics ,3
+1279,P`unk Avenue ,3
+1300,Paul Miller ,3
+1343,"Pleiades Software Development, Inc. ",3
+1406,RealNetworks ,3
+1427,Revolution Analytics ,3
+1441,Robin Barre ,3
+1468,RVB Systems Group ,3
+1548,SmithMicro Software ,3
+1582,"SpeechGear, Inc ",3
+1583,Speechvive ,3
+1621,"Strategic Matching, Inc. ",3
+1634,Swisslog ,3
+1664,Telespial Systems Inc. ,3
+1666,"Tenacity Operating, LLC. ",3
+1687,The LimeSurvey Project ,3
+1706,"TITUS, Inc ",3
+1741,Twitter Inc. ,3
+1771,VA Developed Class 2 or Class 3 Software ,3
+1782,Vector Networks ,3
+1786,Veracity Group Inc. ,3
+1798,VideoLAN ,3
+1804,Visilearn ,3
+1835,Watchfire ,3
+1852,Wes Todd ,3
+1875,Wolfgang Ziegler ,3
+1897,XTec ,3
+1903,yWorks ,3
+1914,ZEVA ,3
+4,3dhistech ,2
+28,Action Software ,2
+29,"ActivePDF, Inc. ",2
+34,Adaptiva ,2
+35,ADAPTIVE MICRO SYSTEMS ,2
+36,"ADINA R & D, Inc. ",2
+37,ADInstruments ,2
+40,Adxstudio CRM Portal Solutions ,2
+43,"Affectiva, Inc. ",2
+57,Aladdin Temp-Rite ,2
+58,Alcatel-Lucent ,2
+60,Alerton ,2
+62,Alex Feinman ,2
+63,Alex Guan ,2
+64,Alexander Shtuchkin ,2
+65,Alexandru Marasteanu ,2
+66,Alexej Hirsch ,2
+68,Alfred Bolliger ,2
+77,"Altima Technologies, Inc. ",2
+84,AMD Global Telemedicine ,2
+87,American Messaging ,2
+88,"American Printing House for the Blind, Inc. ",2
+90,"Amfit, Inc. ",2
+92,Amulet Hotkey ,2
+94,Analytical Software ,2
+96,Andrew Kelley ,2
+97,Andrew Rowls ,2
+98,Andrew Stevens ,2
+100,Andy Perlitch ,2
+105,"ANSYS, Inc. ",2
+107,ANX ,2
+109,AnyMeeting ,2
+111,AP Style Book ,2
+114,Apache Commons ,2
+127,Appspace ,2
+132,Arcserve ,2
+140,Artificial Intelligence In Medicine Inc. ,2
+141,Artur Adib ,2
+142,ARxIUM ,2
+150,Astera ,2
+153,Asyncly ,2
+165,"Atricore, Inc. ",2
+168,a-tune software AG ,2
+174,AutomationDirect ,2
+175,Autonomy ,2
+181,Avigilon ,2
+185,AxioWorks ,2
+186,Axis Communications ,2
+194,Bart Lagerweij ,2
+201,Bela Ban ,2
+203,Belldev Medical ,2
+211,Big Bang LLC ,2
+215,Biogazelle ,2
+216,Biomatters Limited ,2
+217,bioMerieux ,2
+227,Blackbaud Inc. ,2
+231,Blatchford Inc ,2
+232,Blue Jeans Network ,2
+235,BLULab ,2
+238,Bohemian Coding ,2
+242,Brain Innovation ,2
+245,BrainMaster Technologies ,2
+249,Brightspace ,2
+256,Brother International ,2
+258,BTS Bioengineering ,2
+259,Buanzo (Arturo Busleiman) ,2
+265,BVRP Software ,2
+266,ByLight Technical Services ,2
+272,Calvin Metcalf ,2
+277,Caolan McMahon ,2
+280,"Capsule Tech, Inc ",2
+293,Cedrus ,2
+294,ceejbot ,2
+304,Charlie Robbins ,2
+306,Chart.js ,2
+309,Chicago-Soft Ltd ,2
+310,Chris Gross ,2
+313,chrisa ,2
+315,Chronicle Graphics ,2
+326,Clinical Outcomes Research Initiative ,2
+329,Clorox ,2
+330,Cloud Cruiser ,2
+331,Cloudbees ,2
+333,COBOL-IT ,2
+336,Codan Radio ,2
+341,Codonics ,2
+342,CoffeeScript ,2
+345,Colortrac ,2
+347,Comfort Software Group ,2
+352,Components4Developers ,2
+354,"Computer Management Sciences, Inc. ",2
+355,"Computer Projects of Illinois, Inc. ",2
+360,Concurrent Technologies Corporation ,2
+362,ConexSys Inc. ,2
+368,Continuum Analytics ,2
+372,Corel Corporation ,2
+373,C-Pen ,2
+374,CPSI ,2
+377,"Creative Signage Systems, Inc. ",2
+382,Crypto Workshop ,2
+383,crypto-utils ,2
+391,CYGWIN ,2
+394,"Dacima Software, Inc ",2
+395,Daktronics ,2
+398,Dan DeFelippi ,2
+407,Datakey ,2
+412,Dave Barfield ,2
+414,Dave Reid ,2
+422,Decimal ,2
+424,Deema Yvanow ,2
+426,Defense Spectrum Organization (DSO) ,2
+429,DeLorme ,2
+430,Delphix ,2
+431,Deltek ,2
+432,"Denis Kozlov, Furious Technologies Ltd. ",2
+436,"Department of Veterans Affairs, OIT Product Development ",2
+440,Design Science ,2
+442,DeviantArt ,2
+444,Devolutions ,2
+445,Dexa Solutions ,2
+448,DHS Worldwide ,2
+451,DIAPedia ,2
+452,Diasend ,2
+453,Dickson ,2
+457,Digital Solutions ,2
+464,Discover Technologies ,2
+469,Dmitry Chestnykh ,2
+472,DNN Corp. ,2
+478,DokuWiki ,2
+480,Dolphin Computer Access Ltd. ,2
+488,Douglas Crockford ,2
+498,Druva ,2
+504,DynaTouch ,2
+513,Education Management Solutions ,2
+519,Einar Otto Stanqvik ,2
+520,einaros ,2
+526,Elekta ,2
+527,Elite Software ,2
+529,Elliottte Rusty Harold ,2
+531,ELMO USA Corp. ,2
+537,"EMDAT, Inc ",2
+541,"Empatica, Inc. ",2
+544,emsCharts ,2
+547,"ENERCALC, INC ",2
+553,Eonasdan ,2
+561,Eracent ,2
+563,Esa-Matti Suuronen ,2
+566,ESO Solutions ,2
+569,EtherPadOrg ,2
+573,EverMind ,2
+575,Evidence Partners ,2
+577,Exacq Technologies ,2
+579,Excel Medical Electronics ,2
+585,Extensis ,2
+600,Fedor Indutny ,2
+605,FileHelpers ,2
+619,fo-dicom contributors ,2
+622,FormData ,2
+623,FORMVERSE ,2
+625,Franz Enzenhofer ,2
+626,Frederick Howard ,2
+629,FreeMake ,2
+643,GenDx ,2
+645,General Dynamics ,2
+650,Gerber Scientific Products ,2
+653,GFI Software ,2
+657,Github ,2
+664,"Golden Helix, Inc ",2
+670,Graham Bates (gigabates) ,2
+673,"Gravis, Inc. ",2
+678,GridPro ,2
+680,"Griffith, Ballard & Company ",2
+681,Groundwork Open Source ,2
+685,GuardianEdge Technologies ,2
+687,Gulp ,2
+690,Hands Down Software ,2
+695,Hartgen Consultancy ,2
+698,Hazelcast ,2
+702,Healthline Information Systems ,2
+705,Heather Arthur ,2
+707,Helicon Tech ,2
+709,Helmet ,2
+711,Henrik Joreteg ,2
+713,Hex-Rays SA ,2
+721,Holladay Consulting ,2
+724,"Honeywell Analytics, Inc. ",2
+732,Hudson CI Server ,2
+766,Indexzero ,2
+767,Indiana University School of Informatics and Computing ,2
+768,"Indus Systems, Inc. ",2
+770,"Inflexxion, Inc. ",2
+773,InfoRad ,2
+781,Infragistics ,2
+787,Innovision Incorporated ,2
+801,Interactive Performance Technologies (IPT) ,2
+805,Intergral ,2
+809,Internet Testing Systems ,2
+813,InterWorks ,2
+815,Invotech ,2
+833,Ivan Sagalaev ,2
+834,Ivan Zahariev ,2
+843,James Agnew ,2
+846,James Hall ,2
+849,James Perkins ,2
+850,James Talmage ,2
+855,Jason Hunter and Rolf Lear ,2
+856,Jason T. Greene ,2
+858,Java ,2
+860,Javacool Software ,2
+862,Jaxen ,2
+863,JaxME ,2
+866,"JCraft, Inc. ",2
+869,Jenoptik AG ,2
+871,Jeroen Frijters ,2
+874,Jibestream ,2
+877,Joaquim Serafim ,2
+879,Joe Walnes ,2
+880,John E. Myers ,2
+881,Johnson Controls ,2
+883,Jonathan Ong ,2
+891,JS Command Line Utilities ,2
+896,JSSOR ,2
+899,juliangruber ,2
+904,Justin Russell ,2
+912,Kasper B. Graversen ,2
+914,KaVoom Software Inc. ,2
+915,keerthik ,2
+918,Kevin Decker ,2
+921,KEYper Systems ,2
+924,KingswaySoft ,2
+928,KiXtart ,2
+933,Konica Minolta ,2
+934,"KontactIntelligence, Inc. ",2
+937,Kris Kowal ,2
+938,Kris Zyp ,2
+945,Lancet ,2
+962,LifeFirst OneTouch ,2
+966,Linus Unneback ,2
+970,LiveCode Ltd ,2
+972,LizardSystems ,2
+977,Login VSI ,2
+980,LPIT Solutions ,2
+983,Lucee Association Switzerland ,2
+986,Lumenera Corporation ,2
+997,Malwarebytes ,2
+1000,ManagerPlus ,2
+1001,Manuel Stofer ,2
+1002,Marak ,2
+1003,Mario Kozjak ,2
+1009,Mark Vayngrib ,2
+1012,Marquis Broadcast ,2
+1013,Martin Gontovnikas ,2
+1014,Mashape ,2
+1017,Materialise ,2
+1019,Mathias Bynens ,2
+1020,Mathieu Turcotte ,2
+1022,Matt Scott ,2
+1025,"Mature Solutions, Inc. ",2
+1031,MeadCO ,2
+1039,Medicalis Corporation ,2
+1051,MercadoLibre ,2
+1060,Michael Dehaan ,2
+1064,"Microchip Technologies, Inc. ",2
+1065,MicroDicom  ,2
+1075,Mihai Bazon ,2
+1078,Millisecond Software ,2
+1091,Mobius Medical ,2
+1097,mokesmokes (Mark Mokryn) ,2
+1099,Monarch Instrument ,2
+1103,moonpyk ,2
+1104,Morgan Scientific ,2
+1105,Mortara Instrument ,2
+1106,"Motion Analysis Corporation, MusculoGraphics, Inc. ",2
+1114,Multitone ,2
+1117,MVEL ,2
+1121,Myers InfoSys ,2
+1122,MZTools Software ,2
+1129,National Institues of Health - US National Laboratory of Medicine ,2
+1143,"N-CORE Systems, Inc. ",2
+1145,NCR ,2
+1159,Netplex ,2
+1165,NeuLog ,2
+1169,Nevrona Designs ,2
+1170,New Atlanta ,2
+1171,New England Survey Systems ,2
+1172,New York State Department of Health ,2
+1188,NLog ,2
+1189,No Nonsense ,2
+1191,Nobel Biocare ,2
+1192,Node.js Foundation ,2
+1196,Normalize.Io ,2
+1200,Nova Metrix LLC ,2
+1211,Nuno Job ,2
+1214,NV Access ,2
+1215,NW.js ,2
+1216,NXP Semiconductors ,2
+1221,Objectivity ,2
+1223,Objenesis ,2
+1225,"Occupational Health Systems, Inc ",2
+1228,Office Timeline ,2
+1232,Olerup ,2
+1233,Oliver Nightingale ,2
+1244,"Oncology Data Systems, Inc. ",2
+1245,Onenotegem ,2
+1246,OnSite Software ,2
+1247,Ontotext ,2
+1250,Open Health Natural Language Processing Consortium (OHNLP) ,2
+1254,"Open Software Technologies, Inc. ",2
+1266,Optimal Solutions ,2
+1267,Optimal Workshop ,2
+1268,Option Technologies ,2
+1293,"Parks Medical Electronics, Inc ",2
+1295,PassMark ,2
+1298,Paul Hammant ,2
+1299,Paul Kelly ,2
+1304,Pejobo ,2
+1309,Pentalogic Technology Ltd ,2
+1310,PENTAX Medical ,2
+1314,Peter Rottmann ,2
+1316,Pexip ,2
+1318,Phatware Corporation ,2
+1319,Philip Helger ,2
+1320,Philip Laureano ,2
+1323,PhiTools ,2
+1324,Phoenix Scale Company ,2
+1325,Phoenix Software ,2
+1329,Physio-Control ,2
+1332,Piney Mountain Press ,2
+1333,Pipkins Inc. ,2
+1338,PixelMed Publishing ,2
+1345,Plexus ,2
+1350,porkfat ,2
+1353,Powervar ,2
+1357,Presentation Assistant ,2
+1365,Promethian World ,2
+1367,Prompter People ,2
+1372,"PROXY Networks, Inc ",2
+1386,QMATIC Inc. ,2
+1387,Qomo HiteVision LLC ,2
+1393,Quest Diagnostics ,2
+1394,QuintanaSoft ,2
+1402,Rauland-Borg ,2
+1404,raymorgan2 ,2
+1417,Renal Services Exchange ,2
+1418,Renesan Software ,2
+1420,ReQlogic Inc ,2
+1426,restify ,2
+1440,Robert Mustacchi ,2
+1447,Rod Vagg ,2
+1449,Rogue Research ,2
+1451,Roman Shtylman ,2
+1453,"Ross Video, Ltd. ",2
+1458,RSD ,2
+1459,RSI ,2
+1462,RSSOwl ,2
+1472,SafeNet ,2
+1473,Safer-Networking Ltd. ,2
+1475,SAGE ,2
+1480,Sam Pullara ,2
+1492,Scala ,2
+1496,"ScienceTRAX, LLC. ",2
+1499,SCLogic ,2
+1506,Sean McArthur ,2
+1507,Securelink ,2
+1512,sendanor ,2
+1513,Sennheiser ,2
+1515,SensiTech ,2
+1516,Sentech America ,2
+1522,Shavlik ,2
+1523,Shimadzu ,2
+1524,shinnn ,2
+1533,Simon Lydell ,2
+1549,Smiths Medical ,2
+1558,Software Diversified Services (SDS) ,2
+1559,Software Ok Inc ,2
+1561,Solibri ,2
+1562,Solid Oak Software ,2
+1563,Somatic Vision ,2
+1567,Sonic Solutions ,2
+1569,Sony Corporation ,2
+1592,"SQL Sentry, LLC ",2
+1593,SQL Tools ,2
+1598,"Stanford Medicine, Systems Neuroscience and Pain Lab (SNAPL) ",2
+1599,Stanford Natural Language Processing Group ,2
+1601,Stanley Healthcare ,2
+1611,"Steelcase, Inc. ",2
+1613,Stefan Penner ,2
+1614,Stefan Thomas ,2
+1617,Steve Waldman ,2
+1618,StewartAtkins ,2
+1620,Stoelting Co. ,2
+1623,"Stratus Video, LLC ",2
+1626,Stryker ,2
+1628,substack (James Halliday) ,2
+1638,Synchro Software LTD ,2
+1640,Synergy Software ,2
+1644,"Systems Technology, Inc. ",2
+1657,TechMed3D ,2
+1663,"Telescript West, Inc. ",2
+1667,TeraRecon ,2
+1672,Tetronik ,2
+1678,The Cloud Programmability Group at Microsoft ,2
+1679,"The Computer Support Group, Inc ",2
+1682,The Grails Project ,2
+1688,The Nutrition Company ,2
+1691,The Reactive Extensions for JavaScript ,2
+1696,Thomas Heymann ,2
+1704,Tim Oxley ,2
+1711,Tony Tomov ,2
+1717,Tracker Software ,2
+1719,TRADEPAQ ,2
+1720,Trane ,2
+1723,"Travis CI, GmbH ",2
+1725,Trend Micro ,2
+1726,TRENDnet ,2
+1729,"Trillium Technology, Inc. ",2
+1733,"Trisys, Inc. ",2
+1738,Tsung ,2
+1742,Tyco Fire Protection Products ,2
+1743,Tyler Technologies ,2
+1747,Ultrasis UK Ltd ,2
+1751,Unique Communications ,2
+1752,United States Department of Defense ,2
+1753,United States Department of Energy ,2
+1762,"University of Utah, Department of Biomedical Informatics ",2
+1767,Uplogix Inc. ,2
+1770,UXPin ,2
+1772,VA Office of Research & Development ,2
+1774,Valentin Vasilyev ,2
+1775,Vanderbilt Biomedical Language Processing Lab ,2
+1784,Veeder-Root ,2
+1785,"Ventana Systems, Inc. ",2
+1794,"Versus Technology, Inc. ",2
+1795,Veteran`s Benefits Administration ,2
+1802,Virtual Corporation ,2
+1807,visionmedia ,2
+1809,VisioPharm ,2
+1810,Vista Medical LTD. ,2
+1813,VitalSmarts ,2
+1814,Vitec ,2
+1815,Vitech ,2
+1817,Vizerra LLC ,2
+1820,Vocera ,2
+1822,Volcano Corporation ,2
+1831,Waratek ,2
+1832,"WardManager, Inc. ",2
+1836,Waters ,2
+1847,Wei Fanzhe ,2
+1850,werk85 ,2
+1851,Werner Schweer ,2
+1866,"Wilson WindowWare, Inc. ",2
+1867,WinEdt ,2
+1871,WinSteps ,2
+1872,winstonjs ,2
+1879,WooThemes ,2
+1881,Worms David ,2
+1882,"Wowza Media Systems, LLC ",2
+1884,Wulfsoft ,2
+1898,Yahoo! ,2
+1901,Yes Software ,2
+1907,Zeacom ,2
+1912,ZeroMQ ,2
+1915,Zhiye Li ,2
+1916,Zihua Li ,2
+55,Akamai ,1
+202,Belarc ,1
+344,Colin Harrison ,1
+438,Desaware ,1
+460,Digitalweb ,1
+506,Earth Networks ,1
+803,Intercon ,1
+907,KaDonk ,1
+930,Kodak ,1
+949,Lavasoft ,1
+994,MagicISO ,1
+1107,"Motorola Solutions, Inc. ",1
+1119,MXI Security ,1
+1163,Network Automation ,1
+1317,pgAdmin ,1
+1349,Polycom ,1
+1408,RealVNC ,1
+1508,Security Innovation ,1
+1555,Softland ,1
+1568,SonicWALL ,1
+1578,Southwest Airlines ,1
+1591,Spyrus ,1
+1606,Statcon ,1
+1656,TeamViewer Inc. ,1
+1812,VisualMED ,1
