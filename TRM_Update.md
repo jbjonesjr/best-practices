@@ -12,63 +12,61 @@
 ### TRM Software Change and Configuration Management Tools
 * http://www.va.gov/TRM/searchpage.asp?catId=46&catname=Software%20Change%20and%20Configuration%20Management%20Tools
 
-* Apache Subversion
-* Apache Zookeeper
-* Bitbucket Server
-* CA Agile Central
-* CVS
-* Dimensions CM
-* eGit
-* Git
-* GitHub Desktop
-* Github Enterprise
-* GitLab
-* GitLab Enterprise Edition (EE)
-* JIRA
-* JIRA Agile
-* MantisBT
-* Nexus
-* Perforce
-* Rational ClearCase with MultiSite
-* Rational ClearQuest with MultiSite
-* Salt
-* SourceTree
-* Team Foundation Server (TFS)
-* TortoiseGIT
-* Trac
-* TrackWare
-* VersionOne
-* Visual SourceSafe (VSS)
 
-TRM Name	|	OS	|	Type	|	Decision	|	TRM Link	|	Analysis
---- | --- | --- | --- | --- | --- 
-Apache Subversion	|	Y	|	SVCS	|	P	|	http://www.va.gov/TRM/ToolPage.asp?tid=6573	|	An enterprise license has already been acquired for a comparable technology.
-Apache Zookeeper	|	Y	|	Config	|	AwC	|	http://www.va.gov/TRM/ToolPage.asp?tid=9590	|	
-Archiva	|	Y	|	Repository	|	P	|	http://www.va.gov/TRM/ToolPage.asp?tid=7727	|	
-CA Agile Central	|	?	|	PM	|	AwC	|	http://www.va.gov/TRM/ToolPage.asp?tid=9201	|	Enterprise licenses have already been acquired for comparable technologies.
-CVS	|	Y	|	SVCS	|	P	|	http://www.va.gov/TRM/ToolPage.asp?tid=194	|	CVS does not support atomic commits of changes to versioned objects.
-Dimensions CM	|	N	|	??	|	U	|	http://www.va.gov/TRM/ToolPage.asp?tid=5136	|	The technology is proprietary and may lead to vendor lock-in.
-eGit	|	Y	|	DVCS	|	U	|	http://www.va.gov/TRM/ToolPage.asp?tid=6395	|	plugin of the Git  for the Eclipse IDE
-Endevor Quick Edit	|	N	|	??	|	AwC	|	http://www.va.gov/TRM/ToolPage.asp?tid=9480	|	This technology is only compatible with the z/OS mainframe and is not portable.
-Endevor Software Change Manager (SCM)	|	N	|	??	|	AwC	|	http://www.va.gov/TRM/ToolPage.asp?tid=9481	|	This technology is only compatible with the z/OS mainframe and is not portable.
-Fisheye	|	N	|	??	|	U	|	http://www.va.gov/TRM/ToolPage.asp?tid=6541	|	enables developers to browse and search software source code
-Git	|	Y	|	DVCS	|	U	|	http://www.va.gov/TRM/ToolPage.asp?tid=6396	|	An enterprise license has already been acquired for a comparable technology.
-GitHub Desktop	|	Y	|	DVCS	|	U	|	http://www.va.gov/TRM/ToolPage.asp?tid=9452	|	An enterprise license has already been acquired for a comparable technology.
-Github Enterprise	|	Y	|	DVCS	|	U	|	http://www.va.gov/TRM/ToolPage.asp?tid=9533	|	An enterprise license has already been acquired for a comparable technology.
-GitLab	|	Y	|	DVCS	|	U	|	http://www.va.gov/TRM/ToolPage.asp?tid=9580	|	An enterprise license has already been acquired for a comparable technology.
-GitLab Enterprise Edition (EE)	|	Y	|	DVCS	|	U	|	http://www.va.gov/TRM/ToolPage.asp?tid=9463	|	An enterprise license has already been acquired for a comparable technology.
-MetaHelper	|	N	|	Config	|	P	|	http://www.va.gov/TRM/ToolPage.asp?tid=5120#	|	manages the addition, subtraction, and merging of system configuration change-sets
-Microsoft BitLocker Administration and Monitoring (MBAM)	|	N	|	security	|	AwC	|	http://www.va.gov/TRM/ToolPage.asp?tid=8873	|	simplified administrative interface for BitLocker Drive Encryption
-Nexus	|	Y	|	Repository	|	AwC	|	http://www.va.gov/TRM/ToolPage.asp?tid=6411	|	An enterprise license has already been acquired for a comparable technology.
-Perforce	|	N	|	RCS	|	P	|	http://www.va.gov/TRM/ToolPage.asp?tid=268	|	Rational ClearCase with Multisite and Rational Team Concert are the approved technologies for software configuration management.
-Rational ClearCase with MultiSite	|	N	|	Config	|	AwC	|	http://www.va.gov/TRM/ToolPage.asp?tid=39	|	Rational ClearCase is being deprecated in favor of Rational Team Concert
-Rational Publishing Engine	|	N	|	Doc Gen	|	A	|	http://www.va.gov/TRM/ToolPage.asp?tid=6284	|	automates the generation of documents in different formats (PDF, HTML, Word)
-Rational Team Concert (RTC)	|	N	|	Dev	|	AwC	|	http://www.va.gov/TRM/ToolPage.asp?tid=5085	|	software development/delivery environment based on IBM Jazz platform
-Salt	|	N	|	Config	|	U	|	http://www.va.gov/TRM/ToolPage.asp?tid=9466	|	configuration management system, that maintains remote nodes in defined states
-Supermicro Update Manager (SUM)	|	Y	|	OS Tool	|	AwC	|	http://www.va.gov/TRM/ToolPage.asp?tid=9172	|	allows users to make local or remote edits to the BIOS and BMC/IPMI firmware
-Team Foundation Server (TFS)	|	N	|	Dev	|	AwC	|	http://www.va.gov/TRM/ToolPage.asp?tid=5668	|	Microsoft source control, data collection, reporting, and project tracking
-Tortoise SVN	|	Y	|	RCS	|	AwC	|	http://www.va.gov/TRM/ToolPage.asp?tid=6678	|	Apache Subversion (SVN) client, implemented as a Microsoft Windows shell extension
-Visual SourceSafe (VSS)	|	N	|	RCS	|	P	|	http://www.va.gov/TRM/ToolPage.asp?tid=5669	|	Micrsoft file-level version control system
+TRM Name	|	FOSS	|	Purpose	|	Approval	|	TRM TID	|	Analysis	|	TRM Link
+---	|	---	|	---	|	---	|	---	|	---	|	---
+Apache Subversion	|	Y	|	SVCS	|	P	|	6573	|	An enterprise license has already been acquired for a comparable technology.	|	http://www.va.gov/TRM/ToolPage.asp?tid=6573
+Apache Zookeeper	|	Y	|	Config	|	AwC	|	9590	|		|	http://www.va.gov/TRM/ToolPage.asp?tid=9590
+Archiva	|	Y	|	Repository	|	P	|	7727	|		|	http://www.va.gov/TRM/ToolPage.asp?tid=7727
+CA Agile Central	|	?	|	PM	|	AwC	|	9201	|	Enterprise licenses have already been acquired for comparable technologies.	|	http://www.va.gov/TRM/ToolPage.asp?tid=9201
+CVS	|	Y	|	SVCS	|	P	|	194	|	CVS does not support atomic commits of changes to versioned objects.	|	http://www.va.gov/TRM/ToolPage.asp?tid=194
+Dimensions CM	|	N	|	??	|	U	|	5136	|	The technology is proprietary and may lead to vendor lock-in.	|	http://www.va.gov/TRM/ToolPage.asp?tid=5136
+eGit	|	Y	|	DVCS	|	U	|	6395	|	plugin of the Git  for the Eclipse IDE	|	http://www.va.gov/TRM/ToolPage.asp?tid=6395
+Endevor Quick Edit	|	N	|	??	|	AwC	|	9480	|	This technology is only compatible with the z/OS mainframe and is not portable.	|	http://www.va.gov/TRM/ToolPage.asp?tid=9480
+Endevor Software Change Manager (SCM)	|	N	|	??	|	AwC	|	9481	|	This technology is only compatible with the z/OS mainframe and is not portable.	|	http://www.va.gov/TRM/ToolPage.asp?tid=9481
+Fisheye	|	N	|	??	|	U	|	6541	|	enables developers to browse and search software source code	|	http://www.va.gov/TRM/ToolPage.asp?tid=6541
+Git	|	Y	|	DVCS	|	U	|	6396	|	An enterprise license has already been acquired for a comparable technology.	|	http://www.va.gov/TRM/ToolPage.asp?tid=6396
+GitHub Desktop	|	Y	|	DVCS	|	U	|	9452	|	An enterprise license has already been acquired for a comparable technology.	|	http://www.va.gov/TRM/ToolPage.asp?tid=9452
+Github Enterprise	|	Y	|	DVCS	|	U	|	9533	|	An enterprise license has already been acquired for a comparable technology.	|	http://www.va.gov/TRM/ToolPage.asp?tid=9533
+GitLab	|	Y	|	DVCS	|	U	|	9580	|	An enterprise license has already been acquired for a comparable technology.	|	http://www.va.gov/TRM/ToolPage.asp?tid=9580
+GitLab Enterprise Edition (EE)	|	Y	|	DVCS	|	U	|	9463	|	An enterprise license has already been acquired for a comparable technology.	|	http://www.va.gov/TRM/ToolPage.asp?tid=9463
+MetaHelper	|	N	|	Config	|	P	|	5120	|	manages the addition, subtraction, and merging of system configuration change-sets	|	http://www.va.gov/TRM/ToolPage.asp?tid=5120
+Microsoft BitLocker Administration and Monitoring (MBAM)	|	N	|	security	|	AwC	|	8873	|	simplified administrative interface for BitLocker Drive Encryption	|	http://www.va.gov/TRM/ToolPage.asp?tid=8873
+Nexus	|	Y	|	Repository	|	AwC	|	6411	|	An enterprise license has already been acquired for a comparable technology.	|	http://www.va.gov/TRM/ToolPage.asp?tid=6411
+Perforce	|	N	|	RCS	|	P	|	268	|	Rational ClearCase with Multisite and Rational Team Concert are the approved technologies for software configuration management.	|	http://www.va.gov/TRM/ToolPage.asp?tid=268
+Rational ClearCase with MultiSite	|	N	|	Config	|	AwC	|	39	|	Rational ClearCase is being deprecated in favor of Rational Team Concert	|	http://www.va.gov/TRM/ToolPage.asp?tid=39
+Rational Publishing Engine	|	N	|	Doc Gen	|	A	|	6284	|	automates the generation of documents in different formats (PDF, HTML, Word)	|	http://www.va.gov/TRM/ToolPage.asp?tid=6284
+Rational Team Concert (RTC)	|	N	|	Dev	|	AwC	|	5085	|	software development/delivery environment based on IBM Jazz platform	|	http://www.va.gov/TRM/ToolPage.asp?tid=5085
+Salt	|	N	|	Config	|	U	|	9466	|	configuration management system, that maintains remote nodes in defined states	|	http://www.va.gov/TRM/ToolPage.asp?tid=9466
+Supermicro Update Manager (SUM)	|	Y	|	OS Tool	|	AwC	|	9172	|	allows users to make local or remote edits to the BIOS and BMC/IPMI firmware	|	http://www.va.gov/TRM/ToolPage.asp?tid=9172
+Team Foundation Server (TFS)	|	N	|	Dev	|	AwC	|	5668	|	Microsoft source control, data collection, reporting, and project tracking	|	http://www.va.gov/TRM/ToolPage.asp?tid=5668
+Tortoise SVN	|	Y	|	RCS	|	AwC	|	6678	|	Apache Subversion (SVN) client, implemented as a Microsoft Windows shell extension	|	http://www.va.gov/TRM/ToolPage.asp?tid=6678
+Visual SourceSafe (VSS)	|	N	|	RCS	|	P	|	5669	|	Microsoft  file-level version control	|	http://www.va.gov/TRM/ToolPage.asp?tid=5669
+
+
+
+
+## Abbreviations
+
+Abbreviation	|	Description
+---	|	---
+Dev	|	software development platform
+RCS	|	revision control system
+DVCS	|	distributed version control and source code management system
+SVCS	|	software version control system
+Config	|	configuration information manager
+Repository	|	Non-source code control repository
+PM	|	Project Management
+U	|	Unapproved
+P	|	Prohibited
+A	|	Approved
+AwC	|	Approved with Constraints
+z/OS	|	z/OS is a 64-bit operating system for IBM mainframe computers.
+Git	|	open source distributed version control and source code management system
+VIP policy	|	This product is no longer approved for information technology (IT) projects that are or will be mandated to follow standardized processes and tools governing IT activity critical to VA`s implementation of the Veteran-focused Integration Process (VIP). Projects to be governed by VIP are required to transition to the standardized tools by October 1, 2016. Please refer to the CIO memo dated January 4, 2016 that mandated specific criteria for being designated as VIP projects and the accompanying January 19, 2016 memo regarding OI&T project management and software/systems development standardized tools and repositories (see Reference tab).
+
+
+
 
 
 ### TRM Project Management Tools:
