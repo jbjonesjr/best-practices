@@ -7,3 +7,11 @@ The starting point and centerpiece is software source control and collaboration.
 
 
 ### Current VA TRM List of Software Configuration Management Tools
+
+
+
+References:
+https://government.github.com
+
+Governemnt only collaboration:
+https://github.com/government/best-practices
