@@ -1,14 +1,19 @@
-# VA Software Change and Configuration Management Tools
-* http://www.va.gov/TRM/searchpage.asp?catId=46&catname=Software%20Change%20and%20Configuration%20Management%20Tools
 
 
-#### VA TRM Categorization Framework:
+
+# VA TRM Categorization Framework:
 * http://www.va.gov/TRM/CategorizationHelpPage.asp
 * Does not include Source Code Version Control as a separate category. 
-* Source control is lumped together under the broader term "Software change and Configuration Management" which includes  Configuration Management (Config),  Project Management (PM), Non-source code Repository (Repo), and proprietary vendor-specific development platforms (Dev). 
-* This summary includes only those TRM products that actually are software source control platforms.
+* Source control is lumped together under the broader term "Software change and Configuration Management Tools" 
+
+#### VA Software Change and Configuration Management Tools
+* http://www.va.gov/TRM/searchpage.asp?catId=46&catname=Software%20Change%20and%20Configuration%20Management%20Tools
+* This includes a broad range of tools, including Configuration Management (Config),  Project Management (PM), Non-source code Repositories (Repo), and proprietary development environments (Dev). 
+* This summary includes only those TRM products that are actual software source control systems.
 
 
+
+# VA Software Source Control Systems
 
 TRM Name	|	FOSS	|	Purpose	|	Decision	|	TRM TID	|	Analysis	|	TRM Link
 ---	|	---	|	---	|	---	|	---	|	---	|	---
