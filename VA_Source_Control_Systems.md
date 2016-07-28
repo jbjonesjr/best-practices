@@ -1,4 +1,4 @@
-# VA Software Source Control Systems
+# VA TRM Software Source Control Systems
 
 TRM Name	|	FOSS	|	Purpose	|	Decision	|	TRM TID	|	Analysis	|	TRM Link
 ---	|	---	|	---	|	---	|	---	|	---	|	---
@@ -29,14 +29,10 @@ P	|	Prohibited
 
 Purpose	|	Description
 ---	|	---
-Dev	|	software development platform
+Dev	|	software development platform (proprietary)
 RCS	|	revision control system
 DVCS	|	distributed version control and source code management system
 SVCS	|	software version control system
-Config	|	configuration information manager
-Repo	|	Non-source code control repository
-PM	|	Project Management
-z/OS	|	z/OS is a 64-bit operating system for IBM mainframe computers.
 Git	|	open source distributed version control and source code management system
 VIP policy	|	This product is no longer approved for information technology (IT) projects that are or will be mandated to follow standardized processes and tools governing IT activity critical to VA`s implementation of the Veteran-focused Integration Process (VIP). Projects to be governed by VIP are required to transition to the standardized tools by October 1, 2016. Please refer to the CIO memo dated January 4, 2016 that mandated specific criteria for being designated as VIP projects and the accompanying January 19, 2016 memo regarding OI&T project management and software/systems development standardized tools and repositories (see Reference tab).
 
@@ -51,8 +47,6 @@ VIP policy	|	This product is no longer approved for information technology (IT) 
 * http://www.va.gov/TRM/searchpage.asp?catId=46&catname=Software%20Change%20and%20Configuration%20Management%20Tools
 * This includes a broad range of tools, including Configuration Management (Config),  Project Management (PM), Non-source code Repositories (Repo), and proprietary development environments (Dev). 
 * This summary includes only those TRM products that are actual software source control systems.
-
-
 
 
 
