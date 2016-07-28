@@ -2,9 +2,9 @@
 
 
 ## The Issue
-* VA's enterprise systems are open-source and comprised of millions of lines of code, which are not currently under source control.
-* The VA does not currently approve or use any of the current industry-standard source control systems to support these large open-source sytsems. 
-* VA needs a single, authoritative, industry-standard, open-source source code control system for all VA open-source software.
+* VA's core enterprise systems are open-source and large (comprised of millions of lines of code and tens of thousands of files). These are **not** currently under any industry-standard source code control. Software updates therefore rely on on manual processes or outdated tools, making evolution exceedingly slow and error prone.
+* The VA does not currently approve or use any of the current industry-standard source control systems to support these enterprise open-source sytsems. 
+* VA needs a single, authoritative, industry-standard, open-source source code control system, particularly for VA's large enterprise systems.
 
 ## Background
 * All VA software tools are reviewed and listed in the VA Technical Reference Model (TRM), VA's software and tools catalog.
@@ -31,7 +31,7 @@ Rational Team Concert (RTC) |	NO	|	Dev	|	Approved with Constraints	|	[5085](http
 ## References:
 * Why Google Stores Billions of Lines of Code in a Single Repository:  http://cacm.acm.org/magazines/2016/7/204032-why-google-stores-billions-of-lines-of-code-in-a-single-repository/fulltext
 * IBM is world's largest user of Github: https://www.blueboxcloud.com/insight/blog-article/github-ibm-com-running-on-blue-box
-*  VA VIP: Promotes use of legacy tools instead of Github:  https://www.osehra.org/sites/default/files/VIP_Guide_1_0_v14.pdf
+*  VA VIP: Promotes use of legacy tools instead of Github?:  https://www.osehra.org/sites/default/files/VIP_Guide_1_0_v14.pdf
 
 
 ## Abbreviations
