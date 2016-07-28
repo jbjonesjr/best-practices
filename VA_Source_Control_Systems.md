@@ -1,8 +1,8 @@
-# VA Enterprise Source Control: What is the Strategy?
+# VA Enterprise Software Source Control: What is the Strategy?
 
 
 # The Issue
-* VA needs a single, authoritative, industry-standard, open-source software source control system for all VA software.
+* VA needs a single, authoritative, industry-standard, open-source software source control system for all VA open-source software.
 * The VA does not currently use any of the current industry-standard source control systems. 
 
 # Background
@@ -11,17 +11,17 @@
 * Source code version control is subsumed under the broader [Software Change and Configuration Management Tools](http://www.va.gov/TRM/searchpage.asp?catId=46&catname=Software%20Change%20and%20Configuration%20Management%20Tools) category. This includes Configuration Management, Project Management, File Repositories, and proprietary development environments.
 * The subset of TRM Software Change and Configuration Management tools specific to source control are the following:
 
-TRM Name	|	FOSS	|	Purpose	|	Decision	|	TRM Link	|	Analysis
+TRM Name	|	OSS	|	Purpose	|	Decision	|	TRM Link	|	Analysis
 ---	|	---	|	---	|	---	|	---	|	---	
-Git	|	Yes	|	DVCS	|	U	|	[6396](http://www.va.gov/TRM/ToolPage.asp?tid=6396)	|	An enterprise license has already been acquired for a comparable technology
-GitHub Desktop	|	Yes	|	DVCS	|	U	|	[9452](http://www.va.gov/TRM/ToolPage.asp?tid=9452)	|	An enterprise license has already been acquired for a comparable technology.
-Github Enterprise	|	Yes	|	DVCS	|	U	|	[9533](http://www.va.gov/TRM/ToolPage.asp?tid=9533)	|	An enterprise license has already been acquired for a comparable technology.
-GitLab	|	Yes	|	DVCS	|	U	|	[9580](http://www.va.gov/TRM/ToolPage.asp?tid=9580)	|	An enterprise license has already been acquired for a comparable technology.
-GitLab Enterprise	|	Yes	|	DVCS	|	U	|	[9463](http://www.va.gov/TRM/ToolPage.asp?tid=9463)	|	An enterprise license has already been acquired for a comparable technology.
-Subversion	|	Yes	|	SVCS	|	P	|	[6573](http://www.va.gov/TRM/ToolPage.asp?tid=6573)	|	An enterprise license has already been acquired for a comparable technology.
-CVS	|	Yes	|	SVCS	|	P	|	[194](http://www.va.gov/TRM/ToolPage.asp?tid=194)	|	Does not support atomic commits of changes to versioned objects.
-Perforce	|	No	|	RCS	|	P	|	[268](http://www.va.gov/TRM/ToolPage.asp?tid=268)	|	An enterprise license has already been acquired for a comparable technology.
-Rational Team Concert|	No	|	Dev	|	AwC	|	[5085](http://www.va.gov/TRM/ToolPage.asp?tid=5085)	|	Proprietary  IBM Jazz software development/delivery environment
+Git	|	YES	|	DVCS	|	U	|	[6396](http://www.va.gov/TRM/ToolPage.asp?tid=6396)	|	An enterprise license has already been acquired for a comparable technology
+GitHub Desktop	|	YES	|	DVCS	|	U	|	[9452](http://www.va.gov/TRM/ToolPage.asp?tid=9452)	|	An enterprise license has already been acquired for a comparable technology.
+Github Enterprise	|	YES	|	DVCS	|	U	|	[9533](http://www.va.gov/TRM/ToolPage.asp?tid=9533)	|	An enterprise license has already been acquired for a comparable technology.
+GitLab	|	YES	|	DVCS	|	U	|	[9580](http://www.va.gov/TRM/ToolPage.asp?tid=9580)	|	An enterprise license has already been acquired for a comparable technology.
+GitLab Enterprise	|	YES	|	DVCS	|	U	|	[9463](http://www.va.gov/TRM/ToolPage.asp?tid=9463)	|	An enterprise license has already been acquired for a comparable technology.
+Subversion	|	YES	|	SVCS	|	P	|	[6573](http://www.va.gov/TRM/ToolPage.asp?tid=6573)	|	An enterprise license has already been acquired for a comparable technology.
+CVS	|	YES	|	SVCS	|	P	|	[194](http://www.va.gov/TRM/ToolPage.asp?tid=194)	|	Does not support atomic commits of changes to versioned objects.
+Perforce	|	NO	|	RCS	|	P	|	[268](http://www.va.gov/TRM/ToolPage.asp?tid=268)	|	An enterprise license has already been acquired for a comparable technology.
+Rational Team Concert|	NO	|	Dev	|	AwC	|	[5085](http://www.va.gov/TRM/ToolPage.asp?tid=5085)	|	IBM Jazz software development/delivery environment (proprietary)
 
 
 
@@ -36,10 +36,11 @@ U	|	Unapproved
 P	|	Prohibited
 
 
-## Functionality
+## Abbreviations
 
-Purpose	|	Description
+Abbreviation	|	Description
 ---	|	---
+OSS | Open-source software
 Dev	|	software development platform (proprietary)
 RCS	|	revision control system
 DVCS	|	distributed version control and source code management system
