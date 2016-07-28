@@ -1,19 +1,19 @@
 # VA Enterprise Source Code Control: What is the Strategy?
 
 
-# The Issue
+## The Issue
 * VA's enterprise systems are open-source and comprised of millions of lines of code, which are not currently under source control.
 * The VA does not currently approve or use any of the current industry-standard source control systems to support these large open-source sytsems. 
 * VA needs a single, authoritative, industry-standard, open-source source code control system for all VA open-source software.
 
-# Background
+## Background
 * All VA software tools are reviewed and listed in the VA Technical Reference Model (TRM), VA's software and tools catalog.
 * The [TRM Categorization Framework](http://www.va.gov/TRM/CategorizationHelpPage.asp) does not have any category specific for source code version control.
 * Source code version control is subsumed under the broader [Software Change and Configuration Management Tools](http://www.va.gov/TRM/searchpage.asp?catId=46&catname=Software%20Change%20and%20Configuration%20Management%20Tools) category. This includes Configuration Management, Project Management, File Repositories, and proprietary development environments.
 * The subset of TRM Software Change and Configuration Management tools specific to source code version control are the following:
 
 
-# VA TRM: Source Code Version Control
+## VA TRM: Source Code Version Control
 
 TRM Name	|	OSS	|	Purpose	|	Decision	|	TRM Link	|	Analysis
 ---	|	---	|	---	|	---	|	---	|	---	
@@ -53,13 +53,13 @@ Git	|	open source distributed version control and source code management system
 
 
 
-# References:
+## References:
 * Why Google Stores Billions of Lines of Code in a Single Repository:  http://cacm.acm.org/magazines/2016/7/204032-why-google-stores-billions-of-lines-of-code-in-a-single-repository/fulltext
 * IBM is world's largest user of Github: https://www.blueboxcloud.com/insight/blog-article/github-ibm-com-running-on-blue-box
 *  VA VIP: Promotes use of legacy tools instead of Github:  https://www.osehra.org/sites/default/files/VIP_Guide_1_0_v14.pdf
 
 
-# Issues
+## Issues
 * VA needs a single, authoritative, industry-standard, open-source software source-control system for all software.
 * The TRM does not currently list any of the current industry-standard source control systems as approved (all the git-based).
 * See [Issue #1](https://github.com/va-projects/best-practices/issues/1): Update TRM to industry best-practices
