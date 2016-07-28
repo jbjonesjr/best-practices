@@ -1,4 +1,4 @@
-# VA Software Source Control Systems
+# VA Software Source Control: What is the Strategy?
 
 * All VA software is reviewed and listed in the VA Technical Reference Model (TRM), the VA's software tools catalog.
 * The [TRM Categorization Framework](http://www.va.gov/TRM/CategorizationHelpPage.asp) does not have any category specific for software source control.
