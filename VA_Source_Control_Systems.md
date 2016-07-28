@@ -2,8 +2,9 @@
 
 
 ## The Issue
-* VA's core enterprise systems are open-source and large (comprised of millions of lines of code and tens of thousands of files). These are **not** currently under any industry-standard source code control. Software updates therefore rely on on manual processes or outdated tools, making evolution exceedingly slow and error prone.
-* The VA does not currently approve or use any of the current industry-standard source control systems to support these enterprise open-source sytsems. 
+* VA's core enterprise systems  are all open-source and large (VISTA, for example, is comprised of over two million lines of lines of code and tens of thousands of files). These enterprise systems are **not** currently under any industry-standard source code control. 
+* Software development and updates to VA's enterprise systems therefore rely on on manual processes or outdated tools, making evolution exceedingly slow and error prone.
+* The VA does not currently approve or use any of the current industry-standard source control systems to support these enterprise sytsems. 
 * VA needs a single, authoritative, industry-standard, open-source source code control system, particularly for VA's large enterprise systems.
 
 ## Background
