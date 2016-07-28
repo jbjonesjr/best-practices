@@ -1,8 +1,8 @@
-# VA Software Source Control: What is the Strategy?
+# VA Enterprise Source Control: What is the Strategy?
 
 
 # The Issue
-* VA needs a single, authoritative, industry-standard, open-source software source version control system for all VA software.
+* VA needs a single, authoritative, industry-standard, open-source software source control system for all VA software.
 * The VA does not currently use any of the current industry-standard source control systems. 
 
 # Background
