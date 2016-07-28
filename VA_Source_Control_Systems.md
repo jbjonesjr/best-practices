@@ -4,17 +4,17 @@
 * This summary includes only those TRM products that are actual software source control systems.
 
 
-TRM Name	|	FOSS	|	Purpose	|	Decision	|	TRM Link	|	Analysis	|	TRM Link
----	|	---	|	---	|	---	|	---	|	---	|	---
+TRM Name	|	FOSS	|	Purpose	|	Decision	|	TRM Link	|	Analysis
+---	|	---	|	---	|	---	|	---	|	---	
 Git	|	Yes	|	DVCS	|	U	|	[6396](http://www.va.gov/TRM/ToolPage.asp?tid=6396)	|	An enterprise license has already been acquired for a comparable technology
 GitHub Desktop	|	Yes	|	DVCS	|	U	|	[9452](http://www.va.gov/TRM/ToolPage.asp?tid=9452)	|	An enterprise license has already been acquired for a comparable technology.
-Github Enterprise	|	Yes	|	DVCS	|	U	|	9533	|	An enterprise license has already been acquired for a comparable technology.	|	http://www.va.gov/TRM/ToolPage.asp?tid=9533
-GitLab	|	Yes	|	DVCS	|	U	|	9580	|	An enterprise license has already been acquired for a comparable technology.	|	http://www.va.gov/TRM/ToolPage.asp?tid=9580
-GitLab Enterprise	|	Yes	|	DVCS	|	U	|	9463	|	An enterprise license has already been acquired for a comparable technology.	|	http://www.va.gov/TRM/ToolPage.asp?tid=9463
-Apache Subversion	|	Yes	|	SVCS	|	P	|	6573	|	An enterprise license has already been acquired for a comparable technology.	|	http://www.va.gov/TRM/ToolPage.asp?tid=6573
-CVS	|	Yes	|	SVCS	|	P	|	194	|	Does not support atomic commits of changes to versioned objects.	|	http://www.va.gov/TRM/ToolPage.asp?tid=194
-Perforce	|	No	|	RCS	|	P	|	268	|	An enterprise license has already been acquired for a comparable technology.	|	http://www.va.gov/TRM/ToolPage.asp?tid=268
-Rational Team Concert (RTC)	|	No	|	Dev	|	AwC	|	5085	|	Proprietary  IBM Jazz software development/delivery environment	|	http://www.va.gov/TRM/ToolPage.asp?tid=5085
+Github Enterprise	|	Yes	|	DVCS	|	U	|	[9533](http://www.va.gov/TRM/ToolPage.asp?tid=9533)	|	An enterprise license has already been acquired for a comparable technology.
+GitLab	|	Yes	|	DVCS	|	U	|	[9580](http://www.va.gov/TRM/ToolPage.asp?tid=9580)	|	An enterprise license has already been acquired for a comparable technology.
+GitLab Enterprise	|	Yes	|	DVCS	|	U	|	[9463](http://www.va.gov/TRM/ToolPage.asp?tid=9463)	|	An enterprise license has already been acquired for a comparable technology.
+Apache Subversion	|	Yes	|	SVCS	|	P	|	[6573](http://www.va.gov/TRM/ToolPage.asp?tid=6573)	|	An enterprise license has already been acquired for a comparable technology.
+CVS	|	Yes	|	SVCS	|	P	|	[194](http://www.va.gov/TRM/ToolPage.asp?tid=194)	|	Does not support atomic commits of changes to versioned objects.
+Perforce	|	No	|	RCS	|	P	|	[268](http://www.va.gov/TRM/ToolPage.asp?tid=268)	|	An enterprise license has already been acquired for a comparable technology.
+Rational Team Concert (RTC)	|	No	|	Dev	|	AwC	|	[5085](http://www.va.gov/TRM/ToolPage.asp?tid=5085)	|	Proprietary  IBM Jazz software development/delivery environment
 
 
 
