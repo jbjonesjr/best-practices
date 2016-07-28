@@ -27,15 +27,7 @@ CVS	|	YES	|	SVCS	|	P	|	[194](http://www.va.gov/TRM/ToolPage.asp?tid=194)	|	Does 
 Perforce	|	NO	|	RCS	|	P	|	[268](http://www.va.gov/TRM/ToolPage.asp?tid=268)	|	An enterprise license has already been acquired for a comparable technology.(?RTC)
 Rational Team Concert (RTC) |	NO	|	Dev	|	AwC	|	[5085](http://www.va.gov/TRM/ToolPage.asp?tid=5085)	|	IBM Jazz development/delivery environment. Note: While IBM still supports RTC for its external customers, it does not use RTC internally for code management. IBM has migrated all their source code to Github Enterprise. IBM's new cloud-based software platform called IBM Bluemix is also all Github-based.
 
-
-## Decisions
-Decision	|	Description
----	|	---
-A	|	Approved
-AwC	|	Approved with Constraints
-D	|	Divest
-U	|	Unapproved
-P	|	Prohibited
+Key to Decisions: Approved (A);  Approved with Constraints (AwC);  Divest (D); Unapproved (U); Prohibited (P)
 
 
 ## References:
