@@ -1,5 +1,9 @@
 # VA Software Source Control Platforms
-The following lists all TRM products that are software source control platforms and their current review status.
+
+* All VA software is reviewed and listed in the VA Technical Reference Model (TRM), the VA's software tools catalog.
+* The [TRM Categorization Framework](http://www.va.gov/TRM/CategorizationHelpPage.asp) does not have any category specific for software source control.
+* Software Source control is lumped together under the less specific TRM Category [Software Change and Configuration Management Tools](http://www.va.gov/TRM/searchpage.asp?catId=46&catname=Software%20Change%20and%20Configuration%20Management%20Tools), which includes Configuration Management Tools (Config),  Project Management Tools (PM), File Repositories (Repo), and Development Environments (Dev). 
+* The following lists only the TRM products specific to software source control.
 
 TRM Name	|	FOSS	|	Purpose	|	Decision	|	TRM Link	|	Analysis
 ---	|	---	|	---	|	---	|	---	|	---	
@@ -38,12 +42,6 @@ Git	|	open source distributed version control and source code management system
 
 
 
-# Note
-* The [VA TRM Categorization Framework](http://www.va.gov/TRM/CategorizationHelpPage.asp) does not include any category for software source control.
-* Source control is lumped together under the broader TRM Category [Software Change and Configuration Management Tools](http://www.va.gov/TRM/searchpage.asp?catId=46&catname=Software%20Change%20and%20Configuration%20Management%20Tools), which includes Configuration Management Tools (Config),  Project Management Tools (PM), File Repository Tools (Repo), and Integrated Development Environments (Dev). 
-
-
-
 # References:
 * Why Google Stores Billions of Lines of Code in a Single Repository:  http://cacm.acm.org/magazines/2016/7/204032-why-google-stores-billions-of-lines-of-code-in-a-single-repository/fulltext
 * IBM is world's largest user of Github: https://www.blueboxcloud.com/insight/blog-article/github-ibm-com-running-on-blue-box
@@ -52,8 +50,10 @@ Git	|	open source distributed version control and source code management system
 VIP policy:  This product is no longer approved for information technology (IT) projects that are or will be mandated to follow standardized processes and tools governing IT activity critical to VA`s implementation of the Veteran-focused Integration Process (VIP). Projects to be governed by VIP are required to transition to the standardized tools by October 1, 2016. Please refer to the CIO memo dated January 4, 2016 that mandated specific criteria for being designated as VIP projects and the accompanying January 19, 2016 memo regarding OI&T project management and software/systems development standardized tools and repositories (see Reference tab).
 
 
-
-# To Do:  TRM Update Request
+# Issues
+* VA needs a single, authoritative, industry-standard, open-source software source-control system for all software.
+* The TRM does not currently list any of the current industry-standard source control systems as approved (all the git-based DVCS).
+* The TRM needs to be updated to list Github as the approved DVCS.
 * http://trm.oit.va.gov/TRMRequestForm.asp
 * Access requires VA Intranet (Citrix)
 * May attach files (Word Excel PP  PDF) - max 7Mb
