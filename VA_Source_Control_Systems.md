@@ -52,7 +52,3 @@ Git	|	open source distributed version control and source code management system
 * VA needs a single, authoritative, industry-standard, open-source software source-control system for all software.
 * The TRM does not currently list any of the current industry-standard source control systems as approved (all the git-based).
 * See [Issue #1](https://github.com/va-projects/best-practices/issues/1): Update TRM to industry best-practices
-
-
-
-
