@@ -10,7 +10,10 @@
 * All VA software tools are reviewed and listed in the VA Technical Reference Model (TRM), VA's software and tools catalog.
 * The [TRM Categorization Framework](http://www.va.gov/TRM/CategorizationHelpPage.asp) does not have any category specific for source code version control.
 * Source code version control is subsumed under the broader [Software Change and Configuration Management Tools](http://www.va.gov/TRM/searchpage.asp?catId=46&catname=Software%20Change%20and%20Configuration%20Management%20Tools) category. This includes Configuration Management, Project Management, File Repositories, and proprietary development environments.
-* The subset of TRM Software Change and Configuration Management tools specific to source code control are the following:
+* The subset of TRM Software Change and Configuration Management tools specific to source code version control are the following:
+
+
+# VA TRM: Source Code Version Control
 
 TRM Name	|	OSS	|	Purpose	|	Decision	|	TRM Link	|	Analysis
 ---	|	---	|	---	|	---	|	---	|	---	
