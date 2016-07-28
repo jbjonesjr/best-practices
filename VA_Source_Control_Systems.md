@@ -1,5 +1,5 @@
 # VA Software Source Control Platforms
-* The following lists all TRM products that are software source control platforms and their current review status.
+The following lists all TRM products that are software source control platforms and their current review status.
 
 TRM Name	|	FOSS	|	Purpose	|	Decision	|	TRM Link	|	Analysis
 ---	|	---	|	---	|	---	|	---	|	---	
