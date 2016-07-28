@@ -51,11 +51,7 @@ Git	|	open source distributed version control and source code management system
 # Issues
 * VA needs a single, authoritative, industry-standard, open-source software source-control system for all software.
 * The TRM does not currently list any of the current industry-standard source control systems as approved (all the git-based DVCS).
-* The TRM needs to be updated to list Github as the approved DVCS.
-* http://trm.oit.va.gov/TRMRequestForm.asp
-* Access requires VA Intranet (Citrix)
-* May attach files (Word Excel PP  PDF) - max 7Mb
-
+* The TRM needs to be updated to list Github as the approved DVCS (see Issue #1)
 
 
 
