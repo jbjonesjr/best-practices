@@ -25,7 +25,7 @@ GitLab Enterprise	|	YES	|	DVCS	|	U	|	[9463](http://www.va.gov/TRM/ToolPage.asp?t
 Subversion	|	YES	|	SVCS	|	P	|	[6573](http://www.va.gov/TRM/ToolPage.asp?tid=6573)	|	An enterprise license has already been acquired for a comparable technology.
 CVS	|	YES	|	SVCS	|	P	|	[194](http://www.va.gov/TRM/ToolPage.asp?tid=194)	|	Does not support atomic commits of changes to versioned objects.
 Perforce	|	NO	|	RCS	|	P	|	[268](http://www.va.gov/TRM/ToolPage.asp?tid=268)	|	An enterprise license has already been acquired for a comparable technology.
-Rational Team Concert (RTC) |	NO	|	Dev	|	AwC	|	[5085](http://www.va.gov/TRM/ToolPage.asp?tid=5085)	|	IBM Jazz development/delivery environment. Note: While IBM still supports RTC for its external customers, it does not use RTC internally. IBM has migrated all their source code and development to Github Enterprise.
+Rational Team Concert (RTC) |	NO	|	Dev	|	AwC	|	[5085](http://www.va.gov/TRM/ToolPage.asp?tid=5085)	|	IBM Jazz development/delivery environment. Note: While IBM still supports RTC for its external customers, it does not use RTC internally for code management. IBM has migrated all their source code to Github Enterprise. IBM's new cloud-based software platform called IBM Bluemix is also all Github-based.
 
 
 
