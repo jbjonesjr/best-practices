@@ -28,9 +28,7 @@ Perforce	|	NO	|	RCS	|	P	|	[268](http://www.va.gov/TRM/ToolPage.asp?tid=268)	|	An
 Rational Team Concert (RTC) |	NO	|	Dev	|	AwC	|	[5085](http://www.va.gov/TRM/ToolPage.asp?tid=5085)	|	IBM Jazz development/delivery environment. Note: While IBM still supports RTC for its external customers, it does not use RTC internally for code management. IBM has migrated all their source code to Github Enterprise. IBM's new cloud-based software platform called IBM Bluemix is also all Github-based.
 
 
-
 ## Decisions
-
 Decision	|	Description
 ---	|	---
 A	|	Approved
@@ -40,8 +38,13 @@ U	|	Unapproved
 P	|	Prohibited
 
 
-## Abbreviations
+## References:
+* Why Google Stores Billions of Lines of Code in a Single Repository:  http://cacm.acm.org/magazines/2016/7/204032-why-google-stores-billions-of-lines-of-code-in-a-single-repository/fulltext
+* IBM is world's largest user of Github: https://www.blueboxcloud.com/insight/blog-article/github-ibm-com-running-on-blue-box
+*  VA VIP: Promotes use of legacy tools instead of Github:  https://www.osehra.org/sites/default/files/VIP_Guide_1_0_v14.pdf
 
+
+## Abbreviations
 Abbreviation	|	Description
 ---	|	---
 OSS | Open-source software
@@ -50,13 +53,6 @@ RCS	|	revision control system
 DVCS	|	distributed version control and source code management system
 SVCS	|	software version control system
 Git	|	open source distributed version control and source code management system
-
-
-
-## References:
-* Why Google Stores Billions of Lines of Code in a Single Repository:  http://cacm.acm.org/magazines/2016/7/204032-why-google-stores-billions-of-lines-of-code-in-a-single-repository/fulltext
-* IBM is world's largest user of Github: https://www.blueboxcloud.com/insight/blog-article/github-ibm-com-running-on-blue-box
-*  VA VIP: Promotes use of legacy tools instead of Github:  https://www.osehra.org/sites/default/files/VIP_Guide_1_0_v14.pdf
 
 
 ## Issues
