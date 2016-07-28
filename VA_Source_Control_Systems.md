@@ -1,18 +1,3 @@
-
-
-
-# VA TRM Categorization Framework:
-* http://www.va.gov/TRM/CategorizationHelpPage.asp
-* Does not include Source Code Version Control as a separate category. 
-* Source control is lumped together under the broader term "Software change and Configuration Management Tools" 
-
-#### VA Software Change and Configuration Management Tools
-* http://www.va.gov/TRM/searchpage.asp?catId=46&catname=Software%20Change%20and%20Configuration%20Management%20Tools
-* This includes a broad range of tools, including Configuration Management (Config),  Project Management (PM), Non-source code Repositories (Repo), and proprietary development environments (Dev). 
-* This summary includes only those TRM products that are actual software source control systems.
-
-
-
 # VA Software Source Control Systems
 
 TRM Name	|	FOSS	|	Purpose	|	Decision	|	TRM TID	|	Analysis	|	TRM Link
@@ -57,13 +42,27 @@ VIP policy	|	This product is no longer approved for information technology (IT) 
 
 
 
-### References:
+#### VA TRM Categorization Framework:
+* http://www.va.gov/TRM/CategorizationHelpPage.asp
+* Does not include Source Code Version Control as a separate category. 
+* Source control is lumped together under the broader term "Software change and Configuration Management Tools" 
+
+### VA Software Change and Configuration Management Tools
+* http://www.va.gov/TRM/searchpage.asp?catId=46&catname=Software%20Change%20and%20Configuration%20Management%20Tools
+* This includes a broad range of tools, including Configuration Management (Config),  Project Management (PM), Non-source code Repositories (Repo), and proprietary development environments (Dev). 
+* This summary includes only those TRM products that are actual software source control systems.
+
+
+
+
+
+# References:
 * Why Google Stores Billions of Lines of Code in a Single Repository:  http://cacm.acm.org/magazines/2016/7/204032-why-google-stores-billions-of-lines-of-code-in-a-single-repository/fulltext
 * IBM is world's largest user of Github: https://www.blueboxcloud.com/insight/blog-article/github-ibm-com-running-on-blue-box
 *  VA VIP: requires legacy tool instead of Github:  https://www.osehra.org/sites/default/files/VIP_Guide_1_0_v14.pdf
 
 
-#### To Do:  TRM Update Request
+# To Do:  TRM Update Request
 * http://trm.oit.va.gov/TRMRequestForm.asp
 * Access requires VA Intranet (Citrix)
 * May attach files (Word Excel PP  PDF) - max 7Mb
