@@ -38,12 +38,10 @@ Git	|	open source distributed version control and source code management system
 
 
 
-# VA TRM Categorization Framework:
-* http://www.va.gov/TRM/CategorizationHelpPage.asp
-* Does not include Source Code Version Control as a separate category. 
-* Source control is lumped together under the broader term "Software Change and Configuration Management Tools" 
-* http://www.va.gov/TRM/searchpage.asp?catId=46&catname=Software%20Change%20and%20Configuration%20Management%20Tools
-* This includes a broad range of tools, including Configuration Management (Config),  Project Management (PM), Non-source code Repositories (Repo), and proprietary development environments (Dev). 
+# Note
+* The [VA TRM Categorization Framework](http://www.va.gov/TRM/CategorizationHelpPage.asp) does not include any category for software source control.
+* Source control is lumped together under the broader TRM Category [Software Change and Configuration Management Tools](http://www.va.gov/TRM/searchpage.asp?catId=46&catname=Software%20Change%20and%20Configuration%20Management%20Tools), which includes Configuration Management Tools (Config),  Project Management Tools (PM), File Repository Tools (Repo), and Integrated Development Environments (Dev). 
+
 
 
 # References:
