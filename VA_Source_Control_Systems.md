@@ -3,10 +3,11 @@
 * This includes a broad range of tools, including Configuration Management (Config),  Project Management (PM), Non-source code Repositories (Repo), and proprietary development environments (Dev). 
 * This summary includes only those TRM products that are actual software source control systems.
 
+
 TRM Name	|	FOSS	|	Purpose	|	Decision	|	TRM Link	|	Analysis	|	TRM Link
 ---	|	---	|	---	|	---	|	---	|	---	|	---
-Git	|	Yes	|	DVCS	|	U	|	6396(http://www.va.gov/TRM/ToolPage.asp?tid=6396)	|	An enterprise license has already been acquired for a comparable technology
-GitHub Desktop	|	Yes	|	DVCS	|	U	|	9452	|	An enterprise license has already been acquired for a comparable technology.	|	http://www.va.gov/TRM/ToolPage.asp?tid=9452
+Git	|	Yes	|	DVCS	|	U	|	[6396](http://www.va.gov/TRM/ToolPage.asp?tid=6396)	|	An enterprise license has already been acquired for a comparable technology
+GitHub Desktop	|	Yes	|	DVCS	|	U	|	[9452](http://www.va.gov/TRM/ToolPage.asp?tid=9452)	|	An enterprise license has already been acquired for a comparable technology.
 Github Enterprise	|	Yes	|	DVCS	|	U	|	9533	|	An enterprise license has already been acquired for a comparable technology.	|	http://www.va.gov/TRM/ToolPage.asp?tid=9533
 GitLab	|	Yes	|	DVCS	|	U	|	9580	|	An enterprise license has already been acquired for a comparable technology.	|	http://www.va.gov/TRM/ToolPage.asp?tid=9580
 GitLab Enterprise	|	Yes	|	DVCS	|	U	|	9463	|	An enterprise license has already been acquired for a comparable technology.	|	http://www.va.gov/TRM/ToolPage.asp?tid=9463
