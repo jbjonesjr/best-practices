@@ -31,7 +31,7 @@ Rational Team Concert (RTC) |	NO	|	Dev	|	Approved with Constraints	|	[5085](http
 ## References:
 * Why Google Stores Billions of Lines of Code in a Single Repository:  http://cacm.acm.org/magazines/2016/7/204032-why-google-stores-billions-of-lines-of-code-in-a-single-repository/fulltext
 * IBM is world's largest user of Github: https://www.blueboxcloud.com/insight/blog-article/github-ibm-com-running-on-blue-box
-*  VA VIP: Promotes use of legacy tools instead of Github?:  https://www.osehra.org/sites/default/files/VIP_Guide_1_0_v14.pdf
+* VA ProPath and VIP: Recommend use of legacy tools instead of Github?:  https://www.osehra.org/sites/default/files/VIP_Guide_1_0_v14.pdf
 
 
 ## Abbreviations
