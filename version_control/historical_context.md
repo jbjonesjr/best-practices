@@ -1,8 +1,9 @@
 ## Version Control history
 
 TRM defined VCS systems (chart as of 3-Aug-2016):
+
 | Company | Product | Active? | Last Update | Active Roadmap | Notes |
-|:------- |:------- |:------:|:----------- |:----------:|
+|:------- |:------- |:------:|:----------- |:----------:| ---- |
 | OSS | Git Server | Y | 15-Jul-2016 | Y |
 | GitHub | GitHub.com | Y | 3-Aug-2016 | Y |
 | GitHub | GitHub Enterprise | Y | 3-Aug-2016 | Y |
