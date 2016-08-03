@@ -2,12 +2,17 @@
 
 TRM defined VCS systems:
 * Git-based
-  * Git
+  * Git Server
   * GitHub Enterprise
   * GitHub.com
   * GitLab CE
   * GitLab Enterprise
-* SVN
+* Apache SVN
 * CVS
 * Perforce
-* RTC Clear Case MultiSite
+* IBM RTC Clear Case MultiSite
+* IBM Rational Team Concert (RTC)
+* Serena Dimensions CM
+* Endevor Software Change Manager (SCM)
+* Microsoft Team Foundation Server (TFS)
+* Microsoft Visual Source Safe (VSS)
