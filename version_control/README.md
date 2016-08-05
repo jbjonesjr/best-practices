@@ -7,7 +7,7 @@ The TRM has multiple version control sytems listed, and the documents below will
 ## TRM-defined VCS
 
 | Manufacter | Product Name | TRM Status | VIP Consideration Recommendation |
-|:------- |:------- |:------:|:------- |
+|:------- |:------- |:------:|:-------:|
 | OSS | Git Server | [Divest](http://www.va.gov/TRM/ToolPage.asp?tid=6396) | No |
 | GitHub | GitHub Enterprise | [Divest](http://www.va.gov/TRM/ToolPage.asp?tid=9533#) | Yes |
 | GitLab | GitLab CE | [Unapproved](http://www.va.gov/TRM/ToolPage.asp?tid=9580) | No |
