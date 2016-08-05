@@ -15,3 +15,5 @@
 | Endevor | Software Change Manager (SCM) | Eclipse; Visual Studio; |
 | Microsoft | Team Foundation Server (TFS) | Visual Studio; IntelliJ IDEA; |
 | Microsoft | Visual Source Safe (VSS) | Visual Studio; IntelliJ IDEA; |
+
+sourced: [wikipedia](https://en.wikipedia.org/wiki/Comparison_of_version_control_software#User_interfaces)
