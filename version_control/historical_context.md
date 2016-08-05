@@ -12,7 +12,7 @@ TRM defined VCS systems (chart as of 3-Aug-2016):
 | Apache | Subversion | Y | 05-Aug-2015 | Y | |
 | OSS | CVS | N | 08-05-2008 | N | [Wikipedia](https://en.wikipedia.org/wiki/Concurrent_Versions_System) |
 | Perforce | Helix versioning engine | M? | 19-May-2016 | M? | [Wikipedia](https://www.perforce.com/resources/software-release-index) |
-| IBM | RTC Clear Case MultiSite | Y | 1-Mar-2016 | M? | (Minor,  Major)
+| IBM | RTC Clear Case MultiSite | Y | 1-Mar-2016 | M? | |
 | IBM | Rational Team Concert (RTC) | Y | 26-Jun-2015 | Y | |
 | Serena | Dimensions CM | Y | 6-Jun-2014 | M? | |
 | Endevor | Software Change Manager (SCM) | Y | 21-Jun-2016 | Y | |
