@@ -4,6 +4,7 @@ Not every version control is embraced, used by and integrated into the Open Sour
 
 ### Version Control Open Source interaction
 This section identifies how products participate and support the Open Source community.
+
 | Manufacter | Product Name | Notes | 
 |:------- |:------- |:------:|
 | OSS | Git Server | Open Source Software, underpinning of modern OSS workflows. |
