@@ -3,10 +3,13 @@ The version control system of today might not be the version control system of t
 
 Using the TRM-mentioned VCS, I've constructed a table describing the ability to transfer data {FROM} one system {TO} another. The rows represent the destination system, while the columns represent sources.
 
+| Note |
+|:------:|
+| When reviewing tools and techniques, I only used tools that were officially supported by the VCS or had a long history of working successfully. |
 
 | | Git | GHE | GL CE | GL EE | SVN | CVS | Perforce | CC-Multi | RTC | Dim. | SCM | TFS | VSS |
 |:------- |:------- |:------:|:-------:|:-------:|:------:|:-------:|:------:|:------:|:-------:|:-------:|:------:|:-------:|:-------:|:------:|
-| Git | - | **X** | **X** | **X** | **X** | | **X** |  |  |   |  | **X** | **X**|
+| Git | - | **X** | **X** | **X** | **X** | | **X** |  |  |   |  | | |
 | GitHub Enterprise | **X** | - | **X** | **X** | **X** | **X** | **X** | **X** | **X** | **X** | | **X** | **X** |
 | GitLab CE | **X** | **X** | - | **X** | **X** | **X** | **X** |  |  | **X** | | 
 | GitLab EE  | **X** | **X** | **X** | - | **X** | **X** | **X** |  |  | **X** | | 
