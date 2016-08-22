@@ -5,17 +5,17 @@ Using the TRM-mentioned VCS, I've constructed a table describing the ability to 
 
 
 | | Git | GHE | GL CE | GL EE | SVN | CVS | Perforce | CC-Multi | RTC | Dim. | SCM | TFS | VSS |
-|:------- |:------- |:------:|:------- |:------- |:------:|:------- |:------- |:------:|:------- |:------- |:------:|:------- |:------- |:------:|
-| Git | |
-| GitHub Enterprise | |
-| GitLab CE | |
-| GitLab EE | |
-| Subversion |  |
-| CVS |   |
-| Perforce |  |
-| RTC Clear Case MultiSite |  |
-| Rational Team Concert (RTC) |  |
-| Dimensions CM | |
-| Software Change Manager (SCM) |  |
-| Team Foundation Server (TFS) | |
-| Visual Source Safe (VSS) |  |
+|:------- |:------- |:------:|:-------:|:-------:|:------:|:-------:|:------:|:------:|:-------:|:-------:|:------:|:-------:|:-------:|:------:|
+| Git | - | **X** | **X** | **X** | **X** | | **X** |  |  |   |  | **X** | **X**v|
+| GitHub Enterprise | **X** | - | **X** | **X** | **X** | **X** | **X** | **X** | **X** | **X** | | **X** | **X** |
+| GitLab CE | **X** | **X** | - | **X** | **X** | **X** | **X** |  |  | **X** | | 
+| GitLab EE  | **X** | **X** | **X** | - | **X** | **X** | **X** |  |  | **X** | | 
+| Subversion |  | | |  | - | **X** |
+| CVS |   | | | |  | - |
+| Perforce |  | | | | |  | - |
+| RTC Clear Case MultiSite |  | |  | | | |  | - |
+| Rational Team Concert (RTC) |  | | |  | | | |  | - |
+| Dimensions CM | | | | |  | | | |  | - |
+| Software Change Manager (SCM) |  | | | | |  | | | |  | - |
+| Team Foundation Server (TFS) | | | | | | |  | | | |  | - |
+| Visual Source Safe (VSS) |  | | | | | | |  | | | |  | - |
