@@ -16,7 +16,7 @@ Over the past few years, IBM has received pushback from their complete suite, an
 | Apache | Subversion | If you install a Subversion client for Eclipse into the Eclipse instance that supports Rational Team Concert, you can link Subversion revisions to work items. |
 | OSS | CVS | Can import, can't use alongside RTC. |
 | Perforce | Helix versioning engine | Perforce had trigger integration years ago, but is no longer included in the help documents. Removed?  |
-| IBM | RTC Clear Case MultiSite | Native |
+| IBM | RTC Clear Case MultiSite | Integration via Jazz Connectors to translate ClearCase objects to RTC objects. |
 | IBM | Rational Team Concert (RTC) | Native |
 | Serena | Dimensions CM | Integration in RTC 4, not since. |
 | Endevor | Software Change Manager (SCM) | IBM has a competing SLCM tool, no integration. |
