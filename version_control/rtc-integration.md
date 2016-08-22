@@ -10,7 +10,7 @@ Over the past few years, IBM has received pushback from their complete suite, an
 | Manufacter | Product Name | RTC Support | 
 |:------- |:------- |:------:|
 | OSS | Git Server | You can use IBM® Rational® Team Concert™ and Git integration to manage process enforcement for Git source control operations and to associate work items with Git commits. The RTC for Jenkins plugin associates Git Builds with Work Objects as well. There is additional configuration (either connection server or server-side hooks) required to make this integration work. |
-| GitHub | GitHub Enterprise | Simplified Git Integration that is managed via web configurations, not server side scripts. Also supports build integration through Jenkins. |
+| GitHub | GitHub Enterprise | Same features as the Git integration described above, but with a simplified management process,via web configurations not server side scripts. Also includes the Jenkins/Build integration and optional support for the GitHub deployment API. |
 | GitLab | GitLab CE | Similar to Git intergration via server side hooks. |
 | GitLab | GitLab EE | Similar to Git intergration via server side hooks. |
 | Apache | Subversion | If you install a Subversion client for Eclipse into the Eclipse instance that supports Rational Team Concert, you can link Subversion revisions to work items. |
