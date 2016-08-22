@@ -7,19 +7,19 @@ VA has standardized on RTC for reporting and planning within VIP, but not explic
 Over the past few years, IBM has received pushback from their complete suite, and has started to open up integration amongst external tools. This page attempts to describe some of those integrations.
 
 
-| Manufacter | Product Name | IDE Support | 
+| Manufacter | Product Name | RTC Support | 
 |:------- |:------- |:------:|
-| OSS | Git Server | |
-| GitHub | GitHub Enterprise | |
-| GitLab | GitLab CE | |
-| GitLab | GitLab EE | |
-| Apache | Subversion |  |
-| OSS | CVS |   |
-| Perforce | Helix versioning engine |  |
-| IBM | RTC Clear Case MultiSite |  |
-| IBM | Rational Team Concert (RTC) |  |
-| Serena | Dimensions CM | |
-| Endevor | Software Change Manager (SCM) |  |
-| Microsoft | Team Foundation Server (TFS) | |
-| Microsoft | Visual Source Safe (VSS) |  |
+| OSS | Git Server | You can use IBM® Rational® Team Concert™ and Git integration to manage process enforcement for Git source control operations and to associate work items with Git commits. The RTC for Jenkins plugin associates Git Builds with Work Objects as well. There is additional configuration (either connection server or server-side hooks) required to make this integration work. |
+| GitHub | GitHub Enterprise | Simplified Git Integration that is managed via web configurations, not server side scripts. Also supports build integration through Jenkins. |
+| GitLab | GitLab CE | Similar to Git intergration via server side hooks. |
+| GitLab | GitLab EE | Similar to Git intergration via server side hooks. |
+| Apache | Subversion | If you install a Subversion client for Eclipse into the Eclipse instance that supports Rational Team Concert, you can link Subversion revisions to work items. |
+| OSS | CVS | Can import, can't use alongside RTC. |
+| Perforce | Helix versioning engine | Perforce had trigger integration years ago, but is no longer included in the help documents. Removed?  |
+| IBM | RTC Clear Case MultiSite | Native |
+| IBM | Rational Team Concert (RTC) | Native |
+| Serena | Dimensions CM | Integration in RTC 4, not since. |
+| Endevor | Software Change Manager (SCM) | IBM has a competing SLCM tool, no integration. |
+| Microsoft | Team Foundation Server (TFS) | Limited integration via third-party tools (including MS-SCCI) |
+| Microsoft | Visual Source Safe (VSS) | Limited integration via third-party tools (including MS-SCCI) |
 
