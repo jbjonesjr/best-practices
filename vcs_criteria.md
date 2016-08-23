@@ -7,9 +7,12 @@ This document attempts to layout the criteria (and justification) that VIP shoul
 * Ease of Use (including IDE-support)
 * Ease of Training
 * Integration with other preferred tools, including RTC
-* Collaboration
-* Discovery
-* Web-Interface
+* Supports Inner Source workflows
+* Improve Code Discovery
+* Web-Interface for ease of use
 * Minimize Vendor Lock-in
 * Uses Modern Deveopment Best Practices
-* RoadMap is strong
+* Product Roadmapis strong and secure
+* Interoperable with Federal CIO's [`Federal Source Code Policy`](sourcecode.cio.gov)
+* Support VA identity and authentication standards as defined by the Enterprise
+* Support Enterprise requirements
