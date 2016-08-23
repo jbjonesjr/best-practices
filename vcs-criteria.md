@@ -1,2 +1,0 @@
-## VIP Version Control Criteria
-
