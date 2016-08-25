@@ -15,7 +15,7 @@ The folllowing is a list of products which include source code VCS capability (e
 | OSS | CVS | [Prohibited](http://www.va.gov/TRM/ToolPage.asp?tid=194) | No |
 | Perforce | Helix versioning engine | [Prohibited](http://www.va.gov/TRM/ToolPage.asp?tid=268) | Divest | 
 | IBM | Clear Case MultiSite | [Divest (Read-only)](http://www.va.gov/TRM/ToolPage.asp?tid=39#) | Same |
-| IBM | Rational Team Concert (RTC) | [Approved](http://www.va.gov/TRM/ToolPage.asp?tid=5085#) | Approve with constraints: Use only for project planning and management; For all code management and VCS capability use Git |
+| IBM | Rational Team Concert (RTC) | [Approved](http://www.va.gov/TRM/ToolPage.asp?tid=5085#) | Approve with constraints: Use only for project planning and management; For VCS use Git |
 | Serena | Dimensions CM | [Divest](http://www.va.gov/TRM/ToolPage.asp?tid=5136#) | No change |
 | Endevor | Software Change Manager (SCM) | [Approved](http://www.va.gov/TRM/ToolPage.asp?tid=9481#) | Divest |
 | Microsoft | Team Foundation Server (TFS) | [Approved](http://www.va.gov/TRM/ToolPage.asp?tid=5668#) | Divest | 
