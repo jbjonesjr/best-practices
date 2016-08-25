@@ -17,19 +17,20 @@ Recommendation for VIP to meet compliance with the U.S. Federal software reposit
 |:------- |:------- |:------:|:-------:|
 | OSS | Git Server | [Divest](http://www.va.gov/TRM/ToolPage.asp?tid=6396) | Approve |
 | GitHub | GitHub Enterprise | [Divest](http://www.va.gov/TRM/ToolPage.asp?tid=9533#) | Approve |
-| GitLab | GitLab CE | [Unapproved](http://www.va.gov/TRM/ToolPage.asp?tid=9580) | __Approve with constraints__ <br> (must integrate with Github Enterprise) |
-| GitLab | GitLab Enterprise | [Divest](http://www.va.gov/TRM/ToolPage.asp?tid=9463#) | __Approve with constraints__ <br> (must integrate with Github Enterprise) |
+| GitLab | GitLab CE | [Unapproved](http://www.va.gov/TRM/ToolPage.asp?tid=9580) | __Approve with constraints__*  |
+| GitLab | GitLab Enterprise | [Divest](http://www.va.gov/TRM/ToolPage.asp?tid=9463#) | __Approve with constraints__ *|
 | Apache | Subversion | [Prohibited](http://www.va.gov/TRM/ToolPage.asp?tid=6573) | No change |
 | OSS | CVS | [Prohibited](http://www.va.gov/TRM/ToolPage.asp?tid=194) | No change |
-| Perforce | Helix versioning engine | [Prohibited](http://www.va.gov/TRM/ToolPage.asp?tid=268) | No change <br>(Migrate all existing  code in Perforce to Github Enterprise) | 
-| IBM | Clear Case MultiSite | [Divest (Read-only)](http://www.va.gov/TRM/ToolPage.asp?tid=39#) | No change <br>(Migrate all existing  code in Clear Case to Github Enterprise) | 
-| IBM | Rational Team Concert (RTC) | [Approved](http://www.va.gov/TRM/ToolPage.asp?tid=5085#) | __Approve with constraints__ <br>(Use only for project management; <br>for all code use Github Enterprise) <br> OR <br> __Migrate to IBM BlueMix__ <br>(Web-based DevOps with integrated Github Enterprise) |
-| Serena | Dimensions CM | [Divest](http://www.va.gov/TRM/ToolPage.asp?tid=5136#) | No change |
-| Endevor | Software Change Manager (SCM) | [Approved](http://www.va.gov/TRM/ToolPage.asp?tid=9481#) |  No change |
+| Perforce | Helix versioning engine | [Prohibited](http://www.va.gov/TRM/ToolPage.asp?tid=268) | Prohibited | 
+| IBM | Clear Case MultiSite | [Divest (Read-only)](http://www.va.gov/TRM/ToolPage.asp?tid=39#) | Divest | 
+| IBM | Rational Team Concert (RTC) | [Approved](http://www.va.gov/TRM/ToolPage.asp?tid=5085#) | __Approve with constraints__ <br>(Use restricted for project management / reporting only; VCS is handled by Github Enterprise) <br> OR <br> __Migrate to IBM BlueMix__ <br>(Web-based DevOps with integrated  Github Enterprise) |
+| Serena | Dimensions CM | [Divest](http://www.va.gov/TRM/ToolPage.asp?tid=5136#) | Divest |
+| Endevor | Software Change Manager (SCM) | [Approved](http://www.va.gov/TRM/ToolPage.asp?tid=9481#) |  Divest |
 | Microsoft | Team Foundation Server (TFS) | [Approved](http://www.va.gov/TRM/ToolPage.asp?tid=5668#) | Divest |
-| Microsoft | Visual Source Safe (VSS) | [Prohibited](http://www.va.gov/TRM/ToolPage.asp?tid=5669) | No change |
+| Microsoft | Visual Source Safe (VSS) | [Prohibited](http://www.va.gov/TRM/ToolPage.asp?tid=5669) | Prohibited |
 
-Note: for all "Divest"
+For any code in VA currently on "Prohibited" or  "Divest" VCS systems, all code will be migrated to Github Enterprise.
+For "Approved with Constraints" all VCS functionality must fully integrated with Github Enterprise.
 
 ### IBM BlueMix: The Next-Gen Cloud-based DevOps with fully integrated Github Enterprise
 * [IBM BlueMix - Github Entertprise Service](https://developer.ibm.com/bluemix/2016/02/22/github-enterprise-service)
