@@ -13,7 +13,7 @@ Source code version control may be a core feature (Perforce, CVS, or Github and 
 
 Recommendation for VIP to meet compliance with the U.S. Federal software repository / version control directives are included.
 
-| Manufacter | Product  | Current Status |Recommended<br>Status |
+| Manufacter | Product  | Current <br> TRM Status |Recommended<br>TRM Status |
 |:------- |:------- |:------:|:-------:|
 | OSS | Git Server | [Divest](http://www.va.gov/TRM/ToolPage.asp?tid=6396) | __Approve__ |
 | GitHub | GitHub Enterprise | [Divest](http://www.va.gov/TRM/ToolPage.asp?tid=9533#) | __Approve__ |
