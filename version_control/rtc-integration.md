@@ -4,7 +4,7 @@ Rational Team Concert (RTC) is a suite of productivity tools from IBM that inclu
 
 VA has standardized on RTC for reporting and planning within VIP, but not explicitly any other of it's use cases.
 
-Over the past few years, IBM has received pushback from their complete suite, and has started to open up integration amongst external tools. This page attempts to describe some of those integrations.
+Over the past few years, IBM has received pushback from their complete suite, and has started to open up integration amongst external tools. This page describes some of these integrations.
 
 
 | Manufacter | Product Name | RTC Support | 
