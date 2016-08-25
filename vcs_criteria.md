@@ -1,8 +1,8 @@
 ## VIP Version Control Criteria
 
-The Veteran Affairs (VA) VIP program has standardized on a feature and bug tracking tool as well as a reporting tool in IBM Rational Team Concert. __However, it has not defined a Version Control System.__
+The VA Veteran Integrated Program (VIP) has standardized on a features for software bug tracking and project management as provided IBM Rational Team Concert (RTC). __However, VA has not defined any enterprise standard Version Control System.__
 
-This document attempts to layout the criteria (and justification) that VIP should factor when deciding on a Version Control System (VCS) of record.
+This document outlines the criteria and justification that VA should incorporate when deciding on a Version Control System (VCS) of record.
 
 ### Ease of Use (including IDE-support)
 The VCS shall make it easy for VIP users to interact with the tool of choice. This includes integration with all Modern Development Tools, as well as a web interface that can support viewing, editing, and commenting to make non-technical interaction simple.
