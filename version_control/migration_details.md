@@ -1,12 +1,12 @@
 ## Future VCS migration concerns
-The version control system (VCS) one uses today likely not be the version control system one uses in the future.  
 
-Therefore the capability to transfer data and code into and out of different VCS systems is of utmost importance to assuring the future access and re-usability of the code.
+The version control system (VCS) one uses today is not the version control system one uses in the future.  
 
-Using the TRM-listed VCS, the following table lists the capability to transfer data from one VCS system to another VCS system. 
-The columns represent source systems; the rows represent the destination systems.
+Therefore the capability to import and export all data and code into and out of the maximum number of other VCS systems is of utmost importance in selecting a VCS to assure access and re-usability of the code, thus "future-proofing" the code.
 
-__Of note is that Github Enterprise is the only VCS capabile of importing all data and code of all other VCS systems, i.e.  "Universal Repository".__ No other VCS system has this universal import/exprt capability.  
+Using the TRM-listed VCS, the following table lists the capability to transfer data from one VCS system to another VCS systems. (The columns represent source systems; the rows represent the destination systems.)
+
+__Github Enterprise is the VCS capabile of importing all data and code from all other VCS systems__. No other VCS system has this universal import/export capability.
 
 
 | Note |
