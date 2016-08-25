@@ -4,7 +4,7 @@ The version control system one uses today is not the VCS one will use in the fut
 
 The following table lists the capability to export and import data from one VCS system to another VCS systems. The columns represent source systems {FROM}; the rows represent the destination systems {TO}.
 
-As the table demonstrates, there is only one VCS that spans the entire row meaning that it would accomodate all legacy code in all current VA VCS systems, allowing VA's code to be managed by one single "Universal Repository". No other VCS other than Github Enterprise has this capability.
+There is only one VCS that spans the entire row, meaning that it would accomodate all legacy code in all current VCS systems in VA. This will allow VA to manage *all* its code by *one single* enterprise VCS.  No other VCS other than Github Enterprise fulfills this criteria as a "Universal Repository".
 
 
 | Note |
