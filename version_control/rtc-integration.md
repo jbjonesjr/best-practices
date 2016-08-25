@@ -1,4 +1,4 @@
-## How Version Control Systems integrate with Rational Team Concert
+## IBM Rational Team Concert Integrations to Version Control Systems
 
 Rational Team Concert (RTC) is a suite of tools from IBM that includes project planning, bug tracking, build and deployments, and reporting. It integrates standalone IBM tools such as ClearCase to create a suite of tools for the software development process.
 
