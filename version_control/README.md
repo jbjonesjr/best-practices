@@ -13,11 +13,21 @@ The folllowing is a list of products which include source code VCS capability (e
 | GitLab | GitLab EE | [Divest](http://www.va.gov/TRM/ToolPage.asp?tid=9463#) | No |
 | Apache | Subversion | [Prohibited](http://www.va.gov/TRM/ToolPage.asp?tid=6573) | No |
 | OSS | CVS | [Prohibited](http://www.va.gov/TRM/ToolPage.asp?tid=194) | No |
-| Perforce | Helix versioning engine | [Prohibited](http://www.va.gov/TRM/ToolPage.asp?tid=268) | No | 
-| IBM | Clear Case MultiSite | [Divest (Read-only)](http://www.va.gov/TRM/ToolPage.asp?tid=39#) | No |
-| IBM | Rational Team Concert (RTC) | [Approved](http://www.va.gov/TRM/ToolPage.asp?tid=5085#) | Use VCS capability of Git |
-| Serena | Dimensions CM | [Divest](http://www.va.gov/TRM/ToolPage.asp?tid=5136#) | No |
-| Endevor | Software Change Manager (SCM) | [Approved](http://www.va.gov/TRM/ToolPage.asp?tid=9481#) | No |
-| Microsoft | Team Foundation Server (TFS) | [Approved](http://www.va.gov/TRM/ToolPage.asp?tid=5668#) | No | 
-| Microsoft | Visual Source Safe (VSS) | [Prohibited](http://www.va.gov/TRM/ToolPage.asp?tid=5669) | No |
+| Perforce | Helix versioning engine | [Prohibited](http://www.va.gov/TRM/ToolPage.asp?tid=268) | Divest | 
+| IBM | Clear Case MultiSite | [Divest (Read-only)](http://www.va.gov/TRM/ToolPage.asp?tid=39#) | Same |
+| IBM | Rational Team Concert (RTC) | [Approved](http://www.va.gov/TRM/ToolPage.asp?tid=5085#) | Approve with constraints: Use only for project planning and management; For all code management and VCS capability use Git |
+| Serena | Dimensions CM | [Divest](http://www.va.gov/TRM/ToolPage.asp?tid=5136#) | No change |
+| Endevor | Software Change Manager (SCM) | [Approved](http://www.va.gov/TRM/ToolPage.asp?tid=9481#) | Divest |
+| Microsoft | Team Foundation Server (TFS) | [Approved](http://www.va.gov/TRM/ToolPage.asp?tid=5668#) | Divest | 
+| Microsoft | Visual Source Safe (VSS) | [Prohibited](http://www.va.gov/TRM/ToolPage.asp?tid=5669) | Same |
+
+
+__Key recommendations:__
+* Currently none of VISTA's MUMPS code is maintained in any VCS system (over 2 million lines / 35 thousand files). All VISTA M-code and files should be migrated and version controlled on Git.
+* Currently all CPRS code is maintained in the Perforce VCS system (20+ years; million of lines) . This should be migrated to Git to provide VA enterprise standard approach to VCS.
+
+
+
+
+
 
