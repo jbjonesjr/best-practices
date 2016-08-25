@@ -22,7 +22,7 @@ The folllowing is a list of products which include source code VCS capability (e
 | Microsoft | Visual Source Safe (VSS) | [Prohibited](http://www.va.gov/TRM/ToolPage.asp?tid=5669) | Same |
 
 
-__Key recommendations:__
+__Mission-critical VIP Recommendations:__
 * Currently none of VISTA's MUMPS code is maintained in any VCS system (over 2 million lines / 35 thousand files). All VISTA M-code and files should be migrated and version controlled on Git.
 * Currently all CPRS code is maintained in the Perforce VCS system (20+ years; million of lines) . This should be migrated to Git to provide VA enterprise standard approach to VCS.
 
