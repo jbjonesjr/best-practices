@@ -13,7 +13,7 @@ Source code version control may be a core feature (Perforce, CVS, or Github and 
 
 Recommendation for VIP to meet compliance with the U.S. Federal software repository / version control directives are included.
 
-| Manufacter | Product  | Current <br> TRM Status |Recommended<br>TRM Status |
+| Manufacter | Product  | Current <br> Status |Recommended<br> Status |
 |:------- |:------- |:------:|:-------:|
 | OSS | Git Server | [Divest](http://www.va.gov/TRM/ToolPage.asp?tid=6396) | __Approve__ |
 | GitHub | GitHub Enterprise | [Divest](http://www.va.gov/TRM/ToolPage.asp?tid=9533#) | __Approve__ |
@@ -24,7 +24,7 @@ Recommendation for VIP to meet compliance with the U.S. Federal software reposit
 | Perforce | Helix versioning engine | [Prohibited](http://www.va.gov/TRM/ToolPage.asp?tid=268) | No change | 
 | IBM | Clear Case MultiSite | [Divest (Read-only)](http://www.va.gov/TRM/ToolPage.asp?tid=39#) | No change | 
 | IBM | Rational Team Concert (RTC) | [Approved](http://www.va.gov/TRM/ToolPage.asp?tid=5085#) |  __Divest; Migrate to IBM BlueMix__ <br>(Web-based DevOps with integrated  Github Enterprise) <br> OR <br> __Approve with constraints__* <br>(Use is restricted for project management and bug reports; all code/VCS is in Github Enterprise|
-| Serena | Dimensions CM | [Divest](http://www.va.gov/TRM/ToolPage.asp?tid=5136#) | Divest* |
+| Serena | Dimensions CM | [Divest](http://www.va.gov/TRM/ToolPage.asp?tid=5136#) | No change |
 | Endevor | Software Change Manager (SCM) | [Approved](http://www.va.gov/TRM/ToolPage.asp?tid=9481#) |  Divest* |
 | Microsoft | Team Foundation Server (TFS) | [Approved](http://www.va.gov/TRM/ToolPage.asp?tid=5668#) | Divest* |
 | Microsoft | Visual Source Safe (VSS) | [Prohibited](http://www.va.gov/TRM/ToolPage.asp?tid=5669) | No change |
