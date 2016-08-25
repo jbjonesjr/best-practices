@@ -1,10 +1,13 @@
 ## How Version Control Systems integrate with Rational Team Concert
 
-Rational Team Concert (RTC) is a suite of productivity tools from IBM that includes collaborative planning, version control, build and deployments, and reporting. It integrates standalone IBM tools, including ClearCase, to create a integrated suite of tools for the software development process.
+Rational Team Concert (RTC) is a suite of tools from IBM that includes project planning, bug tracking, build and deployments, and reporting. It integrates standalone IBM tools such as ClearCase to create a suite of tools for the software development process.
 
-VA has standardized on RTC for reporting and planning within VIP, but not explicitly any other of it's use cases.
+VA has standardized on RTC for project planning and reporting for VIP. VA has not, however, defined any policy regarding source code version control specifically. 
 
-Over the past few years, IBM has received pushback from their complete suite, and has started to open up integration amongst external tools. This page describes some of these integrations.
+Over the past few years, IBM has received pushback from its closed, proprietary suite, and has started to open up integration with open, best-of-breed tools.  This page describes some of these IBM RTC integrations.
+
+__Note that currently IBM is the world's largest user of Github,  with over 10,000 paid developer seats on Github Enterprise.  IBM's next-generation enterprise software management platform called BlueMix is also all Github Enterprise-based.__
+
 
 
 | Manufacter | Product Name | RTC Support | 
