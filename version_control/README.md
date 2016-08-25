@@ -23,7 +23,7 @@ Recommendation for VIP to meet compliance with the U.S. Federal software reposit
 | OSS | CVS | [Prohibited](http://www.va.gov/TRM/ToolPage.asp?tid=194) | No change |
 | Perforce | Helix versioning engine | [Prohibited](http://www.va.gov/TRM/ToolPage.asp?tid=268) | Prohibited* | 
 | IBM | Clear Case MultiSite | [Divest (Read-only)](http://www.va.gov/TRM/ToolPage.asp?tid=39#) | Divest* | 
-| IBM | Rational Team Concert (RTC) | [Approved](http://www.va.gov/TRM/ToolPage.asp?tid=5085#) |  __Divest and migrate to IBM BlueMix__ <br>(Web-based DevOps with integrated  Github Enterprise) <br> OR <br> __Approve with constraints__* <br>(Use is restricted for project management and reports only; all VCS is handled by Github Enterprise)|
+| IBM | Rational Team Concert (RTC) | [Approved](http://www.va.gov/TRM/ToolPage.asp?tid=5085#) |  __Divest and migrate to IBM BlueMix__ <br>(Web-based DevOps with integrated  Github Enterprise) <br> OR <br> __Approve with constraints__* <br>(Use is restricted for project management and bug reports; all code/VCS is in Github Enterprise|
 | Serena | Dimensions CM | [Divest](http://www.va.gov/TRM/ToolPage.asp?tid=5136#) | Divest* |
 | Endevor | Software Change Manager (SCM) | [Approved](http://www.va.gov/TRM/ToolPage.asp?tid=9481#) |  Divest* |
 | Microsoft | Team Foundation Server (TFS) | [Approved](http://www.va.gov/TRM/ToolPage.asp?tid=5668#) | Divest* |
