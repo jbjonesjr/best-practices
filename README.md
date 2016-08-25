@@ -13,7 +13,7 @@ What is the VA strategy going forward?  Does it include these best practices and
 See:  [VA Source Control Strategy]( https://github.com/va-projects/best-practices/blob/master/VA_Source_Control_Systems.md)
 
 
-# Next Generation Web-based DevOps:  Github and Web-based IDE (IBM BlueMix)
+# Next Generation Web-based DevOps:  Github and BlueMix
 * [IBM BlueMix Github Entertprise Service](https://developer.ibm.com/bluemix/2016/02/22/github-enterprise-service)
 * [IBM BlueMix Github Enterprise](https://developer.ibm.com/bluemix/2016/06/16/github-enterprise-hosted-service-on-bluemix)
 * [IBM BlueMix](https://github.com/IBM-Bluemix)
