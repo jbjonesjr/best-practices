@@ -1,4 +1,4 @@
-# VA Software Version Control Systems (VCS):  Current and Recommended
+# VA Software Version Control Systems:  Current and Recommended
 
 The VA Technical Reference Model (TRM) is a catalog of software products with associated assessments for use in VA. These overall assessments range from approved (full, unrestricted use allowed), approved with constraints (limited use), deprecated, divest, and prohibited (no use permitted).
 
