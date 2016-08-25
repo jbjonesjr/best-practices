@@ -2,7 +2,7 @@
 
 VA has standardized on IBM's Rational Team Concert (RTC) for project planning and reporting for the past many years.  VA has not, however, defined any policy mandating source code version control for its software. As a result many codebases in VA (most notably VISTA) is not under any form of source version control.
 
-Rataional Team Concert (RTC)  is a suite of tools from IBM that includes project planning, bug tracking, build and deployments, and reporting. It integrates proprietary IBM tools such as ClearCase to create a suite of tools for the software development process.  
+Rational Team Concert (RTC)  is a suite of tools from IBM that includes project planning, bug tracking, build and deployments, and reporting. It integrates proprietary IBM tools such as ClearCase to create a suite of tools for the software development process.  
 
 Over the past few years, IBM has received pushback from its closed, proprietary (and by definition, non-collaborative) tooling and has started to open up integration with open, collaborative, standards-based, best-of-breed tools such as Github This page describes some of these IBM RTC integrations.
 
