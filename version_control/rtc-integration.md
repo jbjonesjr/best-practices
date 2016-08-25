@@ -1,14 +1,14 @@
 ## IBM Rational Team Concert Integrations to Version Control Systems
 
-VA has standardized on IBM's Rational Team Concert (RTC) for project planning and reporting over the past decade.  VA has not, however, defined any policy mandating source code version control for its software. As a result many mission critical systems in VA (most notably VISTA) is not under any source code version control. Instead VA relies on legacy, manual processes for managing its VISTA/M system. 
+VA has standardized on IBM's Rational Team Concert (RTC) for project planning and reporting for the past several years. RTC is a suite of tools from IBM originally developed in the early 1990's. It includes project planning, bug tracking, build and deployments, and reporting. It also integrates other IBM-proprietary tools such as ClearCase to create a suite of tools for the software project management process.   
 
-RTC is a suite of tools from IBM originally developed in the early 1990's. It includes project planning, bug tracking, build and deployments, and reporting. It also integrates other IBM-proprietary tools such as ClearCase to create a suite of tools for the software project management process.   
+VA has not, however, defined any policy mandating source code version control for any of its enterprise software . As a result many mission critical systems (most notably VA's VISTA, comprised of over 2 million lines of code and over 35,000 files over the past 30+ years) is not under any source code version control at all.
 
-Since the 2000's most software development has leveraged open source, web-based collaborative platforms such as Github to attract the largest and best developer talent. The largest software development corporations (Micosoft, Google, eBay, Facebook) all use Github as their source code repository and version control system to reach the largest developer community inside and outside their organization. 
+Since the 2000's most software development has leveraged open source, web-based collaborative platforms such as Github to attract the largest and best developer talent. The largest software development organizations (includig Micosoft, Google, eBay, and Facebook) all publish and version control their source code on the web to reach the largest developer community inside and outside their organization. 
 
-__Currently IBM is the world's largest corporate user of Github,  with over 10,000 paid developer seats using Github Enterprise on a daily basis.  IBM's next-generation enterprise software management platform called BlueMix is also all Github Enterprise-based.__
+Therefore, to keep pace with these changes, and to keep the 20+ year-old RTC software relevant, IBM has opened up integration of RTC with the current best-of-breed open-source based collaborative tools such as Github.  This page describes some of these IBM RTC integrations.
 
-Therefore, to keep pace with these changes, and to keep the nearly twenty year old RTC software relevant, IBM has opened up integration of RTC with open-source based collaborative tools such as Github.  This page describes some of these IBM RTC integrations.
+__Of note, IBM is now the world's largest corporate user of Github,  with over 10,000 paid developer seats using Github Enterprise on a daily basis.  IBM's next-generation enterprise software management platform called BlueMix is also all Github Enterprise-based.__
 
 
 | Manufacter | Product Name | RTC Support | 
