@@ -1,9 +1,13 @@
 # VA Software Version Control Systems (VCS):  Current and Recommended
 
-The VA Technical Reference Model (TRM) is a catalog of software products assessed for use in VA (ranging from approved, approved with constraints, deprecated, divest, and prohibited).  
+The VA Technical Reference Model (TRM) is a catalog of software products with associated assessments for use in VA. These overall assessments range from approved (full, unrestricted use allowed), approved with constraints (limited use), deprecated, divest, and prohibited (no use permitted).
 
 ## TRM Products with VCS capability
-The folllowing is a list of products which include source code VCS capability (either as a core feature, or a component of its functionality), and recommendation for VIP in order to meet compliance with the U.S. Federal software management directives.
+The folllowing is a list of products in the TRM which have code version-control system  (VCS) capability.
+
+Source code version control may be a core feature (Perforce, CVS, or Git and all Git-related technologies) or may be a non-core, plug-in feature which is replaceable with any other VCS system (i.e. the Microsoft and IBM's project management tools have replaceable, plug-in VCS).
+
+Recommendation for VIP to meet compliance with the U.S. Federal software management directives are also added. 
 
 | Manufacter | Product  | Current Status | VIP Recommendation |
 |:------- |:------- |:------:|:-------:|
