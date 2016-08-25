@@ -2,7 +2,7 @@
 
 The VA Technical Reference Model (TRM) is a catalog of software products reviewed and assessed for fitness of use in VA (approved, approved with constraints, deprecate, divest, prohibited).  The folllowing is a list of all products that include some VCS capability (either as a core feature, or a componenet of its functionality)
 
-## TRM Products that include VCS capability
+## TRM Products with Source Version Control capability
 
 | Manufacter | Product  | Current Status | VIP Recommendation |
 |:------- |:------- |:------:|:-------:|
