@@ -4,6 +4,10 @@ The version control system (VCS) of today might not be the version control syste
 Using the TRM-listed VCS, the following table lists the capability to transfer data from one VCS system to another VCS system. 
 The columns represent source systems {FROM}; the rows represent the destination systems {TO}.
 
+__Of note is that all VCS systems listed are  capable of exporting all their code and data to Github Enterprise.__ No other VCS system has this universal import/exprt capability.  
+
+In comparison, RTC
+
 | Note |
 |:------:|
 | When reviewing tools and techniques, we used tools officially supported by the VCS or had a long history of working successfully. |
