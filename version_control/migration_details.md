@@ -4,9 +4,11 @@ The version control system one uses today is not the VCS one will use in the fut
 
 The following table lists the capability to export and import data from one VCS system to another VCS systems. The columns represent source systems {FROM}; the rows represent the destination systems {TO}.
 
-There is only one VCS that spans the entire row, meaning that it would accomodate all legacy code in all current VCS systems in VA. This will allow VA to manage *all* its code by *one single* enterprise VCS.  No other VCS other than Github Enterprise fulfills this criteria as a "Universal Repository".
+There is one VCS that spans the entire row, meaning that it would accomodate all legacy code in all current VCS systems in VA. This will allow VA to manage *all* its code by *one single* enterprise VCS.  
 
-Of note, the RTC VCS has significant gaps in its capability to import code and data from five key VCS systems currently used in VA (Perforce, SCM, and others) making it impossible to migrate or access this code going forward.
+No other VCS other than Github Enterprise fulfills this criteria as a "Universal Repository".
+
+In comparison, RTC VCS has considerable gaps in its capability to import code and data from five key VCS systems currently used in VA,  making it impossible to access this code in the future. 
 
 
 | Note |
