@@ -1,6 +1,6 @@
-# VA Software Version Control Systems:  Current and Recommended
+# VA Code Version Control Systems (VCS):  Recommendations
 
-The VA Technical Reference Model (TRM) is a catalog of software products with associated assessments.  These assessments range from: 
+The VA Technical Reference Model (TRM) is a catalog of software products with associated recommendations.  These recommendations range from: 
 * approved (unrestricted use)
 * approved with constraints (limited use)
 * deprecated / divest (time-limited use) 
@@ -9,21 +9,21 @@ The VA Technical Reference Model (TRM) is a catalog of software products with as
 ## TRM Products with VCS capability
 The folllowing is a list of products in the TRM which have code version-control system  (VCS) capability.
 
-Source code version control may be a core feature (Perforce, CVS, or Git and all Git-related technologies) or may be a non-core, plug-in feature which is replaceable with any other VCS system (i.e. the Microsoft and IBM's project management tools have replaceable, plug-in VCS).
+Source code version control may be a core feature (Perforce, CVS, or Github and all Git-related technologies) or may be a non-core, plug-in feature which is replaceable with any other core VCS system (i.e. the Microsoft and IBM's project management tools have replaceable, plug-in VCS).
 
-Recommendation for VIP to meet compliance with the U.S. Federal software management directives are also added. 
+Recommendation for VIP to meet compliance with the U.S. Federal software repository / version control directives are included.
 
 | Manufacter | Product  | Current Status | VIP Recommendation |
 |:------- |:------- |:------:|:-------:|
-| OSS | Git Server | [Divest](http://www.va.gov/TRM/ToolPage.asp?tid=6396) | Approve (Includes all Git-related technologies below) |
+| OSS | Git Server | [Divest](http://www.va.gov/TRM/ToolPage.asp?tid=6396) | Approve |
 | GitHub | GitHub Enterprise | [Divest](http://www.va.gov/TRM/ToolPage.asp?tid=9533#) | Approve |
-| GitLab | GitLab CE | [Unapproved](http://www.va.gov/TRM/ToolPage.asp?tid=9580) | Approve |
-| GitLab | GitLab Enterprise | [Divest](http://www.va.gov/TRM/ToolPage.asp?tid=9463#) | Approve |
+| GitLab | GitLab CE | [Unapproved](http://www.va.gov/TRM/ToolPage.asp?tid=9580) | Approve with constraints (must integrate with Github) |
+| GitLab | GitLab Enterprise | [Divest](http://www.va.gov/TRM/ToolPage.asp?tid=9463#) | Approve with constraint (must integrate with Github) |
 | Apache | Subversion | [Prohibited](http://www.va.gov/TRM/ToolPage.asp?tid=6573) | No change |
 | OSS | CVS | [Prohibited](http://www.va.gov/TRM/ToolPage.asp?tid=194) | No change |
 | Perforce | Helix versioning engine | [Prohibited](http://www.va.gov/TRM/ToolPage.asp?tid=268) | Divest | 
 | IBM | Clear Case MultiSite | [Divest (Read-only)](http://www.va.gov/TRM/ToolPage.asp?tid=39#) | No change |
-| IBM | Rational Team Concert (RTC) | [Approved](http://www.va.gov/TRM/ToolPage.asp?tid=5085#) | Approve with constraints: Use only for project management; for all code managment and VCS use Git |
+| IBM | Rational Team Concert (RTC) | [Approved](http://www.va.gov/TRM/ToolPage.asp?tid=5085#) | Approve with constraints (Use only for project management; for all code managment use Git) |
 | Serena | Dimensions CM | [Divest](http://www.va.gov/TRM/ToolPage.asp?tid=5136#) | No change |
 | Endevor | Software Change Manager (SCM) | [Approved](http://www.va.gov/TRM/ToolPage.asp?tid=9481#) | Divest |
 | Microsoft | Team Foundation Server (TFS) | [Approved](http://www.va.gov/TRM/ToolPage.asp?tid=5668#) | Divest | 
