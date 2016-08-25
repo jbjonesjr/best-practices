@@ -11,3 +11,14 @@ The centerpiece of modern software development and management is a single, autho
 What is the VA strategy going forward?  Does it include these best practices and tools?
 
 See:  [VA Source Control Strategy]( https://github.com/va-projects/best-practices/blob/master/VA_Source_Control_Systems.md)
+
+
+## Next Generation Web-based DevOps:  The best of Github and IBM
+* https://developer.ibm.com/bluemix/2016/02/22/github-enterprise-service/
+* https://developer.ibm.com/bluemix/2016/06/16/github-enterprise-hosted-service-on-bluemix/
+* https://github.com/IBM-Bluemix
+* http://www.infoworld.com/article/3036123/application-development/github-enterprise-is-coming-to-ibms-bluemix.html
+* https://hub.jazz.net/docs/git/
+* https://hub.jazz.net/features/
+
+
