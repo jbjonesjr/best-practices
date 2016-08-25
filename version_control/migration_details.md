@@ -6,7 +6,7 @@ The following table lists the capability to export and import data from one VCS 
 
 There is only one VCS that spans the entire row, meaning that it would accomodate all legacy code in all current VCS systems in VA. This will allow VA to manage *all* its code by *one single* enterprise VCS.  No other VCS other than Github Enterprise fulfills this criteria as a "Universal Repository".
 
-Of note, the RTC VCS has significant gaps in its capability to import code and data from five key VCS systems currently used in VA (Perforce, SCM, and others) making it impossible to migrate or access this code.
+Of note, the RTC VCS has significant gaps in its capability to import code and data from five key VCS systems currently used in VA (Perforce, SCM, and others) making it impossible to migrate or access this code going forward.
 
 
 | Note |
