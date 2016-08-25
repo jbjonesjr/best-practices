@@ -2,7 +2,7 @@
 
 This page attempts to identify which version control systems (VCS) can satisfy the VA Best Practices and Policies previously [defined](criteria.md).
 
-These deatils were determined from research provided by public-facing product pages, some contained within (eg. [migration](migration_detail.md)
+These deatils were determined from research provided by public-facing product pages, some contained within (eg. [migration](migration_detail.md)).
 
 | Criteria | Git | GHE | GL CE | GL EE | SVN | CVS | Perforce | CC-Multi | RTC | Dim. | SCM | TFS | VSS |
 |:------- |:------- |:------:|:-------:|:-------:|:------:|:-------:|:------:|:------:|:-------:|:-------:|:------:|:-------:|:-------:|:------:|
