@@ -43,7 +43,7 @@ For "Approved with Constraints" all VCS functionality must fully integrated with
 
 ## Mission-critical Software
 * Currently none of VA VISTA's code is maintained in any form of VCS system. This represents 35+ years of code spanning 180 applications, and includes over 2 million lines of code in over 35 thousand files. __All VISTA code and files must be immediately migrated and managed on Github.__
-* Currently all CPRS code is maintained in the Perforce VCS system (20+ years; million of lines) . All CPRS code should be migrated to Github.
+* Currently all CPRS code is maintained in the Perforce VCS system (20+ years; million of lines) . All CPRS code should be migrated to Github Enterprise.
 * This will allow all future development of VISTA and CPRS to be done in parallel with the same code repository and VCS tool.
 
 
