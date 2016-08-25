@@ -32,7 +32,8 @@ Recommendation for VIP to meet compliance with the U.S. Federal software reposit
 
 __Mission-critical VIP  Recommendations:__
 * Currently none of VA VISTA's code is maintained in any form of VCS system. This represents 35+ years of code spanning 180 applications, and includes over 2 million lines of code in over 35 thousand files. __All VISTA code and files must be immediately migrated and managed on Git.__
-* Currently all CPRS code is maintained in the Perforce VCS system (20+ years; million of lines) . All CPRS code should be migrated to the same common standard as VISTA VCS, such that all development of VISTA and CPRS is done from the same code repository and VCS tool.
+* Currently all CPRS code is maintained in the Perforce VCS system (20+ years; million of lines) . All CPRS code should be migrated to Github.
+* This will allow all future development of VISTA and CPRS to be done in parallel with the same code repository and VCS tool.
 
 
 
