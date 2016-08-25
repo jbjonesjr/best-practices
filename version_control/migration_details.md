@@ -1,11 +1,12 @@
 ## Future VCS migration concerns
-The version control system of today might not be the version control system of the future. Being aware of how easy it is to transfer data out (and in) to a different system is definetly something to be concerned with.
+The version control system (VCS) of today might not be the version control system of the future. Being aware of how easy it is to transfer data into and out of different VCS systems is therefore of utmost importance in assuring the future access and re-usability of the code.
 
-Using the TRM-mentioned VCS, I've constructed a table describing the ability to transfer data {FROM} one system {TO} another. The rows represent the destination system, while the columns represent sources.
+Using the TRM-listed VCS, the following table lists the capability to transfer data from one VCS system to another VCS system. 
+The columns represent source systems {FROM}; the rows represent the destination systems {TO}.
 
 | Note |
 |:------:|
-| When reviewing tools and techniques, I only used tools that were officially supported by the VCS or had a long history of working successfully. |
+| When reviewing tools and techniques, we used tools officially supported by the VCS or had a long history of working successfully. |
 
 | | Git | GHE | GL CE | GL EE | SVN | CVS | Perforce | CC-Multi | RTC | Dim. | SCM | TFS | VSS |
 |:------- |:------- |:------:|:-------:|:-------:|:------:|:-------:|:------:|:------:|:-------:|:-------:|:------:|:-------:|:-------:|:------:|
