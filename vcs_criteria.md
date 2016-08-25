@@ -30,7 +30,8 @@ The VCS shall support and encourage the modern software development lifecycle an
 ### Product Roadmap is strong and secure
 The VCS shall be one that is considered healthy with a track record of innovation, maintenance, and system performance. While the VA can not know the health of a company in 3 months or 3 years, it can be aware of current trajectory when deciding what system to select for a multi-year tool.
 
-### Interoperable with Federal CIO's [`Federal Source Code Policy`](sourcecode.cio.gov)
+### Interoperable with Federal CIO's [`Federal Source Code Policy`](https://sourcecode.cio.gov/)
+
 The VCS shall be on that can meet the requirements for code sharing as part of the Federal Source Code Policy. This means a system that can be accessible to the public, or operable directly with a preferred public solution (example: Internal Git Server, only accessible to VA-personnel, that can communicate with an external Git Server accessible to the public at large, such as GitHub.com)
 
 ### Support VA identity and authentication standards as defined by the Enterprise
