@@ -11,7 +11,12 @@ To that end, this repository includes:
 * A VA Open Source Policy to define the definition of and handling of Open Source software within the Administration. [VA Open Source Policy](va_open_source_policy.md)
 
 ### References
-* [Relevant existing Federal Policies (and discussion)](relevant_policies/)
+* [Relevant existing Federal Policies (and discussion)](relevant_policy/), including
+  * Federal Source Code [Policy](relevant_policy/federal_source_code_policy.md)
+  * VA Vista Data [Policy](relevant_policy/vista_data_policy.md)
+  * CFPB Open Source [Policy](relevant_policy/cfpb_policy.md)
+  * DOD Open Source [Policy](relevant_policy/dod_policy.md)
+  * GSA Open Source [Policy](relevant_policy/gsa_oss_policy.md)
 * [Writing a Open Source Software Policy](https://opensource.com/business/14/1/open-source-policy-works-practice)
 * [US Gov't Agencies Embrace Collaborative Software Development](http://www.cio.com/article/2390953/government-use-of-it/us-gov-t-agencies-embrace-collaborative-software-development.html)
 * [Government Open Source Policy Survey - 2010](https://csis-prod.s3.amazonaws.com/s3fs-public/legacy_files/files/publication/100416_Open_Source_Policies.pdf)
