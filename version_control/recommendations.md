@@ -23,7 +23,7 @@ Recommendation for VIP to meet compliance with the U.S. Federal software reposit
 | OSS | CVS | [Prohibited](http://www.va.gov/TRM/ToolPage.asp?tid=194) | No change |
 | Perforce | Helix versioning engine | [Prohibited](http://www.va.gov/TRM/ToolPage.asp?tid=268) | No change | 
 | IBM | Clear Case MultiSite | [Divest (Read-only)](http://www.va.gov/TRM/ToolPage.asp?tid=39#) | No change | 
-| IBM | Rational Team Concert (RTC) | [Approved](http://www.va.gov/TRM/ToolPage.asp?tid=5085#) |   __Approve with constraints__* <br>(Use is restricted for project management/reporting; all code/VCS is in Github Enterprise|
+| IBM | Rational Team Concert (RTC) | [Approved](http://www.va.gov/TRM/ToolPage.asp?tid=5085#) |   __Approve with constraints__|
 | Serena | Dimensions CM | [Divest](http://www.va.gov/TRM/ToolPage.asp?tid=5136#) | No change |
 | Endevor | Software Change Manager (SCM) | [Approved](http://www.va.gov/TRM/ToolPage.asp?tid=9481#) |  Divest* |
 | Microsoft | Team Foundation Server (TFS) | [Approved](http://www.va.gov/TRM/ToolPage.asp?tid=5668#) | Divest* |
@@ -31,7 +31,8 @@ Recommendation for VIP to meet compliance with the U.S. Federal software reposit
 
 
 * For any VA code currently in a "Prohibited" or "Divest" system, all code must be migrated to Github Enterprise prior to decomissioning the legacy system.
-* For any VA code in "Approved with Constraints" systems,  all VCS and code managment functionality must integrate with Github Enterprise. Complimentary functionality, such as project management and reporting, may continue in the legacy system.
+* For any VA code in "Approved with Constraints" systems,  all VCS and code managment functionality must integrate with Github Enterprise. Complimentary functionality, such as project management and reporting, may continue in the legacy system. In the case of IBM RTC, its use would be restricted for project management/reporting; all code/VCS is in Github Enterprise
+
 
 ### IBM BlueMix: The Next-Gen Cloud-based DevOps with fully integrated Github Enterprise
 * [IBM BlueMix - Github Entertprise Service](https://developer.ibm.com/bluemix/2016/02/22/github-enterprise-service)
