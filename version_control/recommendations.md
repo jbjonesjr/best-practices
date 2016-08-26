@@ -29,9 +29,9 @@ Recommendation for VA to meet compliance with the U.S. Federal software reposito
 
 Source code version control may be a core feature (Perforce, CVS, or Github and all Git-related technologies) or may be a non-core, plug-in feature that is replaceable with any other VCS system. For example,  Microsoft's and IBM's project management tools have replaceable, plug-in VCS.
 
-* NA: Not applicable. No status change.  These are for all platforms that are either unapproved, prohibited, or divested, and are not part of VA's future VCS strategy.
-* For VA code currently in any "Prohibited" or "Divest" system, all code must be migrated to Github Enterprise prior to decomissioning the legacy system.
-* For VA code in any "Approved with Constraints" systems,  all VCS functionality must integrate with the Github Enterprise repository. Complimentary functionality, such as project management and reporting, may continue in the legacy system. In the case of IBM RTC, for example, its use would be restricted for project management/reporting exclusively; all code/VCS functionality would be in Github Enterprise
+* NA:  No status change.  These are  all platforms that are either unapproved, prohibited, or to be divested, and are not part of VA's future VCS strategy. Any code in these systemss shall be migrated to Github Enterprise.
+* Any VA code currently in any "Prohibited", "Unallowed",  or "Divest" system would be migrated to Github Enterprise prior to decomissioning the legacy system.
+* VA code in any "Approved with Constraints" systems,  all VCS functionality would integrate with the Github Enterprise repository. Complimentary functionality, such as project management and reporting, may continue in the legacy system. In the case of IBM RTC, for example, its use would be restricted exclusively to project management and reporting; all code/VCS functionality would be in Github Enterprise using the RTC plugin.
 
 
 ### IBM BlueMix: The Next-Gen Cloud-based DevOps with fully integrated Github Enterprise
