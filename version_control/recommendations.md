@@ -9,9 +9,7 @@ The VA Technical Reference Model (TRM) is a catalog of software products with as
 ## TRM Products with VCS capability
 The folllowing is a list of products in the TRM which have code version-control system  (VCS) capability.
 
-Source code version control may be a core feature (Perforce, CVS, or Github and all Git-related technologies) or may be a non-core, plug-in feature which is replaceable with any other core VCS system (i.e. the Microsoft and IBM's project management tools have replaceable, plug-in VCS).
-
-Recommendation for VIP to meet compliance with the U.S. Federal software repository / version control directives are included.
+Recommendation for VA to meet compliance with the U.S. Federal software repository / version control directives are as follows:
 
 | Manufacter | Product  | Current <br> Status |Recommended<br> Status |
 |:------- |:------- |:------:|:-------:|
@@ -29,6 +27,7 @@ Recommendation for VIP to meet compliance with the U.S. Federal software reposit
 | Microsoft | Team Foundation Server (TFS) | [Approved](http://www.va.gov/TRM/ToolPage.asp?tid=5668#) | Divest* |
 | Microsoft | Visual Source Safe (VSS) | [Prohibited](http://www.va.gov/TRM/ToolPage.asp?tid=5669) | No change |
 
+Source code version control may be a core feature (Perforce, CVS, or Github and all Git-related technologies) or may be a non-core, plug-in feature that is replaceable with any other VCS system. For example,  Microsoft's and IBM's project management tools have replaceable, plug-in VCS.
 
 * For any VA code currently in a "Prohibited" or "Divest" system, all code must be migrated to Github Enterprise prior to decomissioning the legacy system.
 * For any VA code in "Approved with Constraints" systems,  all VCS and code managment functionality must integrate with Github Enterprise. Complimentary functionality, such as project management and reporting, may continue in the legacy system. In the case of IBM RTC, for example, its use would be restricted for project management/reporting exclusively; all code/VCS functionality would be using Github Enterprise
