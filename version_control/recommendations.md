@@ -30,8 +30,8 @@ Recommendation for VIP to meet compliance with the U.S. Federal software reposit
 | Microsoft | Visual Source Safe (VSS) | [Prohibited](http://www.va.gov/TRM/ToolPage.asp?tid=5669) | No change |
 
 
-* For any VA code currently in "Prohibited" or "Divest" systems, all code must be migrated to Github Enterprise.
-* For any VA code in "Approved with Constraints" systems, all VCS functionality must be integrated with Github Enterprise.
+* For any VA code currently in a "Prohibited" or "Divest" system, all code must be migrated to Github Enterprise prior to decomissioning the legacy system.
+* For any VA code in "Approved with Constraints" systems,  all VCS and code managment functionality must integrate with Github Enterprise. Complimentary functionality, such as project management and reporting, may continue in the legacy system.
 
 ### IBM BlueMix: The Next-Gen Cloud-based DevOps with fully integrated Github Enterprise
 * [IBM BlueMix - Github Entertprise Service](https://developer.ibm.com/bluemix/2016/02/22/github-enterprise-service)
