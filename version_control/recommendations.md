@@ -31,7 +31,7 @@ Recommendation for VIP to meet compliance with the U.S. Federal software reposit
 
 
 * For any VA code currently in a "Prohibited" or "Divest" system, all code must be migrated to Github Enterprise prior to decomissioning the legacy system.
-* For any VA code in "Approved with Constraints" systems,  all VCS and code managment functionality must integrate with Github Enterprise. Complimentary functionality, such as project management and reporting, may continue in the legacy system. In the case of IBM RTC, its use would be restricted for project management/reporting; all code/VCS is in Github Enterprise
+* For any VA code in "Approved with Constraints" systems,  all VCS and code managment functionality must integrate with Github Enterprise. Complimentary functionality, such as project management and reporting, may continue in the legacy system. In the case of IBM RTC, for example, its use would be restricted for project management/reporting exclusively; all code/VCS functionality would be using Github Enterprise
 
 
 ### IBM BlueMix: The Next-Gen Cloud-based DevOps with fully integrated Github Enterprise
