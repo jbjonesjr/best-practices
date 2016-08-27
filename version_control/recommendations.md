@@ -9,29 +9,30 @@ The VA Technical Reference Model (TRM) is a catalog of software products with as
 ## TRM Products with VCS capability
 The folllowing is a list of products in the TRM which have code version-control system  (VCS) capability.
 
-Source code version control may be a core feature (Perforce, CVS, or Github and all Git-related technologies) or may be a non-core, plug-in feature which is replaceable with any other core VCS system (i.e. the Microsoft and IBM's project management tools have replaceable, plug-in VCS).
+Recommendation for VA to meet compliance with the U.S. Federal software repository / version control directives are as follows:
 
-Recommendation for VIP to meet compliance with the U.S. Federal software repository / version control directives are included.
-
-| Manufacter | Product  | Current <br> Status |Recommended<br> Status |
+| Manufacter | Product  | Current <br> Status |Recommended<br> Status Update |
 |:------- |:------- |:------:|:-------:|
 | OSS | Git Server | [Divest](http://www.va.gov/TRM/ToolPage.asp?tid=6396) | __Approve__ |
 | GitHub | GitHub Enterprise | [Divest](http://www.va.gov/TRM/ToolPage.asp?tid=9533#) | __Approve__ |
-| GitLab | GitLab CE | [Unapproved](http://www.va.gov/TRM/ToolPage.asp?tid=9580) | __Approve with constraints__*  |
-| GitLab | GitLab Enterprise | [Divest](http://www.va.gov/TRM/ToolPage.asp?tid=9463#) | __Approve with constraints__ *|
-| Apache | Subversion | [Prohibited](http://www.va.gov/TRM/ToolPage.asp?tid=6573) | No change |
-| OSS | CVS | [Prohibited](http://www.va.gov/TRM/ToolPage.asp?tid=194) | No change |
-| Perforce | Helix versioning engine | [Prohibited](http://www.va.gov/TRM/ToolPage.asp?tid=268) | No change | 
-| IBM | Clear Case MultiSite | [Divest (Read-only)](http://www.va.gov/TRM/ToolPage.asp?tid=39#) | No change | 
-| IBM | Rational Team Concert (RTC) | [Approved](http://www.va.gov/TRM/ToolPage.asp?tid=5085#) |  __Divest; Migrate to IBM BlueMix__ <br>(Web-based DevOps with integrated  Github Enterprise) <br> OR <br> __Approve with constraints__* <br>(Use is restricted for project management and bug reports; all code/VCS is in Github Enterprise|
+| GitLab | GitLab CE | [Unapproved](http://www.va.gov/TRM/ToolPage.asp?tid=9580) | NA  |
+| GitLab | GitLab Enterprise | [Divest](http://www.va.gov/TRM/ToolPage.asp?tid=9463#) | NA|
+| Apache | Subversion | [Prohibited](http://www.va.gov/TRM/ToolPage.asp?tid=6573) | NA |
+| OSS | CVS | [Prohibited](http://www.va.gov/TRM/ToolPage.asp?tid=194) | NA |
+| Perforce | Helix versioning engine | [Prohibited](http://www.va.gov/TRM/ToolPage.asp?tid=268) | NA | 
+| IBM | Clear Case MultiSite | [Divest (Read-only)](http://www.va.gov/TRM/ToolPage.asp?tid=39#) | NA | 
+| IBM | Rational Team Concert (RTC) | [Approved](http://www.va.gov/TRM/ToolPage.asp?tid=5085#) |   __Approve with constraints__|
 | Serena | Dimensions CM | [Divest](http://www.va.gov/TRM/ToolPage.asp?tid=5136#) | No change |
 | Endevor | Software Change Manager (SCM) | [Approved](http://www.va.gov/TRM/ToolPage.asp?tid=9481#) |  Divest* |
 | Microsoft | Team Foundation Server (TFS) | [Approved](http://www.va.gov/TRM/ToolPage.asp?tid=5668#) | Divest* |
-| Microsoft | Visual Source Safe (VSS) | [Prohibited](http://www.va.gov/TRM/ToolPage.asp?tid=5669) | No change |
+| Microsoft | Visual Source Safe (VSS) | [Prohibited](http://www.va.gov/TRM/ToolPage.asp?tid=5669) | NA |
 
+Source code version control may be a core feature (Perforce, CVS, or Github and all Git-related technologies) or may be a non-core, plug-in feature that is replaceable with any other VCS system. For example,  Microsoft's and IBM's project management tools have replaceable, plug-in VCS.
 
-* For any VA code currently in "Prohibited" or "Divest" VCS systems, all code must be migrated to Github Enterprise.
-* For any VA code in "Approved with Constraints" VCS systems, all VCS functionality must fully integrate with Github Enterprise.
+* NA:  No status change.  These are  all platforms that are either unapproved, prohibited, or to be divested, and are not part of VA's future VCS strategy. Any code in these systemss shall be migrated to Github Enterprise.
+* Any VA code currently in any "Prohibited", "Unallowed",  or "Divest" system would be migrated to Github Enterprise prior to decomissioning the legacy system.
+* VA code in any "Approved with Constraints" systems,  all VCS functionality would integrate with the Github Enterprise repository. Complimentary functionality, such as project management and reporting, may continue in the legacy system. In the case of IBM RTC, for example, its use would be restricted exclusively to project management and reporting; all code/VCS functionality would be in Github Enterprise using the RTC plugin.
+
 
 ### IBM BlueMix: The Next-Gen Cloud-based DevOps with fully integrated Github Enterprise
 * [IBM BlueMix - Github Entertprise Service](https://developer.ibm.com/bluemix/2016/02/22/github-enterprise-service)
