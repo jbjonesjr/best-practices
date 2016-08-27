@@ -22,6 +22,7 @@ Recommendation for VA to meet compliance with the U.S. Federal software reposito
 | Perforce | Helix versioning engine | [Prohibited](http://www.va.gov/TRM/ToolPage.asp?tid=268) | NA | 
 | IBM | Clear Case MultiSite | [Divest (Read-only)](http://www.va.gov/TRM/ToolPage.asp?tid=39#) | NA | 
 | IBM | Rational Team Concert (RTC) | [Approved](http://www.va.gov/TRM/ToolPage.asp?tid=5085#) |   __Approve with constraints__|
+| IBM | BlueMix | Unreviewed |   Consider replacing RTC* |
 | Serena | Dimensions CM | [Divest](http://www.va.gov/TRM/ToolPage.asp?tid=5136#) | No change |
 | Endevor | Software Change Manager (SCM) | [Approved](http://www.va.gov/TRM/ToolPage.asp?tid=9481#) |  Divest* |
 | Microsoft | Team Foundation Server (TFS) | [Approved](http://www.va.gov/TRM/ToolPage.asp?tid=5668#) | Divest* |
@@ -40,4 +41,11 @@ Source code version control may be a core feature (Perforce, CVS, or Github and 
 * This will allow all future development of VISTA and CPRS to be done in parallel with the same code repository and VCS tool.
 
 
+### IBM BlueMix: The Next-Gen Cloud-based DevOps with fully integrated Github Enterprise
+* [IBM BlueMix - Github Entertprise Service](https://developer.ibm.com/bluemix/2016/02/22/github-enterprise-service)
+* [IBM BlueMix - Github Enterprise Integration](https://developer.ibm.com/bluemix/2016/06/16/github-enterprise-hosted-service-on-bluemix)
+* [IBM BlueMix](https://github.com/IBM-Bluemix)
+* [Github Enterprise is coming to IBM BlueMix](http://www.infoworld.com/article/3036123/application-development/github-enterprise-is-coming-to-ibms-bluemix.html)
+* [IBM BlueMix - Github](https://hub.jazz.net/docs/git)
+* [IBM BlueMix-Github features](https://hub.jazz.net/features)
 
