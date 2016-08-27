@@ -22,7 +22,7 @@ Recommendation for VA to meet compliance with the U.S. Federal software reposito
 | Perforce | Helix versioning engine | [Prohibited](http://www.va.gov/TRM/ToolPage.asp?tid=268) | NA | 
 | IBM | Clear Case MultiSite | [Divest (Read-only)](http://www.va.gov/TRM/ToolPage.asp?tid=39#) | NA | 
 | IBM | Rational Team Concert (RTC) | [Approved](http://www.va.gov/TRM/ToolPage.asp?tid=5085#) |   __Approve with constraints__|
-| IBM | BlueMix | Unreviewed |   Cloud version of IBM RTC <br>(Consider replacement of RTC) |
+| IBM | BlueMix | Unreviewed |  Consider modern replacement of RTC) |
 | Serena | Dimensions CM | [Divest](http://www.va.gov/TRM/ToolPage.asp?tid=5136#) | No change |
 | Endevor | Software Change Manager (SCM) | [Approved](http://www.va.gov/TRM/ToolPage.asp?tid=9481#) |  Divest* |
 | Microsoft | Team Foundation Server (TFS) | [Approved](http://www.va.gov/TRM/ToolPage.asp?tid=5668#) | Divest* |
