@@ -2,6 +2,7 @@
 
 The below policy is recommended for inclusion in the VIP Policy as a whole to define a version control and software solution to compliment the existing Configuration Management and Reporting definition of IBM's Rational Team Concert (RTC). This is written after careful investigation into version control systems and their support of the requirements of VIP ([discussed here](../version_control/README.md)).
 
+
 ### VIP Policy
 [VIP Guide 1.0 v14](https://github.com/DaveEide/VA-VIP-GitHub-Policy/files/248677/VIP_Guide_1_0_v14.pdf) published December 2015
 
