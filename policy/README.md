@@ -7,8 +7,10 @@ As the Veterans Affairs Administration continues to improve it's software develo
 > Within 120 days of the publication date of this policy, each agency must update—and thereafter keep up to date—its inventory of agency information resources to include an enterprise code inventory that lists custom-developed code for or by the agency after the publication of this policy.
 
 ### To that end, defined within is:
-* An update to the VIP program, defining policy related to Version Control and Source Code management. [VIP Policy](vip_policy.md).
-* A VA Open Source Policy to define the definition of and handling of Open Source software within the Administration. [VA Open Source Policy](va_open_source_policy.md)
+* An update to the VIP program, defining policy related to Version Control and Source Code management. 
+* *[VIP Policy](vip_policy.md).
+* A VA Open Source Policy to define the definition of and handling of Open Source software within the Administration. 
+* *[VA Open Source Policy](va_open_source_policy.md)
 
 ### References
 * [Relevant existing Federal Policies (and discussion)](relevant_policy/), including
