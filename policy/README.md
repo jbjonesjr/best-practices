@@ -8,9 +8,9 @@ As the Veterans Affairs Administration continues to improve it's software develo
 
 ### To that end, defined within is:
 * An update to the VIP program, defining policy related to Version Control and Source Code management. 
-* *[VIP Policy](vip_policy.md).
+ * [VIP Policy](vip_policy.md).
 * A VA Open Source Policy to define the definition of and handling of Open Source software within the Administration. 
-* *[VA Open Source Policy](va_open_source_policy.md)
+ * [VA Open Source Policy](va_open_source_policy.md)
 
 ### References
 * [Relevant existing Federal Policies (and discussion)](relevant_policy/), including
