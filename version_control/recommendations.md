@@ -34,15 +34,6 @@ Source code version control may be a core feature (Perforce, CVS, or Github and 
 * VA code in any "Approved with Constraints" systems,  all VCS functionality would integrate with the Github Enterprise repository. Complimentary functionality, such as project management and reporting, may continue in the legacy system. In the case of IBM RTC, for example, its use would be restricted exclusively to project management and reporting; all code/VCS functionality would be in Github Enterprise using the RTC plugin.
 
 
-### IBM BlueMix: The Next-Gen Cloud-based DevOps with fully integrated Github Enterprise
-* [IBM BlueMix - Github Entertprise Service](https://developer.ibm.com/bluemix/2016/02/22/github-enterprise-service)
-* [IBM BlueMix - Github Enterprise Integration](https://developer.ibm.com/bluemix/2016/06/16/github-enterprise-hosted-service-on-bluemix)
-* [IBM BlueMix](https://github.com/IBM-Bluemix)
-* [Github Enterprise is coming to IBM BlueMix](http://www.infoworld.com/article/3036123/application-development/github-enterprise-is-coming-to-ibms-bluemix.html)
-* [IBM BlueMix - Github](https://hub.jazz.net/docs/git)
-* [IBM BlueMix-Github features](https://hub.jazz.net/features)
-
-
 ## Mission-critical Software
 * Currently none of VA VISTA's code is maintained in any form of VCS system. This represents 35+ years of code spanning 180 applications, and includes over 2 million lines of code in over 35 thousand files. __All VISTA code and files must be immediately migrated and managed on Github.__
 * Currently all CPRS code is maintained in the Perforce VCS system (20+ years; million of lines) . All CPRS code should be migrated to Github Enterprise.
