@@ -60,7 +60,8 @@ It is critical to define metrics for this effort. These metrics should be evalua
 ### Python Package metadata
 http://legacy.python.org/dev/peps/pep-0301/#distutils-trove-classification
 
-"setup(
+'
+setup(
     name = "roundup",
     version = __version__,
     classifiers = [
@@ -81,5 +82,6 @@ http://legacy.python.org/dev/peps/pep-0301/#distutils-trove-classification
     ],
     url = 'http://sourceforge.net/projects/roundup/',
     ...
-)"
+)
+'
 
