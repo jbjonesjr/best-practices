@@ -1,6 +1,35 @@
 # Metadata-driven source code discovery
 
-Many different schemes exist for software  (source code) cataloging and discovery:
+Many different schemes exist for software (source code) cataloging and discovery:
+
+
+# Main Options
+* About.yml:  https://github.com/18F/about_yml
+* JSON-LD +  Hydra:  http://www.markus-lanthaler.com/hydra/
+
+
+
+## Background: Metadata
+* https://en.wikipedia.org/wiki/Metadata
+
+
+### Metadata Schems for Software
+I don't think it's seen broad adoption outside the context it's used by European governments for this purpose, but I should note ADMS.SW as a precedent for this. ADMS.SW builds on related schemas including DOAP, SPDX, ISO 19770-2, ADMS, and the Trove software map. cc: @makxdekkers
+* ADMS.SW: https://joinup.ec.europa.eu/asset/adms_foss/description
+* DOAP: https://github.com/edumbill/doap/wiki
+* SPDX: http://spdx.org
+* ISO-19770: http://www.iso.org/iso/catalogue_detail.htm?csnumber=53670
+* ADMS: https://joinup.ec.europa.eu/asset/adms/description
+
+
+* https://www.w3.org/TR/vocab-dcat/
+* http://codeforamerica.org/api/#project-properties
+
+
+
+
+
+
 
 
 (JSON-LD) Metadata for software discovery
