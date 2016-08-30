@@ -14,9 +14,9 @@ Many different schemes and API generators exist for software (source code) catal
 
 
 
-### Metadata Schemes for Government Software
+## Metadata for Government Software
 
-EUROPE:  ADMS.SW is a scheme used for integrating and cataloging government software across European nations. ADMS.SW builds on related schemas including DOAP, SPDX, ISO 19770-2, ADMS, and the Trove software map.
+__EUROPE:__  ADMS.SW is a scheme used for integrating and cataloging government software across European nations. ADMS.SW builds on related schemas including DOAP, SPDX, ISO 19770-2, ADMS, and the Trove software map.
 * ADMS.SW: https://joinup.ec.europa.eu/asset/adms_foss/description
 * DOAP: https://github.com/edumbill/doap/wiki
 * SPDX: http://spdx.org
@@ -24,6 +24,7 @@ EUROPE:  ADMS.SW is a scheme used for integrating and cataloging government soft
 * ADMS: https://joinup.ec.europa.eu/asset/adms/description
 
 
+__USA:__
 * https://www.w3.org/TR/vocab-dcat/
 * http://codeforamerica.org/api/#project-properties
 
