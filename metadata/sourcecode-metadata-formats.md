@@ -16,12 +16,17 @@ __EUROPE:__  ADMS.SW is a scheme used for integrating and cataloging government 
 * SPDX: http://spdx.org
 * ISO-19770: http://www.iso.org/iso/catalogue_detail.htm?csnumber=53670
 * ADMS: https://joinup.ec.europa.eu/asset/adms/description
+* 
 __USA:__
 * Code For America: http://codeforamerica.org/api/#project-properties
-* NIH: http://www.softwarediscoveryindex.org/
+* NIH: http://www.softwarediscoveryindex.org
+
 __Other:__
 * CodeMeta: https://github.com/codemeta/codemeta
 * DCAT: https://www.w3.org/TR/vocab-dcat/
+
+__Links:__
+* https://github.com/WhiteHouse/source-code-policy/issues/117
 
 
 
