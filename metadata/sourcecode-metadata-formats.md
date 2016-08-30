@@ -1,56 +1,31 @@
 # Metadata-driven source code discovery
-
 Many different schemes and API generators exist for software (source code) cataloging and discovery:
 
-
-## Key Options
-* JSON-LD +  Hydra:  http://www.markus-lanthaler.com/hydra/
+## Technical Options
+* JSON-LD: https://github.com/mozillascience/code-research-object/issues/15
+* JSON-LD + Hydra:  http://www.markus-lanthaler.com/hydra/
 * About.yml:  https://github.com/18F/about_yml
-
-
 
 ## Metadata
 * https://en.wikipedia.org/wiki/Metadata
 
-
-
 ## Metadata for Government Software
-
 __EUROPE:__  ADMS.SW is a scheme used for integrating and cataloging government software across European nations. ADMS.SW builds on related schemas including DOAP, SPDX, ISO 19770-2, ADMS, and the Trove software map.
 * ADMS.SW: https://joinup.ec.europa.eu/asset/adms_foss/description
 * DOAP: https://github.com/edumbill/doap/wiki
 * SPDX: http://spdx.org
 * ISO-19770: http://www.iso.org/iso/catalogue_detail.htm?csnumber=53670
 * ADMS: https://joinup.ec.europa.eu/asset/adms/description
-
-
 __USA:__
-* https://www.w3.org/TR/vocab-dcat/
-* http://codeforamerica.org/api/#project-properties
+* Code For America: http://codeforamerica.org/api/#project-properties
+* NIH: http://www.softwarediscoveryindex.org/
+__Other:__
+* CodeMeta: https://github.com/codemeta/codemeta
+* DCAT: https://www.w3.org/TR/vocab-dcat/
 
 
 
-
-
-
-
-
-(JSON-LD) Metadata for software discovery
-* https://github.com/mozillascience/code-research-object/issues/15
-
-NIH Software Discovery and Indexing
-* http://www.softwarediscoveryindex.org/
-
-
-
-
-https://github.com/WhiteHouse/source-code-policy/issues/117
-
-https://github.com/codemeta/codemeta
-
-
-
-### Minimal Information about Software
+## Minimal Information about Software
 
 A common set of metadata fields are critical for useful indexing. If this effort only provides refined free-text searching capabilities, it will not be a major improvement over currently-available resources. It is necessary, therefore, to define a key set of minimal fields can that provide maximum value. At the workshop, the following fields were described as candidates for inclusion in this list:
 
