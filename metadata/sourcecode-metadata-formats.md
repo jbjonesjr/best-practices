@@ -1,20 +1,22 @@
 # Metadata-driven source code discovery
 
-Many different schemes exist for software (source code) cataloging and discovery:
+Many different schemes and API generators exist for software (source code) cataloging and discovery:
 
 
-# Main Options
-* About.yml:  https://github.com/18F/about_yml
+## Key Options
 * JSON-LD +  Hydra:  http://www.markus-lanthaler.com/hydra/
+* About.yml:  https://github.com/18F/about_yml
 
 
 
-## Background: Metadata
+## Metadata
 * https://en.wikipedia.org/wiki/Metadata
 
 
-### Metadata Schems for Software
-I don't think it's seen broad adoption outside the context it's used by European governments for this purpose, but I should note ADMS.SW as a precedent for this. ADMS.SW builds on related schemas including DOAP, SPDX, ISO 19770-2, ADMS, and the Trove software map. cc: @makxdekkers
+
+### Metadata Schemes for Government Software
+
+EUROPE:  ADMS.SW is a scheme used for integrating and cataloging government software across European nations. ADMS.SW builds on related schemas including DOAP, SPDX, ISO 19770-2, ADMS, and the Trove software map.
 * ADMS.SW: https://joinup.ec.europa.eu/asset/adms_foss/description
 * DOAP: https://github.com/edumbill/doap/wiki
 * SPDX: http://spdx.org
