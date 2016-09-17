@@ -6,7 +6,7 @@
 * Software development and updates to VISTA therefore relies on on manual processes and legacy MUMPS-specific tools, making evolution challenging, slow, error prone, and technically incompatible with VA's development partners outside VA.
 * VA urgently needs an authoritative, industry-standard, open-source source code control system for VISTA to allow for its evolution.
 
-## An imperative to collaborate
+## An imperative for Government to collaborate
 * VA has migrated from innersourcing development of VISTA within VA, to relying on contractors developing VISTA outside VA.
 * VA's VISTA source code must therefore be accessible on common, open-source, industry-standard source control to allow for its evolution with VA's partners outside VA.
 * Currently the industry-standard source control system used by most U.S. Government agencies to collaborate with their industry partners is Github.  See [Github and Government](https://government.github.com)
