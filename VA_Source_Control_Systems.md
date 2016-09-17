@@ -1,12 +1,12 @@
-# VA Enterprise Source Code Control: What is the Strategy?
+# VA VISTA Source Code Control: What is the Strategy?
 
 
 ## The Issue
-* VA's core enterprise systems  are open-source and large (Some are in the millions lines of lines of code and tens of thousands of files, such as VISTA). These enterprise systems are **not** currently under source code control. 
-* The VA does not currently internally use current industry-standard source control systems to support these enterprise sytsems. 
-* Software development and updates to VA's enterprise systems rely on on manual processes and outdated tools, making evolution challenging, slow, and error prone.
-* VA needs an authoritative, industry-standard, open-source source code control system,  particularly for VA's large enterprise systems.
-* VA's code management repository must be open and accessible to all of VA's development partners outside VA.
+* VA's core enterprise systemsare open-source and large. Some are in the millions lines of lines of code and tens of thousands of files, such as VA VISTA.
+* VISTA - VA's  mission-critical enterprise system  is NOT under source code control.
+* Software development and updates to VISTA therefore relies on on manual processes and outdated tools, making evolution challenging, slow, error prone, and technically incompatible with VA's development partners outside VA.
+* VA urgently needs an authoritative, industry-standard, open-source source code control system for VISTA.
+* VA's VISTA code management repository must be open and accessible to all of VA's development partners outside VA.
 
 ## Background
 * All VA software tools are reviewed and listed in the VA Technical Reference Model (TRM), VA's software and tools catalog.
