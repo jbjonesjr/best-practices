@@ -3,10 +3,10 @@
 
 ## The Issue
 * VA's core enterprise systems  are open-source and large (Some are in the millions lines of lines of code and tens of thousands of files, such as VISTA). These enterprise systems are **not** currently under source code control. 
-* Software development and updates to VA's enterprise systems therefore rely on on manual processes or outdated tools, making evolution exceedingly slow and error prone.
+* The VA does not currently internally use current industry-standard source control systems to support these enterprise sytsems. 
+* Software development and updates to VA's enterprise systems rely on on manual processes and outdated tools, making evolution challenging, slow, and error prone.
 * VA needs an authoritative, industry-standard, open-source source code control system,  particularly for VA's large enterprise systems.
-* The VA does not currently formally approve  any of the current industry-standard source control systems to support these enterprise sytsems. 
-* VA's code management repository must be open and accessible to all of VA's development partners outside VA
+* VA's code management repository must be open and accessible to all of VA's development partners outside VA.
 
 ## Background
 * All VA software tools are reviewed and listed in the VA Technical Reference Model (TRM), VA's software and tools catalog.
