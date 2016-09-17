@@ -8,7 +8,7 @@
 
 ## An imperative to collaborate
 * VA has migrated from innersourcing development of VISTA within VA, to relying on contractors developing VISTA outside VA.
-* VA's VISTA source code must therefore be accessible on common, open-source, industry-standard source control to allow for its evolution with VA's partners outside VA which are also using this same source control technology.
+* VA's VISTA source code must therefore be accessible on common, open-source, industry-standard source control to allow for its evolution with VA's partners outside VA.
 * Currently the industry-standard source control system used by most U.S. Government agencies to collaborate with their industry partners is Github.
 
 ## Background
