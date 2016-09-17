@@ -9,7 +9,7 @@
 ## An imperative to collaborate
 * VA has migrated from innersourcing development of VISTA within VA, to relying on contractors developing VISTA outside VA.
 * VA's VISTA source code must therefore be accessible on common, open-source, industry-standard source control to allow for its evolution with VA's partners outside VA.
-* Currently the industry-standard source control system used by most U.S. Government agencies to collaborate with their industry partners is Github.
+* Currently the industry-standard source control system used by most U.S. Government agencies to collaborate with their industry partners is Github.  See [Github and Government](https://government.github.com)
 
 ## Background
 * All VA software tools are reviewed and listed in the VA Technical Reference Model (TRM), VA's software and tools catalog.
