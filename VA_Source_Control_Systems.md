@@ -2,8 +2,7 @@
 
 
 ## The Issue
-* VA's core enterprise system - VISTA - is open-source and large. It is in the millions lines of lines of code and tens of thousands of files.
-* VISTA is NOT under source code control.  
+* VA's core enterprise system - VISTA - is open-source and large. It is in the millions lines of lines of code and tens of thousands of files. However, VISTA is NOT under source code control.  
 * Software development and updates to VISTA therefore relies on on manual processes and legacy MUMPS-specific tools, making evolution challenging, slow, error prone, and technically incompatible with VA's development partners outside VA.
 * VA urgently needs an authoritative, industry-standard, open-source source code control system for VISTA to allow for its evolution.
 * VA's VISTA source code repository must be open and accessible to all of VA's development partners outside VA to allow for its evolution.
