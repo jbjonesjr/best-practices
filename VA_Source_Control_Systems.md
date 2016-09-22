@@ -20,17 +20,17 @@
 
 ## VA TRM: Source Code Version Control
 
-TRM Name	|	OSS	|	Purpose	|	Decision	|	TRM Link	|	Analysis
+TRM Name	|	OSS	|	Purpose	|	Approved	|	TRM Link	|	Analysis
 ---	|	---	|	---	|	---	|	---	|	---	
-Git	|	YES	|	DVCS	|	Unapproved	|	[6396](http://www.va.gov/TRM/ToolPage.asp?tid=6396)	|	An enterprise license has already been acquired for a comparable technology (?RTC)
-GitHub Desktop	|	YES	|	DVCS	|	Unapproved	|	[9452](http://www.va.gov/TRM/ToolPage.asp?tid=9452)	|	An enterprise license has already been acquired for a comparable technology. (?RTC)
-Github Enterprise	|	YES	|	DVCS	|	Unapproved	|	[9533](http://www.va.gov/TRM/ToolPage.asp?tid=9533)	|	An enterprise license has already been acquired for a comparable technology.(?RTC)
-GitLab	|	YES	|	DVCS	|	Unapproved	|	[9580](http://www.va.gov/TRM/ToolPage.asp?tid=9580)	|	An enterprise license has already been acquired for a comparable technology.(?RTC)
-GitLab Enterprise	|	YES	|	DVCS	|	Unapproved	|	[9463](http://www.va.gov/TRM/ToolPage.asp?tid=9463)	|	An enterprise license has already been acquired for a comparable technology.(?RTC)
-Subversion	|	YES	|	SVCS	|	Prohibited	|	[6573](http://www.va.gov/TRM/ToolPage.asp?tid=6573)	|	An enterprise license has already been acquired for a comparable technology.(?RTC)
-CVS	|	YES	|	SVCS	|	Prohibited	|	[194](http://www.va.gov/TRM/ToolPage.asp?tid=194)	|	Does not support atomic commits of changes to versioned objects.
-Perforce	|	NO	|	RCS	|	Prohibited	|	[268](http://www.va.gov/TRM/ToolPage.asp?tid=268)	|	An enterprise license has already been acquired for a comparable technology.(?RTC)
-Rational Team Concert (RTC) |	NO	|	Dev	|	Approved with Constraints	|	[5085](http://www.va.gov/TRM/ToolPage.asp?tid=5085)	|	IBM Jazz development/delivery environment. Note: While IBM still supports RTC for its external customers, it does not use RTC internally for code management. IBM has migrated all their source code to Github Enterprise. IBM's new cloud-based software platform called IBM Bluemix is also all Github-based.
+Git	|	YES	|	DVCS	|	NO	|	[6396](http://www.va.gov/TRM/ToolPage.asp?tid=6396)	|	An enterprise license has already been acquired for a comparable technology (?RTC)
+GitHub Desktop	|	YES	|	DVCS	|	NO	|	[9452](http://www.va.gov/TRM/ToolPage.asp?tid=9452)	|	An enterprise license has already been acquired for a comparable technology. (?RTC)
+Github Enterprise	|	YES	|	DVCS	|	NO	|	[9533](http://www.va.gov/TRM/ToolPage.asp?tid=9533)	|	An enterprise license has already been acquired for a comparable technology.(?RTC)
+GitLab	|	YES	|	DVCS	|	NO	|	[9580](http://www.va.gov/TRM/ToolPage.asp?tid=9580)	|	An enterprise license has already been acquired for a comparable technology.(?RTC)
+GitLab Enterprise	|	YES	|	DVCS	|	NO	|	[9463](http://www.va.gov/TRM/ToolPage.asp?tid=9463)	|	An enterprise license has already been acquired for a comparable technology.(?RTC)
+Subversion	|	YES	|	SVCS	|	NO	|	[6573](http://www.va.gov/TRM/ToolPage.asp?tid=6573)	|	An enterprise license has already been acquired for a comparable technology.(?RTC)
+CVS	|	YES	|	SVCS	|	NO	|	[194](http://www.va.gov/TRM/ToolPage.asp?tid=194)	|	Does not support atomic commits of changes to versioned objects.
+Perforce	|	NO	|	RCS	|	NO	|	[268](http://www.va.gov/TRM/ToolPage.asp?tid=268)	|	An enterprise license has already been acquired for a comparable technology.(?RTC)
+Rational Team Concert (RTC) |	NO	|	Dev	|	YES, with Constraints	|	[5085](http://www.va.gov/TRM/ToolPage.asp?tid=5085)	|	IBM Jazz development/delivery environment. Note: While IBM still supports RTC for its external customers, it does not use RTC internally for code management. IBM has migrated all their source code to Github Enterprise. IBM's new cloud-based software platform called IBM Bluemix is also all Github-based.
 
 
 ## References:
