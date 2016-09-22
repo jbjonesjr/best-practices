@@ -2,8 +2,8 @@
 
 
 ## The Issue
-* VHA's core enterprise system - VISTA - is open-source and large. It is in the millions lines of lines of code and tens of thousands of files. However, VISTA is NOT under source code control.  
-* Software development and updates to VISTA therefore relies on on manual processes and legacy MUMPS-specific tools, making evolution challenging, slow, error prone, and technically incompatible with VA's development partners outside VA.
+* VHA's core enterprise system - VISTA - is open-source and large. It is in the millions lines of lines of code and tens of thousands of files. 
+* VISTA however is NOT under source code control.  Software development on VA VISTA therefore relies on on __manual processes and legacy proprietary tools, making evolution challenging, slow, error prone__.
 * VA urgently needs an authoritative, industry-standard, open-source source code control system for VISTA to allow for its evolution.
 
 ## An imperative for VA to collaborate
@@ -11,20 +11,16 @@
 * VA's VISTA source code must therefore be accessible on common, open-source, industry-standard source control to allow for its evolution with VA's partners outside VA.
 * Currently the industry-standard source control system used by most U.S. Government agencies to collaborate with their industry partners is Github.  See [Github and Government](https://government.github.com)
 
-## Background
-* All VA software tools are reviewed and listed in the VA Technical Reference Model (TRM), VA's software and tools catalog.
-* The [TRM Categorization Framework](http://www.va.gov/TRM/CategorizationHelpPage.asp) does not have any category specific for source code version control.
-* Source code version control is subsumed under the broader [Software Change and Configuration Management Tools](http://www.va.gov/TRM/searchpage.asp?catId=46&catname=Software%20Change%20and%20Configuration%20Management%20Tools) category. This includes Configuration Management, Project Management, File Repositories, and proprietary development environments.
-* The subset of TRM Software Change and Configuration Management tools specific to source code version control are the following:
-
-
-## List of Version Control Systems
+## List of Version Control Systems (VCS)
 * https://en.wikipedia.org/wiki/Version_control
 * https://en.wikipedia.org/wiki/List_of_version_control_software
 
 
-
 ## VA TRM  Version Control Systems
+* All VA software tools are reviewed and listed in the VA Technical Reference Model (TRM), VA's software and tools catalog.
+* The [TRM Categorization Framework](http://www.va.gov/TRM/CategorizationHelpPage.asp) does not list any category for Version Control Systems (VCS)
+* Instead, VCS is subsumed under the broader [Software Change and Configuration Management Tools](http://www.va.gov/TRM/searchpage.asp?catId=46&catname=Software%20Change%20and%20Configuration%20Management%20Tools) category. This includes Configuration Management, Project Management, File Repositories, and proprietary development environments.
+
 
 TRM Name	|	OSS	|	Purpose	|	Approved	|	TRM Link	|	Analysis
 ---	|	---	|	---	|	---	|	---	|	---	
