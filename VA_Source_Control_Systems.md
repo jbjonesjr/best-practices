@@ -1,15 +1,16 @@
-# VA Source Control Systems: What is the Strategy?
+# VA Code Managment and Verson Control Systems: What is the Strategy?
 
 
 ## The Issue
 * VHA's core enterprise system - VISTA - is open-source and large. It is in the millions lines of lines of code and tens of thousands of files. 
-* VISTA however is NOT under source code control.  Software development on VA VISTA therefore relies on on __manual processes and legacy proprietary tools, making evolution challenging, slow, error prone__.
-* VA urgently needs an authoritative, industry-standard, open-source source code control system for VISTA to allow for its evolution.
+* VISTA however is NOT under version control.  Instead, VISTA's code is managed by __manual, paper-based processes and legacy proprietary tools, making evolution challenging, slow, error prone__.
+* VA urgently needs an authoritative, industry-standard, Version Control System for VISTA's code to allow for its management and evolution.
 
 ## An imperative for VA to collaborate
-* VA has migrated from innersourcing development of VISTA within VA, to relying on contractors developing VISTA outside VA.
+* VA has migrated from internal development of VISTA to relying on contractors developing VISTA outside VA.
+* Currently the industry-standard source control system used by most U.S. Government and in the Commercial sector is Github.  See [Github and Government](https://government.github.com)
 * VA's VISTA source code must therefore be accessible on common, open-source, industry-standard source control to allow for its evolution with VA's partners outside VA.
-* Currently the industry-standard source control system used by most U.S. Government agencies to collaborate with their industry partners is Github.  See [Github and Government](https://government.github.com)
+
 
 ## List of Version Control Systems (VCS)
 * https://en.wikipedia.org/wiki/Version_control
