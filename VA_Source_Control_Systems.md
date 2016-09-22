@@ -18,12 +18,13 @@
 * The subset of TRM Software Change and Configuration Management tools specific to source code version control are the following:
 
 
-## Wikpedia List of Version Control Systems
+## List of Version Control Systems
 * https://en.wikipedia.org/wiki/Version_control
 * https://en.wikipedia.org/wiki/List_of_version_control_software
 
 
-## VA TRM List of Version Control Systems
+
+## VA TRM  Version Control Systems
 
 TRM Name	|	OSS	|	Purpose	|	Approved	|	TRM Link	|	Analysis
 ---	|	---	|	---	|	---	|	---	|	---	
