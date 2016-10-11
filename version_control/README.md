@@ -35,4 +35,8 @@ This repository documents the TRM-acknowledged VCS tools, and provides details o
 
 It summarizes this research into a [comparison](./comparison.md) document and a set of  [recommendations](./recommendations.md) for amending the TRM going forward.
 
-These conclusions were based on defined [criteria](./criteria.md) reviewing [historical performance](./historicial_context.md), developer tooling [support](./ide-support.md), [ease of migration](migration_details.md) (in support of future advancements), and integration with the [Open Source Software](./oss-integration.md) community and the suite of [Rational Team Concert](./rtc-integration.md)
+These conclusions were based on defined [criteria](./criteria.md):
+* reviewing [historical performance](./historicial_context.md)
+* developer tooling [support](./ide-support.md)
+* [ease of migration](migration_details.md) (in support of future advancements)
+* integration with the [Open Source Software](./oss-integration.md) community & the suite of [Rational Team Concert](./rtc-integration.md) tools
