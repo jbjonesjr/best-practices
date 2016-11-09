@@ -2,8 +2,9 @@
 
 The centerpiece of modern collaborative software development and management is a single, authoritative, distrubuted, web-accessbile source code repository and source control system:
 
-![vista-devops](https://github.com/va-projects/best-practices/blob/master/VA%20VISTA%20Cloud%20DevOps.png)
-
+* What is the VA strategy going forward?  
+* Does it include these best practices and tools?
+* See:  [VA Source Control Strategy]( https://github.com/va-projects/best-practices/blob/master/VA_Source_Control_Systems.md)
 
 * __Enterprise Source Control:__  https://enterprise.github.com
 * __Enterprise Collaboration:__  https://github.com/integrations
@@ -11,9 +12,9 @@ The centerpiece of modern collaborative software development and management is a
 * __Government Best-Practices:__   https://github.com/government/best-practices
 
 
-What is the VA strategy going forward?  Does it include these best practices and tools?
+![vista-devops](https://github.com/va-projects/best-practices/blob/master/VA%20VISTA%20Cloud%20DevOps.png)
 
-See:  [VA Source Control Strategy]( https://github.com/va-projects/best-practices/blob/master/VA_Source_Control_Systems.md)
+
 
 
 
