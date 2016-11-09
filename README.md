@@ -1,5 +1,5 @@
 ## VA Software Development Best Practices
-The centerpiece of modern collaborative software development and management is a single, authoritative, distrubuted, web-accessbile source code repository and source control system:
+The centerpiece of modern collaborative software development and management is a single, authoritative, web-accessbile, distributed source code repository and version control system.
 
 * What is the VA strategy going forward?  
 * Does it include these best practices and tools?
