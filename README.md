@@ -2,7 +2,7 @@
 
 The centerpiece of modern collaborative software development and management is a single, authoritative, distrubuted, web-accessbile source code repository and source control system:
 
-https://github.com/va-projects/best-practices/blob/master/VA%20VISTA%20Cloud%20DevOps.png
+![vista-devops](https://github.com/va-projects/best-practices/blob/master/VA%20VISTA%20Cloud%20DevOps.png)
 
 
 * __Enterprise Source Control:__  https://enterprise.github.com
