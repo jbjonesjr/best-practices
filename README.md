@@ -7,9 +7,9 @@ The centerpiece of modern collaborative software development and management is a
 * [Government Code Collaboration](https://government.github.com)
 * [Government Code Best-Practices](https://github.com/government/best-practices)
 
-# Demo: VA Virtual Cloud DevOps
+# VA Virtual Cloud DevOps
 VA VISTA is comprised of nearly 5 million lines of code and over 37,000 routines. 
-All of these may be collaboratively and concurrently developed in real time by an unlimited number of programmers distributed within and outside the VA, maximizing efficiency of scale. This is planned as such:
+All of these may be collaboratively and concurrently developed in real time by an unlimited number of programmers distributed within and outside the VA via cloud-based, distributed DevOps as follows:
 
 ![vista-devops](https://github.com/va-projects/best-practices/blob/master/VISTA_Cloud_DevOps.png)
 
