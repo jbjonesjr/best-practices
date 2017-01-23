@@ -3,7 +3,7 @@
 * [Data Rights](https://github.com/vistadataproject/documents/blob/master/Submissions/src/VistAMetadata-2015-12-09-PWS.md#data-rights)
 * [Policy](https://github.com/vistadataproject/documents/blob/master/Submissions/src/VistAMetadata-2015-12-09-PWS.pdf)
 
-### PWS Language for Federal Source Code Policy Compliance
+### PWS Language for [Federal Source Code Policy Compliance](https://sourcecode.cio.gov/)
 
 ### 1 Data Rights
 
