@@ -15,7 +15,7 @@ The VA Technical Reference Model (TRM) is a catalog of software products with as
 The following is a list of products in the TRM which have some sort of code version-control system  (VCS) capability. Source code version control may be a core feature (Perforce, CVS, or Github and all Git-related technologies) or may be a non-core, plug-in feature which is replaceable with any other core VCS system (i.e. the Microsoft and IBM's project management tools have replaceable, plug-in VCS).
 
 | Manufacturer | Product | TRM Status |
-|:------- |:------- |:------:|:-------:|
+|:------- |:------- |:------:|
 | OSS | Git Server | [Divest](http://www.va.gov/TRM/ToolPage.asp?tid=6396) |
 | GitHub | GitHub Enterprise | [Divest](http://www.va.gov/TRM/ToolPage.asp?tid=9533#) |
 | GitLab | GitLab CE | [Unapproved](http://www.va.gov/TRM/ToolPage.asp?tid=9580) |
