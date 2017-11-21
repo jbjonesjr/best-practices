@@ -14,7 +14,7 @@ In comparison, RTC VCS has considerable gaps in its capability to import code an
 | When reviewing tools and techniques, we used tools officially supported by the VCS or had a long history of working successfully. |
 
 | | Git | GHE | GL CE | GL EE | SVN | CVS | Perforce | CC-Multi | RTC | Dim. | SCM | TFS | VSS |
-|:------- |:------- |:------:|:-------:|:-------:|:------:|:-------:|:------:|:------:|:-------:|:-------:|:------:|:-------:|:-------:|:------:|
+|:------- |:------:|:-------:|:-------:|:------:|:-------:|:------:|:------:|:-------:|:-------:|:------:|:-------:|:-------:|:------:|
 | Git | - | **X** | **X** | **X** | **X** | | **X** |  |  |   |  | | |
 | GitHub Enterprise | **X** | - | **X** | **X** | **X** | **X** | **X** | **X** | **X** | **X** | | **X** | **X** |
 | GitLab CE | **X** | **X** | - | **X** | **X** | **X** | **X** |  |  | **X** | | 
